@@ -1,0 +1,1501 @@
+product_id,product_name,category,brand,brand_tier,size,color,price,stock
+PROD-000001,Tommy Hilfiger Chinos DarkCyan,Pants,Tommy Hilfiger,Premium,M,Crimson,709.0,1
+PROD-000002,H&M Silk OldLace,Shirts,H&M,Fast Fashion,M,Gray,244.0,0
+PROD-000003,H&M Leather Snow,Jackets,H&M,Fast Fashion,M,Purple,214.0,0
+PROD-000004,H&M Business LightGray,Suits,H&M,Fast Fashion,M,GhostWhite,41.0,0
+PROD-000005,Zara Silk Aqua,Shirts,Zara,Fast Fashion,M,MediumTurquoise,205.0,74
+PROD-000006,Uniqlo Trench Tan,Jackets,Uniqlo,Fast Fashion,XL,BlueViolet,84.0,70
+PROD-000007,Balenciaga Oxford DeepSkyBlue,Shirts,Balenciaga,Luxury,M,Fuchsia,1533.0,0
+PROD-000008,Uniqlo Oxford NavajoWhite,Shirts,Uniqlo,Fast Fashion,M,AntiqueWhite,153.0,0
+PROD-000009,Prada Linen Violet,Shirts,Prada,Luxury,M,Lavender,4379.0,0
+PROD-000010,H&M Silk PaleVioletRed,Shirts,H&M,Fast Fashion,M,DarkKhaki,45.0,49
+PROD-000011,Uniqlo Maxi DeepSkyBlue,Dresses,Uniqlo,Fast Fashion,M,MediumBlue,205.0,32
+PROD-000012,Uniqlo Designer Jeans DarkCyan,Pants,Uniqlo,Fast Fashion,M,AntiqueWhite,88.0,5
+PROD-000013,Tommy Hilfiger Maxi Yellow,Dresses,Tommy Hilfiger,Premium,M,Pink,621.0,0
+PROD-000014,Calvin Klein Maxi Brown,Dresses,Calvin Klein,Premium,M,HotPink,483.0,0
+PROD-000015,Zara Silk Yellow,Shirts,Zara,Fast Fashion,M,Orange,150.0,81
+PROD-000016,Levi's Cocktail Coral,Dresses,Levi's,Premium,M,SkyBlue,187.0,0
+PROD-000017,Calvin Klein Tuxedo MintCream,Suits,Calvin Klein,Premium,M,Teal,584.0,0
+PROD-000018,Uniqlo Cocktail Chartreuse,Dresses,Uniqlo,Fast Fashion,M,FloralWhite,110.0,79
+PROD-000019,H&M Business SaddleBrown,Suits,H&M,Fast Fashion,M,Orange,249.0,36
+PROD-000020,Uniqlo Trench RosyBrown,Jackets,Uniqlo,Fast Fashion,S,White,179.0,82
+PROD-000021,Uniqlo Cocktail DarkSeaGreen,Dresses,Uniqlo,Fast Fashion,XS,Linen,72.0,52
+PROD-000022,Uniqlo Linen PaleVioletRed,Shirts,Uniqlo,Fast Fashion,L,Beige,56.0,0
+PROD-000023,Zara Evening Gown DarkOrchid,Dresses,Zara,Fast Fashion,L,DarkSalmon,216.0,92
+PROD-000024,H&M Trousers Maroon,Pants,H&M,Fast Fashion,L,DarkSlateBlue,72.0,33
+PROD-000025,H&M Linen GreenYellow,Shirts,H&M,Fast Fashion,S,MediumTurquoise,181.0,16
+PROD-000026,Uniqlo Business Tomato,Suits,Uniqlo,Fast Fashion,S,PapayaWhip,193.0,67
+PROD-000027,Tommy Hilfiger Evening Gown Tan,Dresses,Tommy Hilfiger,Premium,S,OrangeRed,347.0,0
+PROD-000028,Levi's Chinos Peru,Pants,Levi's,Premium,M,Olive,190.0,0
+PROD-000029,Zara Trench GreenYellow,Jackets,Zara,Fast Fashion,M,MediumSeaGreen,236.0,71
+PROD-000030,Levi's Chinos MediumVioletRed,Pants,Levi's,Premium,M,DeepSkyBlue,640.0,0
+PROD-000031,Uniqlo Tuxedo Orange,Suits,Uniqlo,Fast Fashion,M,DarkKhaki,29.0,22
+PROD-000032,Calvin Klein Evening Gown FireBrick,Dresses,Calvin Klein,Premium,M,Peru,787.0,0
+PROD-000033,H&M Silk OldLace,Shirts,H&M,Fast Fashion,M,LavenderBlush,81.0,0
+PROD-000034,H&M Trousers GreenYellow,Pants,H&M,Fast Fashion,M,WhiteSmoke,104.0,49
+PROD-000035,Uniqlo Evening Gown Aqua,Dresses,Uniqlo,Fast Fashion,L,SteelBlue,148.0,0
+PROD-000036,Calvin Klein Evening Gown IndianRed,Dresses,Calvin Klein,Premium,M,MediumSeaGreen,584.0,0
+PROD-000037,H&M Oxford Gray,Shirts,H&M,Fast Fashion,S,LavenderBlush,179.0,36
+PROD-000038,Zara Trousers Plum,Pants,Zara,Fast Fashion,L,FloralWhite,114.0,33
+PROD-000039,Uniqlo Trench Red,Jackets,Uniqlo,Fast Fashion,M,ForestGreen,229.0,44
+PROD-000040,Uniqlo Tuxedo SeaGreen,Suits,Uniqlo,Fast Fashion,M,Teal,264.0,0
+PROD-000041,Levi's Tuxedo SeaGreen,Suits,Levi's,Premium,M,Moccasin,569.0,0
+PROD-000042,Versace Three-piece RoyalBlue,Suits,Versace,Luxury,M,DarkCyan,2110.0,1
+PROD-000043,H&M Designer Jeans Sienna,Pants,H&M,Fast Fashion,L,LightGoldenRodYellow,70.0,40
+PROD-000044,Calvin Klein Linen OliveDrab,Shirts,Calvin Klein,Premium,M,DarkSlateGray,372.0,5
+PROD-000045,Uniqlo Linen Olive,Shirts,Uniqlo,Fast Fashion,XL,BlueViolet,208.0,69
+PROD-000046,H&M Trousers MistyRose,Pants,H&M,Fast Fashion,M,Linen,24.0,0
+PROD-000047,Uniqlo Chinos DarkGoldenRod,Pants,Uniqlo,Fast Fashion,S,Tomato,74.0,66
+PROD-000048,Tommy Hilfiger Cocktail Navy,Dresses,Tommy Hilfiger,Premium,S,Wheat,402.0,0
+PROD-000049,H&M Three-piece DeepPink,Suits,H&M,Fast Fashion,S,Fuchsia,45.0,20
+PROD-000050,Uniqlo Trench Gainsboro,Jackets,Uniqlo,Fast Fashion,L,AliceBlue,49.0,26
+PROD-000051,Gucci Leather DarkViolet,Jackets,Gucci,Luxury,M,SteelBlue,2014.0,0
+PROD-000052,Uniqlo Maxi LightSkyBlue,Dresses,Uniqlo,Fast Fashion,XL,DarkCyan,242.0,0
+PROD-000053,Calvin Klein Three-piece DarkSalmon,Suits,Calvin Klein,Premium,XL,Cornsilk,340.0,0
+PROD-000054,H&M Silk DarkViolet,Shirts,H&M,Fast Fashion,M,DarkCyan,99.0,10
+PROD-000055,Balenciaga Silk Bisque,Shirts,Balenciaga,Luxury,M,HotPink,3878.0,9
+PROD-000056,Uniqlo Linen DarkGoldenRod,Shirts,Uniqlo,Fast Fashion,M,MediumTurquoise,101.0,58
+PROD-000057,Zara Trench Orange,Jackets,Zara,Fast Fashion,L,DarkSalmon,194.0,31
+PROD-000058,Levi's Silk RoyalBlue,Shirts,Levi's,Premium,M,Sienna,560.0,0
+PROD-000059,Uniqlo Designer Jeans MediumSlateBlue,Pants,Uniqlo,Fast Fashion,XL,DeepPink,40.0,62
+PROD-000060,Gucci Bomber DarkOliveGreen,Jackets,Gucci,Luxury,XL,DarkRed,656.0,0
+PROD-000061,Zara Linen DodgerBlue,Shirts,Zara,Fast Fashion,L,DarkSlateBlue,96.0,73
+PROD-000062,Tommy Hilfiger Three-piece Lime,Suits,Tommy Hilfiger,Premium,XL,MediumTurquoise,564.0,0
+PROD-000063,Prada Business Navy,Suits,Prada,Luxury,M,Magenta,3575.0,0
+PROD-000064,H&M Trench Olive,Jackets,H&M,Fast Fashion,M,MidnightBlue,138.0,0
+PROD-000065,Zara Chinos Wheat,Pants,Zara,Fast Fashion,XS,Cyan,215.0,44
+PROD-000066,Uniqlo Designer Jeans GreenYellow,Pants,Uniqlo,Fast Fashion,M,Crimson,256.0,80
+PROD-000067,Tommy Hilfiger Trousers Linen,Pants,Tommy Hilfiger,Premium,S,SpringGreen,596.0,0
+PROD-000068,Uniqlo Oxford Gainsboro,Shirts,Uniqlo,Fast Fashion,M,Sienna,99.0,8
+PROD-000069,Uniqlo Cocktail PaleGreen,Dresses,Uniqlo,Fast Fashion,M,AntiqueWhite,49.0,50
+PROD-000070,Prada Leather AliceBlue,Jackets,Prada,Luxury,M,Thistle,1389.0,4
+PROD-000071,Uniqlo Bomber MistyRose,Jackets,Uniqlo,Fast Fashion,M,Fuchsia,74.0,24
+PROD-000072,H&M Silk PaleVioletRed,Shirts,H&M,Fast Fashion,L,LightYellow,202.0,34
+PROD-000073,Zara Three-piece Snow,Suits,Zara,Fast Fashion,M,Navy,300.0,41
+PROD-000074,H&M Chinos DarkTurquoise,Pants,H&M,Fast Fashion,L,MediumTurquoise,238.0,45
+PROD-000075,Levi's Maxi Gainsboro,Dresses,Levi's,Premium,L,Gainsboro,481.0,0
+PROD-000076,Levi's Linen HotPink,Shirts,Levi's,Premium,S,SeaGreen,466.0,6
+PROD-000077,Calvin Klein Linen DarkBlue,Shirts,Calvin Klein,Premium,L,PaleTurquoise,425.0,0
+PROD-000078,Calvin Klein Oxford SteelBlue,Shirts,Calvin Klein,Premium,S,DarkMagenta,464.0,0
+PROD-000079,Prada Linen LawnGreen,Shirts,Prada,Luxury,XL,DarkOrchid,2799.0,0
+PROD-000080,Zara Trench Peru,Jackets,Zara,Fast Fashion,XS,MediumPurple,126.0,0
+PROD-000081,H&M Evening Gown Pink,Dresses,H&M,Fast Fashion,XL,PowderBlue,233.0,0
+PROD-000082,Gucci Silk OldLace,Shirts,Gucci,Luxury,M,AntiqueWhite,4743.0,0
+PROD-000083,Tommy Hilfiger Three-piece DarkMagenta,Suits,Tommy Hilfiger,Premium,M,LightSalmon,199.0,0
+PROD-000084,Calvin Klein Evening Gown GoldenRod,Dresses,Calvin Klein,Premium,L,Aqua,749.0,0
+PROD-000085,Zara Silk MediumSpringGreen,Shirts,Zara,Fast Fashion,XS,LightBlue,25.0,12
+PROD-000086,Uniqlo Cocktail DarkRed,Dresses,Uniqlo,Fast Fashion,M,Red,90.0,70
+PROD-000087,Louis Vuitton Business WhiteSmoke,Suits,Louis Vuitton,Luxury,S,Gray,1455.0,0
+PROD-000088,Balenciaga Evening Gown DodgerBlue,Dresses,Balenciaga,Luxury,XS,SaddleBrown,2624.0,0
+PROD-000089,Zara Three-piece Chartreuse,Suits,Zara,Fast Fashion,M,SeaShell,139.0,50
+PROD-000090,Zara Leather LightGray,Jackets,Zara,Fast Fashion,M,ForestGreen,200.0,0
+PROD-000091,H&M Designer Jeans DarkOliveGreen,Pants,H&M,Fast Fashion,L,Red,155.0,12
+PROD-000092,Prada Chinos DarkViolet,Pants,Prada,Luxury,L,Chartreuse,3124.0,0
+PROD-000093,Calvin Klein Trench LightSeaGreen,Jackets,Calvin Klein,Premium,XL,Beige,626.0,0
+PROD-000094,Tommy Hilfiger Leather Gray,Jackets,Tommy Hilfiger,Premium,XS,Gray,260.0,0
+PROD-000095,Uniqlo Evening Gown FloralWhite,Dresses,Uniqlo,Fast Fashion,XL,GoldenRod,167.0,0
+PROD-000096,H&M Trench Gainsboro,Jackets,H&M,Fast Fashion,XS,Azure,45.0,5
+PROD-000097,Uniqlo Chinos FireBrick,Pants,Uniqlo,Fast Fashion,L,Aqua,126.0,75
+PROD-000098,H&M Tuxedo Lime,Suits,H&M,Fast Fashion,L,IndianRed,37.0,0
+PROD-000099,Uniqlo Cocktail DarkRed,Dresses,Uniqlo,Fast Fashion,L,PeachPuff,214.0,50
+PROD-000100,Levi's Business MediumSlateBlue,Suits,Levi's,Premium,S,SeaShell,607.0,0
+PROD-000101,Tommy Hilfiger Business MediumSpringGreen,Suits,Tommy Hilfiger,Premium,XL,LawnGreen,233.0,0
+PROD-000102,Uniqlo Cocktail Khaki,Dresses,Uniqlo,Fast Fashion,S,Sienna,147.0,82
+PROD-000103,Levi's Trench Wheat,Jackets,Levi's,Premium,L,Chocolate,462.0,0
+PROD-000104,H&M Chinos DarkRed,Pants,H&M,Fast Fashion,M,LightYellow,34.0,58
+PROD-000105,Gucci Trousers HotPink,Pants,Gucci,Luxury,XS,RosyBrown,4085.0,0
+PROD-000106,Tommy Hilfiger Chinos Cornsilk,Pants,Tommy Hilfiger,Premium,S,GoldenRod,522.0,0
+PROD-000107,Zara Chinos Orchid,Pants,Zara,Fast Fashion,S,Aqua,61.0,79
+PROD-000108,Tommy Hilfiger Silk Orchid,Shirts,Tommy Hilfiger,Premium,M,LightSlateGray,248.0,0
+PROD-000109,Versace Bomber SandyBrown,Jackets,Versace,Luxury,L,Olive,2424.0,1
+PROD-000110,Zara Business HoneyDew,Suits,Zara,Fast Fashion,M,DeepPink,237.0,11
+PROD-000111,Levi's Designer Jeans LightSkyBlue,Pants,Levi's,Premium,L,BlanchedAlmond,752.0,0
+PROD-000112,Zara Three-piece MediumAquaMarine,Suits,Zara,Fast Fashion,M,SpringGreen,172.0,39
+PROD-000113,Balenciaga Designer Jeans Green,Pants,Balenciaga,Luxury,S,WhiteSmoke,2049.0,0
+PROD-000114,H&M Maxi HotPink,Dresses,H&M,Fast Fashion,L,Green,283.0,86
+PROD-000115,Uniqlo Chinos Black,Pants,Uniqlo,Fast Fashion,M,DarkMagenta,73.0,11
+PROD-000116,H&M Chinos DarkRed,Pants,H&M,Fast Fashion,XL,MediumSeaGreen,160.0,13
+PROD-000117,Zara Business Blue,Suits,Zara,Fast Fashion,M,Peru,274.0,27
+PROD-000118,Uniqlo Oxford Linen,Shirts,Uniqlo,Fast Fashion,S,AntiqueWhite,63.0,43
+PROD-000119,Uniqlo Bomber Peru,Jackets,Uniqlo,Fast Fashion,M,PapayaWhip,66.0,22
+PROD-000120,Uniqlo Cocktail RosyBrown,Dresses,Uniqlo,Fast Fashion,L,PaleVioletRed,297.0,0
+PROD-000121,Uniqlo Three-piece FloralWhite,Suits,Uniqlo,Fast Fashion,L,BlueViolet,286.0,85
+PROD-000122,Gucci Oxford AntiqueWhite,Shirts,Gucci,Luxury,XL,Chartreuse,3303.0,0
+PROD-000123,H&M Three-piece Gold,Suits,H&M,Fast Fashion,S,Peru,58.0,28
+PROD-000124,Uniqlo Maxi Moccasin,Dresses,Uniqlo,Fast Fashion,S,Green,285.0,73
+PROD-000125,Zara Designer Jeans SeaShell,Pants,Zara,Fast Fashion,L,Azure,250.0,67
+PROD-000126,Louis Vuitton Three-piece Plum,Suits,Louis Vuitton,Luxury,L,Blue,1238.0,0
+PROD-000127,Levi's Evening Gown RosyBrown,Dresses,Levi's,Premium,M,Linen,173.0,0
+PROD-000128,Zara Silk PaleVioletRed,Shirts,Zara,Fast Fashion,L,LightCyan,235.0,86
+PROD-000129,Levi's Chinos SlateGray,Pants,Levi's,Premium,M,BlanchedAlmond,276.0,11
+PROD-000130,Levi's Leather Black,Jackets,Levi's,Premium,L,LightBlue,798.0,0
+PROD-000131,Zara Designer Jeans CadetBlue,Pants,Zara,Fast Fashion,S,Blue,143.0,62
+PROD-000132,H&M Linen Khaki,Shirts,H&M,Fast Fashion,S,DarkOliveGreen,176.0,34
+PROD-000133,Uniqlo Three-piece DeepPink,Suits,Uniqlo,Fast Fashion,L,Aqua,138.0,3
+PROD-000134,Zara Designer Jeans MediumTurquoise,Pants,Zara,Fast Fashion,M,DarkSeaGreen,288.0,14
+PROD-000135,H&M Designer Jeans Gold,Pants,H&M,Fast Fashion,S,Salmon,204.0,82
+PROD-000136,Zara Cocktail Orange,Dresses,Zara,Fast Fashion,L,LemonChiffon,232.0,0
+PROD-000137,Levi's Three-piece DarkRed,Suits,Levi's,Premium,S,Maroon,347.0,0
+PROD-000138,Zara Designer Jeans Turquoise,Pants,Zara,Fast Fashion,S,OliveDrab,128.0,46
+PROD-000139,Levi's Silk PeachPuff,Shirts,Levi's,Premium,S,DarkViolet,594.0,0
+PROD-000140,Uniqlo Evening Gown Orchid,Dresses,Uniqlo,Fast Fashion,XL,LightSkyBlue,105.0,33
+PROD-000141,Calvin Klein Maxi PaleVioletRed,Dresses,Calvin Klein,Premium,M,PaleGreen,460.0,9
+PROD-000142,Gucci Oxford DarkOrchid,Shirts,Gucci,Luxury,M,DarkOrchid,2824.0,0
+PROD-000143,Calvin Klein Evening Gown Ivory,Dresses,Calvin Klein,Premium,L,LightCoral,201.0,6
+PROD-000144,H&M Silk PapayaWhip,Shirts,H&M,Fast Fashion,L,Navy,167.0,44
+PROD-000145,Tommy Hilfiger Silk Black,Shirts,Tommy Hilfiger,Premium,L,DarkGray,205.0,6
+PROD-000146,H&M Tuxedo IndianRed,Suits,H&M,Fast Fashion,S,Khaki,177.0,0
+PROD-000147,Levi's Evening Gown DodgerBlue,Dresses,Levi's,Premium,XL,MintCream,436.0,0
+PROD-000148,Uniqlo Chinos PaleGreen,Pants,Uniqlo,Fast Fashion,L,DarkOrange,150.0,10
+PROD-000149,Calvin Klein Trench White,Jackets,Calvin Klein,Premium,L,Olive,272.0,0
+PROD-000150,Uniqlo Linen DarkOrange,Shirts,Uniqlo,Fast Fashion,XL,SeaShell,113.0,0
+PROD-000151,Calvin Klein Trench GreenYellow,Jackets,Calvin Klein,Premium,XS,CadetBlue,377.0,0
+PROD-000152,Zara Maxi CadetBlue,Dresses,Zara,Fast Fashion,S,CornflowerBlue,118.0,74
+PROD-000153,Uniqlo Bomber LavenderBlush,Jackets,Uniqlo,Fast Fashion,M,Red,296.0,8
+PROD-000154,H&M Business SteelBlue,Suits,H&M,Fast Fashion,L,Wheat,209.0,66
+PROD-000155,Tommy Hilfiger Linen DarkOrchid,Shirts,Tommy Hilfiger,Premium,S,Beige,256.0,7
+PROD-000156,Zara Designer Jeans Crimson,Pants,Zara,Fast Fashion,M,LawnGreen,101.0,78
+PROD-000157,Prada Leather BurlyWood,Jackets,Prada,Luxury,S,LightSteelBlue,4104.0,0
+PROD-000158,H&M Leather Lavender,Jackets,H&M,Fast Fashion,M,Magenta,219.0,0
+PROD-000159,Levi's Three-piece DeepSkyBlue,Suits,Levi's,Premium,XL,SkyBlue,471.0,0
+PROD-000160,H&M Maxi AntiqueWhite,Dresses,H&M,Fast Fashion,M,PaleVioletRed,155.0,17
+PROD-000161,Tommy Hilfiger Maxi Orchid,Dresses,Tommy Hilfiger,Premium,L,OrangeRed,564.0,0
+PROD-000162,Louis Vuitton Trousers GoldenRod,Pants,Louis Vuitton,Luxury,S,Silver,527.0,10
+PROD-000163,Tommy Hilfiger Cocktail LightBlue,Dresses,Tommy Hilfiger,Premium,M,CadetBlue,425.0,0
+PROD-000164,Zara Silk MediumPurple,Shirts,Zara,Fast Fashion,XS,MistyRose,82.0,78
+PROD-000165,Calvin Klein Maxi PeachPuff,Dresses,Calvin Klein,Premium,L,Lime,318.0,0
+PROD-000166,H&M Leather DarkGreen,Jackets,H&M,Fast Fashion,L,Silver,231.0,42
+PROD-000167,Levi's Trousers DarkViolet,Pants,Levi's,Premium,S,Purple,226.0,0
+PROD-000168,Zara Trench LightSeaGreen,Jackets,Zara,Fast Fashion,M,LightCyan,180.0,37
+PROD-000169,Calvin Klein Cocktail LightSalmon,Dresses,Calvin Klein,Premium,XL,BlanchedAlmond,315.0,0
+PROD-000170,Calvin Klein Chinos DarkRed,Pants,Calvin Klein,Premium,M,LightPink,755.0,0
+PROD-000171,Uniqlo Trousers Azure,Pants,Uniqlo,Fast Fashion,L,Cyan,121.0,19
+PROD-000172,H&M Linen Snow,Shirts,H&M,Fast Fashion,M,CadetBlue,87.0,30
+PROD-000173,H&M Bomber AliceBlue,Jackets,H&M,Fast Fashion,L,Sienna,129.0,12
+PROD-000174,Calvin Klein Trousers Pink,Pants,Calvin Klein,Premium,M,RosyBrown,441.0,0
+PROD-000175,Uniqlo Cocktail Linen,Dresses,Uniqlo,Fast Fashion,M,Gold,165.0,14
+PROD-000176,Uniqlo Leather DarkSeaGreen,Jackets,Uniqlo,Fast Fashion,XL,RosyBrown,199.0,56
+PROD-000177,Levi's Cocktail PaleGoldenRod,Dresses,Levi's,Premium,XS,GhostWhite,760.0,5
+PROD-000178,Uniqlo Maxi Bisque,Dresses,Uniqlo,Fast Fashion,L,Tomato,272.0,58
+PROD-000179,H&M Tuxedo LightCyan,Suits,H&M,Fast Fashion,S,SlateGray,253.0,54
+PROD-000180,Tommy Hilfiger Trench Black,Jackets,Tommy Hilfiger,Premium,M,DarkKhaki,318.0,0
+PROD-000181,Calvin Klein Leather FireBrick,Jackets,Calvin Klein,Premium,XL,OliveDrab,668.0,0
+PROD-000182,H&M Linen Salmon,Shirts,H&M,Fast Fashion,L,LightGoldenRodYellow,127.0,23
+PROD-000183,Zara Chinos RoyalBlue,Pants,Zara,Fast Fashion,M,MediumOrchid,197.0,63
+PROD-000184,Zara Leather Aqua,Jackets,Zara,Fast Fashion,M,Fuchsia,21.0,0
+PROD-000185,Levi's Tuxedo Ivory,Suits,Levi's,Premium,S,DarkSeaGreen,218.0,3
+PROD-000186,Uniqlo Silk LightSlateGray,Shirts,Uniqlo,Fast Fashion,XL,LightBlue,173.0,0
+PROD-000187,H&M Trousers LightSlateGray,Pants,H&M,Fast Fashion,S,Cornsilk,169.0,45
+PROD-000188,Uniqlo Maxi DarkMagenta,Dresses,Uniqlo,Fast Fashion,S,WhiteSmoke,137.0,52
+PROD-000189,Tommy Hilfiger Evening Gown Olive,Dresses,Tommy Hilfiger,Premium,M,Ivory,453.0,0
+PROD-000190,Zara Evening Gown BlueViolet,Dresses,Zara,Fast Fashion,S,Violet,267.0,61
+PROD-000191,Prada Maxi DarkSalmon,Dresses,Prada,Luxury,XS,PeachPuff,594.0,0
+PROD-000192,Zara Oxford Thistle,Shirts,Zara,Fast Fashion,L,NavajoWhite,260.0,32
+PROD-000193,Tommy Hilfiger Chinos Silver,Pants,Tommy Hilfiger,Premium,S,MediumSlateBlue,307.0,11
+PROD-000194,Tommy Hilfiger Three-piece MediumTurquoise,Suits,Tommy Hilfiger,Premium,XS,DarkGray,627.0,3
+PROD-000195,H&M Trench Snow,Jackets,H&M,Fast Fashion,L,LightGoldenRodYellow,54.0,12
+PROD-000196,Uniqlo Bomber YellowGreen,Jackets,Uniqlo,Fast Fashion,S,RosyBrown,103.0,55
+PROD-000197,Levi's Silk HotPink,Shirts,Levi's,Premium,XS,Brown,455.0,0
+PROD-000198,Zara Trench Azure,Jackets,Zara,Fast Fashion,M,DarkGoldenRod,282.0,0
+PROD-000199,Uniqlo Business Azure,Suits,Uniqlo,Fast Fashion,S,Orchid,41.0,28
+PROD-000200,Tommy Hilfiger Bomber DarkBlue,Jackets,Tommy Hilfiger,Premium,S,LightSteelBlue,679.0,1
+PROD-000201,H&M Business Pink,Suits,H&M,Fast Fashion,S,HotPink,90.0,12
+PROD-000202,Zara Silk DarkOliveGreen,Shirts,Zara,Fast Fashion,M,IndianRed,198.0,3
+PROD-000203,Uniqlo Silk NavajoWhite,Shirts,Uniqlo,Fast Fashion,L,PapayaWhip,37.0,0
+PROD-000204,Calvin Klein Cocktail DarkSeaGreen,Dresses,Calvin Klein,Premium,M,DarkOliveGreen,587.0,0
+PROD-000205,Zara Designer Jeans Lavender,Pants,Zara,Fast Fashion,M,Tan,109.0,16
+PROD-000206,Prada Trench OrangeRed,Jackets,Prada,Luxury,S,SeaShell,3871.0,2
+PROD-000207,Calvin Klein Trousers SlateBlue,Pants,Calvin Klein,Premium,S,Navy,703.0,7
+PROD-000208,Prada Bomber OldLace,Jackets,Prada,Luxury,L,NavajoWhite,2753.0,8
+PROD-000209,Zara Cocktail Maroon,Dresses,Zara,Fast Fashion,M,LightSalmon,182.0,64
+PROD-000210,Calvin Klein Evening Gown Aquamarine,Dresses,Calvin Klein,Premium,M,Salmon,468.0,0
+PROD-000211,H&M Business DodgerBlue,Suits,H&M,Fast Fashion,S,MediumVioletRed,259.0,45
+PROD-000212,Uniqlo Trousers WhiteSmoke,Pants,Uniqlo,Fast Fashion,M,Linen,268.0,53
+PROD-000213,Levi's Trench SkyBlue,Jackets,Levi's,Premium,M,LightSalmon,358.0,0
+PROD-000214,Zara Bomber AntiqueWhite,Jackets,Zara,Fast Fashion,S,PapayaWhip,72.0,27
+PROD-000215,Levi's Trench Salmon,Jackets,Levi's,Premium,XS,Salmon,465.0,0
+PROD-000216,Gucci Three-piece DarkCyan,Suits,Gucci,Luxury,M,Linen,1216.0,0
+PROD-000217,Levi's Linen Crimson,Shirts,Levi's,Premium,XS,Aqua,395.0,4
+PROD-000218,H&M Tuxedo Thistle,Suits,H&M,Fast Fashion,S,Orange,54.0,51
+PROD-000219,Zara Tuxedo SaddleBrown,Suits,Zara,Fast Fashion,L,DarkTurquoise,148.0,5
+PROD-000220,H&M Silk SpringGreen,Shirts,H&M,Fast Fashion,S,LavenderBlush,54.0,0
+PROD-000221,Zara Tuxedo LightGray,Suits,Zara,Fast Fashion,M,MintCream,243.0,47
+PROD-000222,Zara Linen SaddleBrown,Shirts,Zara,Fast Fashion,L,LemonChiffon,177.0,73
+PROD-000223,H&M Business CornflowerBlue,Suits,H&M,Fast Fashion,XL,Salmon,21.0,26
+PROD-000224,H&M Designer Jeans Tomato,Pants,H&M,Fast Fashion,L,Khaki,166.0,0
+PROD-000225,Uniqlo Leather Pink,Jackets,Uniqlo,Fast Fashion,S,RosyBrown,228.0,0
+PROD-000226,Uniqlo Maxi HoneyDew,Dresses,Uniqlo,Fast Fashion,L,Olive,260.0,68
+PROD-000227,Uniqlo Tuxedo Sienna,Suits,Uniqlo,Fast Fashion,L,DarkMagenta,200.0,4
+PROD-000228,Zara Tuxedo MediumOrchid,Suits,Zara,Fast Fashion,M,CadetBlue,181.0,61
+PROD-000229,Prada Chinos Navy,Pants,Prada,Luxury,XS,PowderBlue,3138.0,0
+PROD-000230,Calvin Klein Maxi Maroon,Dresses,Calvin Klein,Premium,S,Turquoise,226.0,0
+PROD-000231,Levi's Tuxedo DarkTurquoise,Suits,Levi's,Premium,M,OldLace,394.0,0
+PROD-000232,H&M Chinos DarkGreen,Pants,H&M,Fast Fashion,L,MediumBlue,228.0,31
+PROD-000233,H&M Oxford Moccasin,Shirts,H&M,Fast Fashion,L,ForestGreen,298.0,59
+PROD-000234,Tommy Hilfiger Three-piece Aquamarine,Suits,Tommy Hilfiger,Premium,S,Gray,576.0,0
+PROD-000235,H&M Tuxedo Navy,Suits,H&M,Fast Fashion,S,Cornsilk,160.0,52
+PROD-000236,Versace Oxford Violet,Shirts,Versace,Luxury,M,Salmon,1630.0,0
+PROD-000237,Zara Silk GhostWhite,Shirts,Zara,Fast Fashion,M,DarkGreen,227.0,45
+PROD-000238,Zara Chinos Gainsboro,Pants,Zara,Fast Fashion,S,DarkGoldenRod,184.0,22
+PROD-000239,Tommy Hilfiger Bomber DarkGoldenRod,Jackets,Tommy Hilfiger,Premium,S,MediumBlue,793.0,0
+PROD-000240,H&M Bomber LightSlateGray,Jackets,H&M,Fast Fashion,M,SlateBlue,154.0,78
+PROD-000241,Zara Cocktail LightYellow,Dresses,Zara,Fast Fashion,XL,LightSeaGreen,256.0,49
+PROD-000242,Zara Three-piece SlateBlue,Suits,Zara,Fast Fashion,XS,RoyalBlue,194.0,28
+PROD-000243,Tommy Hilfiger Bomber IndianRed,Jackets,Tommy Hilfiger,Premium,XS,MediumSeaGreen,754.0,0
+PROD-000244,Gucci Business FireBrick,Suits,Gucci,Luxury,S,GoldenRod,3545.0,4
+PROD-000245,H&M Trench GhostWhite,Jackets,H&M,Fast Fashion,S,DarkCyan,190.0,0
+PROD-000246,Gucci Evening Gown MediumPurple,Dresses,Gucci,Luxury,S,Orange,3759.0,0
+PROD-000247,H&M Linen WhiteSmoke,Shirts,H&M,Fast Fashion,M,Lime,45.0,79
+PROD-000248,Uniqlo Trench Purple,Jackets,Uniqlo,Fast Fashion,S,BlueViolet,189.0,67
+PROD-000249,Tommy Hilfiger Designer Jeans MidnightBlue,Pants,Tommy Hilfiger,Premium,M,SaddleBrown,646.0,0
+PROD-000250,Levi's Leather ForestGreen,Jackets,Levi's,Premium,S,FloralWhite,591.0,0
+PROD-000251,Tommy Hilfiger Linen DarkSlateBlue,Shirts,Tommy Hilfiger,Premium,XL,RoyalBlue,510.0,0
+PROD-000252,H&M Business Turquoise,Suits,H&M,Fast Fashion,M,LightGreen,246.0,50
+PROD-000253,Zara Evening Gown Linen,Dresses,Zara,Fast Fashion,S,Salmon,107.0,10
+PROD-000254,Calvin Klein Tuxedo Navy,Suits,Calvin Klein,Premium,S,Chocolate,180.0,0
+PROD-000255,H&M Trousers Red,Pants,H&M,Fast Fashion,M,MidnightBlue,89.0,0
+PROD-000256,Levi's Leather Crimson,Jackets,Levi's,Premium,M,MediumAquaMarine,630.0,0
+PROD-000257,Tommy Hilfiger Oxford MediumSpringGreen,Shirts,Tommy Hilfiger,Premium,XS,Snow,710.0,0
+PROD-000258,Zara Designer Jeans LightPink,Pants,Zara,Fast Fashion,L,Tan,48.0,85
+PROD-000259,Uniqlo Bomber LightPink,Jackets,Uniqlo,Fast Fashion,M,PowderBlue,25.0,70
+PROD-000260,H&M Maxi DarkCyan,Dresses,H&M,Fast Fashion,M,Salmon,113.0,57
+PROD-000261,Uniqlo Business Cornsilk,Suits,Uniqlo,Fast Fashion,S,LightGoldenRodYellow,261.0,70
+PROD-000262,Uniqlo Evening Gown Teal,Dresses,Uniqlo,Fast Fashion,M,Coral,264.0,21
+PROD-000263,H&M Silk Plum,Shirts,H&M,Fast Fashion,L,DarkViolet,113.0,21
+PROD-000264,H&M Three-piece PaleVioletRed,Suits,H&M,Fast Fashion,L,LightSalmon,284.0,50
+PROD-000265,Zara Linen SteelBlue,Shirts,Zara,Fast Fashion,M,Orange,160.0,31
+PROD-000266,Zara Bomber Chartreuse,Jackets,Zara,Fast Fashion,M,GreenYellow,108.0,32
+PROD-000267,Versace Leather DarkCyan,Jackets,Versace,Luxury,S,OrangeRed,708.0,0
+PROD-000268,Uniqlo Three-piece CadetBlue,Suits,Uniqlo,Fast Fashion,M,IndianRed,124.0,63
+PROD-000269,H&M Linen Chocolate,Shirts,H&M,Fast Fashion,M,Lime,52.0,26
+PROD-000270,Uniqlo Evening Gown DarkMagenta,Dresses,Uniqlo,Fast Fashion,L,LightSkyBlue,243.0,41
+PROD-000271,Gucci Linen LemonChiffon,Shirts,Gucci,Luxury,L,MediumBlue,1021.0,0
+PROD-000272,Uniqlo Chinos PapayaWhip,Pants,Uniqlo,Fast Fashion,M,Cyan,235.0,0
+PROD-000273,Tommy Hilfiger Three-piece Black,Suits,Tommy Hilfiger,Premium,M,MediumOrchid,380.0,0
+PROD-000274,H&M Tuxedo Khaki,Suits,H&M,Fast Fashion,M,SpringGreen,244.0,5
+PROD-000275,Zara Evening Gown CornflowerBlue,Dresses,Zara,Fast Fashion,S,DarkSalmon,139.0,67
+PROD-000276,Calvin Klein Designer Jeans DarkSeaGreen,Pants,Calvin Klein,Premium,L,AntiqueWhite,550.0,0
+PROD-000277,H&M Silk MediumSpringGreen,Shirts,H&M,Fast Fashion,M,DarkGray,177.0,0
+PROD-000278,Levi's Silk LightYellow,Shirts,Levi's,Premium,XS,DeepPink,570.0,0
+PROD-000279,Zara Designer Jeans Peru,Pants,Zara,Fast Fashion,S,LightGray,151.0,34
+PROD-000280,Uniqlo Maxi RosyBrown,Dresses,Uniqlo,Fast Fashion,S,HoneyDew,83.0,0
+PROD-000281,Prada Chinos Azure,Pants,Prada,Luxury,S,Maroon,4913.0,0
+PROD-000282,Levi's Evening Gown Green,Dresses,Levi's,Premium,S,Green,731.0,0
+PROD-000283,Gucci Leather Linen,Jackets,Gucci,Luxury,S,LightYellow,1048.0,0
+PROD-000284,Uniqlo Silk Cyan,Shirts,Uniqlo,Fast Fashion,L,MidnightBlue,120.0,0
+PROD-000285,Zara Evening Gown OliveDrab,Dresses,Zara,Fast Fashion,XS,Brown,252.0,92
+PROD-000286,Levi's Designer Jeans WhiteSmoke,Pants,Levi's,Premium,M,OliveDrab,336.0,1
+PROD-000287,Levi's Oxford HoneyDew,Shirts,Levi's,Premium,M,LavenderBlush,725.0,0
+PROD-000288,Zara Designer Jeans Plum,Pants,Zara,Fast Fashion,M,Snow,267.0,0
+PROD-000289,Zara Business LightGreen,Suits,Zara,Fast Fashion,XL,LightPink,160.0,74
+PROD-000290,Uniqlo Tuxedo PowderBlue,Suits,Uniqlo,Fast Fashion,M,BurlyWood,228.0,76
+PROD-000291,Zara Maxi LightYellow,Dresses,Zara,Fast Fashion,M,Purple,147.0,35
+PROD-000292,H&M Maxi Thistle,Dresses,H&M,Fast Fashion,S,OrangeRed,153.0,43
+PROD-000293,Uniqlo Cocktail SlateBlue,Dresses,Uniqlo,Fast Fashion,M,DarkOliveGreen,234.0,86
+PROD-000294,H&M Three-piece OliveDrab,Suits,H&M,Fast Fashion,XS,Turquoise,194.0,35
+PROD-000295,Uniqlo Trousers SkyBlue,Pants,Uniqlo,Fast Fashion,L,Navy,213.0,26
+PROD-000296,Zara Business DarkBlue,Suits,Zara,Fast Fashion,L,DarkSalmon,64.0,27
+PROD-000297,Zara Business CadetBlue,Suits,Zara,Fast Fashion,S,Gainsboro,218.0,0
+PROD-000298,Tommy Hilfiger Oxford PaleGoldenRod,Shirts,Tommy Hilfiger,Premium,S,IndianRed,560.0,1
+PROD-000299,H&M Leather Lime,Jackets,H&M,Fast Fashion,M,LightSkyBlue,48.0,11
+PROD-000300,Zara Designer Jeans MediumSlateBlue,Pants,Zara,Fast Fashion,S,DarkSalmon,74.0,8
+PROD-000301,H&M Business BurlyWood,Suits,H&M,Fast Fashion,M,Tomato,26.0,36
+PROD-000302,H&M Evening Gown SeaGreen,Dresses,H&M,Fast Fashion,M,DarkCyan,209.0,64
+PROD-000303,H&M Tuxedo Lavender,Suits,H&M,Fast Fashion,M,Thistle,288.0,2
+PROD-000304,Zara Chinos Coral,Pants,Zara,Fast Fashion,XS,Blue,140.0,35
+PROD-000305,Uniqlo Trench Peru,Jackets,Uniqlo,Fast Fashion,M,MediumPurple,197.0,49
+PROD-000306,H&M Trench ForestGreen,Jackets,H&M,Fast Fashion,M,Thistle,90.0,26
+PROD-000307,Zara Evening Gown IndianRed,Dresses,Zara,Fast Fashion,S,SlateBlue,268.0,45
+PROD-000308,Uniqlo Trench Purple,Jackets,Uniqlo,Fast Fashion,M,FireBrick,120.0,59
+PROD-000309,Calvin Klein Silk RosyBrown,Shirts,Calvin Klein,Premium,XL,White,398.0,0
+PROD-000310,Zara Trench SpringGreen,Jackets,Zara,Fast Fashion,XL,Tan,209.0,7
+PROD-000311,Tommy Hilfiger Silk SeaGreen,Shirts,Tommy Hilfiger,Premium,M,MistyRose,595.0,0
+PROD-000312,Zara Designer Jeans SeaShell,Pants,Zara,Fast Fashion,S,OrangeRed,128.0,52
+PROD-000313,Zara Chinos Navy,Pants,Zara,Fast Fashion,XS,LightPink,91.0,60
+PROD-000314,H&M Linen GoldenRod,Shirts,H&M,Fast Fashion,M,SkyBlue,184.0,32
+PROD-000315,H&M Trench SlateGray,Jackets,H&M,Fast Fashion,S,SaddleBrown,278.0,74
+PROD-000316,Uniqlo Leather LightGoldenRodYellow,Jackets,Uniqlo,Fast Fashion,S,OliveDrab,287.0,0
+PROD-000317,Versace Evening Gown Violet,Dresses,Versace,Luxury,L,LimeGreen,4857.0,0
+PROD-000318,Tommy Hilfiger Silk DarkOrange,Shirts,Tommy Hilfiger,Premium,L,Yellow,655.0,0
+PROD-000319,Zara Cocktail MediumOrchid,Dresses,Zara,Fast Fashion,XS,DarkOliveGreen,100.0,37
+PROD-000320,Calvin Klein Bomber Orchid,Jackets,Calvin Klein,Premium,XL,DarkOliveGreen,467.0,0
+PROD-000321,Versace Bomber LightPink,Jackets,Versace,Luxury,M,Gold,2717.0,0
+PROD-000322,Zara Business GhostWhite,Suits,Zara,Fast Fashion,L,LightSkyBlue,128.0,6
+PROD-000323,Zara Leather LightBlue,Jackets,Zara,Fast Fashion,M,Chocolate,272.0,76
+PROD-000324,Uniqlo Evening Gown Wheat,Dresses,Uniqlo,Fast Fashion,M,Green,298.0,0
+PROD-000325,Tommy Hilfiger Designer Jeans BurlyWood,Pants,Tommy Hilfiger,Premium,L,LightPink,355.0,15
+PROD-000326,Zara Linen DarkMagenta,Shirts,Zara,Fast Fashion,S,Tomato,259.0,0
+PROD-000327,H&M Chinos Cyan,Pants,H&M,Fast Fashion,M,MediumOrchid,180.0,23
+PROD-000328,H&M Designer Jeans PowderBlue,Pants,H&M,Fast Fashion,XL,LawnGreen,278.0,64
+PROD-000329,H&M Linen PowderBlue,Shirts,H&M,Fast Fashion,M,Coral,223.0,9
+PROD-000330,Zara Maxi DarkGoldenRod,Dresses,Zara,Fast Fashion,XL,PeachPuff,272.0,30
+PROD-000331,Zara Trousers MediumSpringGreen,Pants,Zara,Fast Fashion,L,LightCoral,291.0,37
+PROD-000332,H&M Chinos BlanchedAlmond,Pants,H&M,Fast Fashion,S,LightBlue,240.0,29
+PROD-000333,Tommy Hilfiger Evening Gown MediumAquaMarine,Dresses,Tommy Hilfiger,Premium,L,DarkSlateBlue,420.0,0
+PROD-000334,Gucci Trench Indigo,Jackets,Gucci,Luxury,M,MintCream,3926.0,0
+PROD-000335,Uniqlo Business Cornsilk,Suits,Uniqlo,Fast Fashion,S,LightBlue,121.0,0
+PROD-000336,Levi's Tuxedo Aquamarine,Suits,Levi's,Premium,L,MediumTurquoise,536.0,0
+PROD-000337,Calvin Klein Trousers PaleVioletRed,Pants,Calvin Klein,Premium,XL,BlanchedAlmond,156.0,0
+PROD-000338,H&M Designer Jeans YellowGreen,Pants,H&M,Fast Fashion,M,DarkTurquoise,101.0,72
+PROD-000339,H&M Bomber MediumTurquoise,Jackets,H&M,Fast Fashion,L,DarkSlateGray,72.0,16
+PROD-000340,Uniqlo Bomber Thistle,Jackets,Uniqlo,Fast Fashion,XS,Olive,67.0,3
+PROD-000341,Calvin Klein Leather SeaShell,Jackets,Calvin Klein,Premium,S,Orchid,366.0,0
+PROD-000342,Tommy Hilfiger Leather MediumOrchid,Jackets,Tommy Hilfiger,Premium,M,Aquamarine,743.0,0
+PROD-000343,Uniqlo Cocktail DarkKhaki,Dresses,Uniqlo,Fast Fashion,S,LightYellow,233.0,63
+PROD-000344,Calvin Klein Evening Gown BurlyWood,Dresses,Calvin Klein,Premium,XS,BlueViolet,223.0,4
+PROD-000345,H&M Tuxedo SteelBlue,Suits,H&M,Fast Fashion,M,DarkGoldenRod,258.0,0
+PROD-000346,H&M Oxford Tomato,Shirts,H&M,Fast Fashion,M,AliceBlue,270.0,0
+PROD-000347,Tommy Hilfiger Silk Pink,Shirts,Tommy Hilfiger,Premium,M,DarkGray,523.0,0
+PROD-000348,Uniqlo Tuxedo Purple,Suits,Uniqlo,Fast Fashion,L,Indigo,45.0,0
+PROD-000349,Levi's Bomber Bisque,Jackets,Levi's,Premium,S,Khaki,449.0,2
+PROD-000350,Prada Leather YellowGreen,Jackets,Prada,Luxury,M,DimGray,3857.0,0
+PROD-000351,Levi's Silk Moccasin,Shirts,Levi's,Premium,XL,IndianRed,582.0,0
+PROD-000352,Levi's Tuxedo DarkGoldenRod,Suits,Levi's,Premium,L,GreenYellow,625.0,8
+PROD-000353,Tommy Hilfiger Trousers Chocolate,Pants,Tommy Hilfiger,Premium,S,PaleGoldenRod,608.0,0
+PROD-000354,Zara Three-piece FireBrick,Suits,Zara,Fast Fashion,L,FireBrick,52.0,0
+PROD-000355,Levi's Trousers PapayaWhip,Pants,Levi's,Premium,M,HoneyDew,759.0,2
+PROD-000356,Tommy Hilfiger Maxi Olive,Dresses,Tommy Hilfiger,Premium,M,GhostWhite,489.0,0
+PROD-000357,Uniqlo Leather Navy,Jackets,Uniqlo,Fast Fashion,M,Ivory,39.0,75
+PROD-000358,Levi's Cocktail Navy,Dresses,Levi's,Premium,L,CornflowerBlue,598.0,0
+PROD-000359,Calvin Klein Bomber Black,Jackets,Calvin Klein,Premium,XS,Orchid,363.0,0
+PROD-000360,H&M Trousers DarkCyan,Pants,H&M,Fast Fashion,M,LightBlue,78.0,59
+PROD-000361,Uniqlo Linen DarkOrange,Shirts,Uniqlo,Fast Fashion,M,Turquoise,222.0,75
+PROD-000362,Levi's Silk LightCoral,Shirts,Levi's,Premium,XL,DarkBlue,417.0,0
+PROD-000363,Zara Trousers Fuchsia,Pants,Zara,Fast Fashion,XS,Cornsilk,118.0,25
+PROD-000364,Uniqlo Tuxedo DarkSalmon,Suits,Uniqlo,Fast Fashion,XS,LightYellow,253.0,81
+PROD-000365,Uniqlo Designer Jeans LightCyan,Pants,Uniqlo,Fast Fashion,M,DimGray,194.0,9
+PROD-000366,Louis Vuitton Maxi Silver,Dresses,Louis Vuitton,Luxury,M,Yellow,2562.0,0
+PROD-000367,Calvin Klein Designer Jeans Beige,Pants,Calvin Klein,Premium,S,Crimson,188.0,0
+PROD-000368,Versace Chinos YellowGreen,Pants,Versace,Luxury,L,White,3967.0,0
+PROD-000369,Uniqlo Three-piece RoyalBlue,Suits,Uniqlo,Fast Fashion,M,Chocolate,299.0,36
+PROD-000370,H&M Trousers DarkOrange,Pants,H&M,Fast Fashion,XL,Silver,69.0,58
+PROD-000371,Tommy Hilfiger Bomber Violet,Jackets,Tommy Hilfiger,Premium,XL,Chocolate,224.0,0
+PROD-000372,H&M Bomber Snow,Jackets,H&M,Fast Fashion,S,LightSlateGray,134.0,25
+PROD-000373,Tommy Hilfiger Bomber Green,Jackets,Tommy Hilfiger,Premium,L,Lavender,153.0,0
+PROD-000374,Zara Designer Jeans DarkOrange,Pants,Zara,Fast Fashion,M,Bisque,299.0,81
+PROD-000375,Tommy Hilfiger Maxi LightSkyBlue,Dresses,Tommy Hilfiger,Premium,XL,AntiqueWhite,602.0,0
+PROD-000376,Uniqlo Linen BlanchedAlmond,Shirts,Uniqlo,Fast Fashion,M,Beige,122.0,80
+PROD-000377,Uniqlo Chinos ForestGreen,Pants,Uniqlo,Fast Fashion,M,MidnightBlue,221.0,72
+PROD-000378,Balenciaga Silk MediumOrchid,Shirts,Balenciaga,Luxury,L,LawnGreen,1906.0,0
+PROD-000379,Uniqlo Linen LemonChiffon,Shirts,Uniqlo,Fast Fashion,M,Aqua,53.0,69
+PROD-000380,Uniqlo Silk DarkOliveGreen,Shirts,Uniqlo,Fast Fashion,S,Thistle,134.0,35
+PROD-000381,H&M Cocktail OrangeRed,Dresses,H&M,Fast Fashion,L,Chocolate,127.0,35
+PROD-000382,Tommy Hilfiger Tuxedo MediumTurquoise,Suits,Tommy Hilfiger,Premium,M,LightSteelBlue,236.0,0
+PROD-000383,Uniqlo Trousers PowderBlue,Pants,Uniqlo,Fast Fashion,M,CornflowerBlue,254.0,75
+PROD-000384,H&M Evening Gown Purple,Dresses,H&M,Fast Fashion,XS,Chartreuse,22.0,34
+PROD-000385,Calvin Klein Trench DarkOrchid,Jackets,Calvin Klein,Premium,XS,DeepSkyBlue,743.0,0
+PROD-000386,Zara Bomber LemonChiffon,Jackets,Zara,Fast Fashion,M,Tan,170.0,2
+PROD-000387,Tommy Hilfiger Leather MistyRose,Jackets,Tommy Hilfiger,Premium,M,Orange,359.0,0
+PROD-000388,H&M Three-piece Beige,Suits,H&M,Fast Fashion,XL,Ivory,70.0,67
+PROD-000389,Zara Business MediumSpringGreen,Suits,Zara,Fast Fashion,S,Orange,188.0,0
+PROD-000390,H&M Linen Ivory,Shirts,H&M,Fast Fashion,M,LightCoral,161.0,42
+PROD-000391,H&M Trench Navy,Jackets,H&M,Fast Fashion,L,SlateBlue,240.0,28
+PROD-000392,Calvin Klein Silk LimeGreen,Shirts,Calvin Klein,Premium,S,Fuchsia,687.0,0
+PROD-000393,Versace Linen Thistle,Shirts,Versace,Luxury,S,GhostWhite,4614.0,0
+PROD-000394,Levi's Trousers SteelBlue,Pants,Levi's,Premium,S,LightSteelBlue,289.0,0
+PROD-000395,Levi's Cocktail Pink,Dresses,Levi's,Premium,S,DarkBlue,238.0,0
+PROD-000396,Zara Bomber Chocolate,Jackets,Zara,Fast Fashion,XL,OliveDrab,61.0,61
+PROD-000397,Zara Business DarkOrchid,Suits,Zara,Fast Fashion,XL,Aquamarine,191.0,74
+PROD-000398,H&M Trench MintCream,Jackets,H&M,Fast Fashion,M,SeaGreen,215.0,35
+PROD-000399,Levi's Tuxedo DeepSkyBlue,Suits,Levi's,Premium,M,MidnightBlue,554.0,8
+PROD-000400,Tommy Hilfiger Three-piece DarkKhaki,Suits,Tommy Hilfiger,Premium,L,GoldenRod,718.0,0
+PROD-000401,H&M Three-piece LightSalmon,Suits,H&M,Fast Fashion,S,Ivory,63.0,11
+PROD-000402,Zara Oxford Wheat,Shirts,Zara,Fast Fashion,L,Olive,237.0,57
+PROD-000403,Calvin Klein Silk DeepPink,Shirts,Calvin Klein,Premium,L,Green,196.0,7
+PROD-000404,Levi's Designer Jeans DarkSlateGray,Pants,Levi's,Premium,M,MediumAquaMarine,357.0,0
+PROD-000405,Zara Business Blue,Suits,Zara,Fast Fashion,XL,Lavender,267.0,26
+PROD-000406,Tommy Hilfiger Chinos Maroon,Pants,Tommy Hilfiger,Premium,S,HotPink,766.0,2
+PROD-000407,H&M Designer Jeans DarkOrange,Pants,H&M,Fast Fashion,XS,Turquoise,216.0,27
+PROD-000408,Calvin Klein Cocktail PaleVioletRed,Dresses,Calvin Klein,Premium,M,Pink,484.0,0
+PROD-000409,Balenciaga Bomber Wheat,Jackets,Balenciaga,Luxury,M,MediumBlue,4814.0,0
+PROD-000410,Uniqlo Maxi Bisque,Dresses,Uniqlo,Fast Fashion,S,Azure,181.0,0
+PROD-000411,Gucci Trench Azure,Jackets,Gucci,Luxury,L,LightBlue,3874.0,0
+PROD-000412,Louis Vuitton Silk LightGreen,Shirts,Louis Vuitton,Luxury,XS,Cornsilk,3380.0,0
+PROD-000413,Zara Chinos Ivory,Pants,Zara,Fast Fashion,XS,Maroon,129.0,0
+PROD-000414,Uniqlo Tuxedo LightCyan,Suits,Uniqlo,Fast Fashion,S,LightPink,203.0,0
+PROD-000415,Levi's Maxi Thistle,Dresses,Levi's,Premium,S,FireBrick,217.0,0
+PROD-000416,Calvin Klein Tuxedo Sienna,Suits,Calvin Klein,Premium,M,SaddleBrown,736.0,0
+PROD-000417,Tommy Hilfiger Trousers Cyan,Pants,Tommy Hilfiger,Premium,M,LimeGreen,773.0,0
+PROD-000418,Zara Silk LightSkyBlue,Shirts,Zara,Fast Fashion,S,DarkGreen,191.0,57
+PROD-000419,H&M Tuxedo Ivory,Suits,H&M,Fast Fashion,S,DarkOrange,241.0,68
+PROD-000420,H&M Trousers Peru,Pants,H&M,Fast Fashion,S,PapayaWhip,64.0,17
+PROD-000421,Calvin Klein Trousers BlueViolet,Pants,Calvin Klein,Premium,M,MediumPurple,653.0,0
+PROD-000422,Zara Maxi PaleGreen,Dresses,Zara,Fast Fashion,M,Lime,177.0,53
+PROD-000423,Uniqlo Designer Jeans Olive,Pants,Uniqlo,Fast Fashion,S,MediumSlateBlue,203.0,18
+PROD-000424,H&M Leather LightSeaGreen,Jackets,H&M,Fast Fashion,M,Red,166.0,80
+PROD-000425,H&M Tuxedo LightSlateGray,Suits,H&M,Fast Fashion,M,MistyRose,263.0,24
+PROD-000426,Tommy Hilfiger Three-piece LightGreen,Suits,Tommy Hilfiger,Premium,S,DarkCyan,248.0,0
+PROD-000427,H&M Linen Sienna,Shirts,H&M,Fast Fashion,S,YellowGreen,300.0,85
+PROD-000428,Uniqlo Silk Khaki,Shirts,Uniqlo,Fast Fashion,S,IndianRed,190.0,23
+PROD-000429,H&M Tuxedo LightSalmon,Suits,H&M,Fast Fashion,M,Silver,79.0,73
+PROD-000430,Uniqlo Trousers BurlyWood,Pants,Uniqlo,Fast Fashion,XS,MistyRose,184.0,51
+PROD-000431,Uniqlo Trench Coral,Jackets,Uniqlo,Fast Fashion,XL,MediumTurquoise,120.0,48
+PROD-000432,Calvin Klein Cocktail LightYellow,Dresses,Calvin Klein,Premium,M,PaleTurquoise,218.0,6
+PROD-000433,Uniqlo Linen LightSalmon,Shirts,Uniqlo,Fast Fashion,XL,Olive,240.0,79
+PROD-000434,Uniqlo Cocktail DarkRed,Dresses,Uniqlo,Fast Fashion,S,Turquoise,36.0,44
+PROD-000435,Tommy Hilfiger Trench SeaGreen,Jackets,Tommy Hilfiger,Premium,M,Maroon,233.0,0
+PROD-000436,Levi's Evening Gown FireBrick,Dresses,Levi's,Premium,M,SpringGreen,456.0,0
+PROD-000437,Levi's Oxford MediumTurquoise,Shirts,Levi's,Premium,L,Linen,209.0,6
+PROD-000438,Uniqlo Designer Jeans MediumBlue,Pants,Uniqlo,Fast Fashion,L,Lime,120.0,62
+PROD-000439,Tommy Hilfiger Tuxedo Orchid,Suits,Tommy Hilfiger,Premium,S,Gray,436.0,2
+PROD-000440,Zara Trousers YellowGreen,Pants,Zara,Fast Fashion,L,White,289.0,6
+PROD-000441,Tommy Hilfiger Leather PaleVioletRed,Jackets,Tommy Hilfiger,Premium,L,MediumVioletRed,510.0,0
+PROD-000442,Zara Designer Jeans MediumVioletRed,Pants,Zara,Fast Fashion,L,LemonChiffon,39.0,83
+PROD-000443,Versace Cocktail DarkRed,Dresses,Versace,Luxury,XL,DarkGray,3705.0,6
+PROD-000444,Calvin Klein Linen GhostWhite,Shirts,Calvin Klein,Premium,S,ForestGreen,505.0,0
+PROD-000445,Calvin Klein Trousers Chocolate,Pants,Calvin Klein,Premium,M,MintCream,284.0,0
+PROD-000446,H&M Three-piece Orange,Suits,H&M,Fast Fashion,M,SlateBlue,213.0,18
+PROD-000447,Tommy Hilfiger Chinos Peru,Pants,Tommy Hilfiger,Premium,S,MediumSpringGreen,627.0,0
+PROD-000448,Levi's Maxi SteelBlue,Dresses,Levi's,Premium,M,PaleTurquoise,678.0,0
+PROD-000449,Uniqlo Silk Ivory,Shirts,Uniqlo,Fast Fashion,L,Red,225.0,33
+PROD-000450,Uniqlo Designer Jeans MediumOrchid,Pants,Uniqlo,Fast Fashion,M,LightGreen,253.0,83
+PROD-000451,Tommy Hilfiger Oxford Cyan,Shirts,Tommy Hilfiger,Premium,XL,Tan,584.0,0
+PROD-000452,Levi's Linen Magenta,Shirts,Levi's,Premium,L,Snow,230.0,6
+PROD-000453,Uniqlo Maxi MidnightBlue,Dresses,Uniqlo,Fast Fashion,M,PaleVioletRed,250.0,39
+PROD-000454,Tommy Hilfiger Oxford FloralWhite,Shirts,Tommy Hilfiger,Premium,M,Snow,291.0,0
+PROD-000455,Gucci Linen LemonChiffon,Shirts,Gucci,Luxury,S,OldLace,3469.0,0
+PROD-000456,Uniqlo Evening Gown MediumSpringGreen,Dresses,Uniqlo,Fast Fashion,M,GreenYellow,123.0,28
+PROD-000457,Zara Trousers GoldenRod,Pants,Zara,Fast Fashion,M,Fuchsia,256.0,16
+PROD-000458,Uniqlo Oxford PaleGreen,Shirts,Uniqlo,Fast Fashion,M,MediumPurple,293.0,10
+PROD-000459,Uniqlo Bomber LimeGreen,Jackets,Uniqlo,Fast Fashion,S,GoldenRod,64.0,87
+PROD-000460,Calvin Klein Tuxedo CadetBlue,Suits,Calvin Klein,Premium,M,PaleGoldenRod,349.0,11
+PROD-000461,Calvin Klein Leather RoyalBlue,Jackets,Calvin Klein,Premium,XL,SaddleBrown,334.0,0
+PROD-000462,H&M Evening Gown SeaShell,Dresses,H&M,Fast Fashion,S,Indigo,174.0,66
+PROD-000463,Uniqlo Designer Jeans DarkOrchid,Pants,Uniqlo,Fast Fashion,L,IndianRed,150.0,54
+PROD-000464,Balenciaga Business LightSeaGreen,Suits,Balenciaga,Luxury,XS,IndianRed,2417.0,0
+PROD-000465,Calvin Klein Leather Thistle,Jackets,Calvin Klein,Premium,XS,Turquoise,358.0,0
+PROD-000466,Calvin Klein Chinos SlateBlue,Pants,Calvin Klein,Premium,XL,Purple,239.0,0
+PROD-000467,Gucci Business Gainsboro,Suits,Gucci,Luxury,M,DarkSalmon,3805.0,0
+PROD-000468,H&M Silk IndianRed,Shirts,H&M,Fast Fashion,S,DarkOrchid,135.0,38
+PROD-000469,Zara Tuxedo AntiqueWhite,Suits,Zara,Fast Fashion,XS,DarkKhaki,134.0,0
+PROD-000470,Uniqlo Trench MistyRose,Jackets,Uniqlo,Fast Fashion,XS,Pink,77.0,59
+PROD-000471,Uniqlo Business PaleTurquoise,Suits,Uniqlo,Fast Fashion,M,PapayaWhip,290.0,0
+PROD-000472,Zara Silk LimeGreen,Shirts,Zara,Fast Fashion,M,IndianRed,230.0,80
+PROD-000473,Calvin Klein Silk PowderBlue,Shirts,Calvin Klein,Premium,M,SkyBlue,333.0,4
+PROD-000474,Calvin Klein Three-piece Pink,Suits,Calvin Klein,Premium,S,PeachPuff,462.0,13
+PROD-000475,Levi's Bomber DarkOliveGreen,Jackets,Levi's,Premium,L,FireBrick,420.0,0
+PROD-000476,Uniqlo Silk Wheat,Shirts,Uniqlo,Fast Fashion,S,Pink,61.0,45
+PROD-000477,Zara Oxford Bisque,Shirts,Zara,Fast Fashion,L,Tan,45.0,66
+PROD-000478,Tommy Hilfiger Evening Gown Yellow,Dresses,Tommy Hilfiger,Premium,M,YellowGreen,236.0,0
+PROD-000479,H&M Three-piece LightSlateGray,Suits,H&M,Fast Fashion,XL,SandyBrown,51.0,3
+PROD-000480,Zara Designer Jeans SeaShell,Pants,Zara,Fast Fashion,S,White,176.0,53
+PROD-000481,Levi's Maxi DarkOrchid,Dresses,Levi's,Premium,M,LimeGreen,180.0,0
+PROD-000482,Levi's Chinos Plum,Pants,Levi's,Premium,M,DarkSalmon,607.0,0
+PROD-000483,H&M Trench Tomato,Jackets,H&M,Fast Fashion,L,LimeGreen,250.0,24
+PROD-000484,Uniqlo Oxford PeachPuff,Shirts,Uniqlo,Fast Fashion,XL,DarkSalmon,254.0,30
+PROD-000485,Prada Maxi SpringGreen,Dresses,Prada,Luxury,S,Olive,3810.0,0
+PROD-000486,Uniqlo Cocktail Wheat,Dresses,Uniqlo,Fast Fashion,M,Tomato,143.0,28
+PROD-000487,Versace Tuxedo SkyBlue,Suits,Versace,Luxury,L,LightGoldenRodYellow,4518.0,9
+PROD-000488,Zara Leather Chartreuse,Jackets,Zara,Fast Fashion,L,PaleGoldenRod,101.0,2
+PROD-000489,Calvin Klein Business DarkGray,Suits,Calvin Klein,Premium,M,DarkGoldenRod,637.0,0
+PROD-000490,Zara Bomber Lavender,Jackets,Zara,Fast Fashion,S,Blue,234.0,56
+PROD-000491,Zara Tuxedo PaleGoldenRod,Suits,Zara,Fast Fashion,M,Cyan,206.0,0
+PROD-000492,Calvin Klein Oxford HoneyDew,Shirts,Calvin Klein,Premium,S,LightCyan,424.0,0
+PROD-000493,Levi's Maxi Violet,Dresses,Levi's,Premium,XL,Tomato,667.0,2
+PROD-000494,Levi's Designer Jeans Azure,Pants,Levi's,Premium,M,DodgerBlue,453.0,5
+PROD-000495,Levi's Oxford MediumSpringGreen,Shirts,Levi's,Premium,L,Thistle,346.0,7
+PROD-000496,Zara Business AntiqueWhite,Suits,Zara,Fast Fashion,L,NavajoWhite,131.0,9
+PROD-000497,Versace Silk RosyBrown,Shirts,Versace,Luxury,L,AntiqueWhite,2747.0,0
+PROD-000498,H&M Three-piece DarkRed,Suits,H&M,Fast Fashion,L,LightSeaGreen,266.0,17
+PROD-000499,Calvin Klein Business LavenderBlush,Suits,Calvin Klein,Premium,S,LightGray,742.0,0
+PROD-000500,Zara Leather Chocolate,Jackets,Zara,Fast Fashion,M,PeachPuff,69.0,55
+PROD-000501,Levi's Cocktail ForestGreen,Dresses,Levi's,Premium,M,SlateGray,797.0,0
+PROD-000502,H&M Designer Jeans Yellow,Pants,H&M,Fast Fashion,XL,Fuchsia,285.0,62
+PROD-000503,H&M Maxi Gainsboro,Dresses,H&M,Fast Fashion,M,DarkSalmon,296.0,80
+PROD-000504,Levi's Tuxedo PaleVioletRed,Suits,Levi's,Premium,M,DarkGray,430.0,0
+PROD-000505,Tommy Hilfiger Tuxedo BurlyWood,Suits,Tommy Hilfiger,Premium,XL,DarkGreen,334.0,0
+PROD-000506,Calvin Klein Cocktail DarkSlateBlue,Dresses,Calvin Klein,Premium,XS,Magenta,567.0,6
+PROD-000507,H&M Cocktail LightGreen,Dresses,H&M,Fast Fashion,S,Indigo,224.0,59
+PROD-000508,H&M Business Brown,Suits,H&M,Fast Fashion,L,DarkOliveGreen,285.0,90
+PROD-000509,Zara Linen FireBrick,Shirts,Zara,Fast Fashion,M,Silver,278.0,72
+PROD-000510,Levi's Trousers DeepSkyBlue,Pants,Levi's,Premium,S,Orange,469.0,0
+PROD-000511,Zara Leather LightCyan,Jackets,Zara,Fast Fashion,L,White,255.0,36
+PROD-000512,Zara Bomber DarkGoldenRod,Jackets,Zara,Fast Fashion,M,LightGreen,283.0,14
+PROD-000513,Zara Silk DodgerBlue,Shirts,Zara,Fast Fashion,XL,MediumSpringGreen,247.0,51
+PROD-000514,Uniqlo Evening Gown Salmon,Dresses,Uniqlo,Fast Fashion,M,Orange,64.0,38
+PROD-000515,H&M Three-piece RosyBrown,Suits,H&M,Fast Fashion,L,DarkSlateBlue,124.0,9
+PROD-000516,Levi's Evening Gown Bisque,Dresses,Levi's,Premium,L,MistyRose,608.0,0
+PROD-000517,Uniqlo Silk LightSeaGreen,Shirts,Uniqlo,Fast Fashion,M,SkyBlue,140.0,78
+PROD-000518,Calvin Klein Trench SlateBlue,Jackets,Calvin Klein,Premium,M,Bisque,276.0,0
+PROD-000519,Calvin Klein Cocktail GreenYellow,Dresses,Calvin Klein,Premium,M,Salmon,419.0,0
+PROD-000520,Tommy Hilfiger Silk NavajoWhite,Shirts,Tommy Hilfiger,Premium,M,LightYellow,507.0,0
+PROD-000521,Zara Business DarkOliveGreen,Suits,Zara,Fast Fashion,M,White,182.0,58
+PROD-000522,Uniqlo Trench BurlyWood,Jackets,Uniqlo,Fast Fashion,XL,LightPink,69.0,75
+PROD-000523,Levi's Business GoldenRod,Suits,Levi's,Premium,XL,PowderBlue,602.0,0
+PROD-000524,Zara Business SlateBlue,Suits,Zara,Fast Fashion,S,LightGreen,183.0,71
+PROD-000525,H&M Three-piece LightCyan,Suits,H&M,Fast Fashion,S,Khaki,190.0,41
+PROD-000526,Prada Cocktail MistyRose,Dresses,Prada,Luxury,L,LightBlue,3742.0,2
+PROD-000527,Tommy Hilfiger Evening Gown Black,Dresses,Tommy Hilfiger,Premium,S,LightGoldenRodYellow,757.0,0
+PROD-000528,Zara Three-piece WhiteSmoke,Suits,Zara,Fast Fashion,L,FireBrick,179.0,71
+PROD-000529,Zara Three-piece DeepPink,Suits,Zara,Fast Fashion,XL,Gold,194.0,0
+PROD-000530,H&M Evening Gown Cyan,Dresses,H&M,Fast Fashion,M,Purple,267.0,50
+PROD-000531,H&M Maxi Azure,Dresses,H&M,Fast Fashion,S,OldLace,291.0,21
+PROD-000532,Uniqlo Evening Gown DarkOrange,Dresses,Uniqlo,Fast Fashion,L,PaleVioletRed,285.0,82
+PROD-000533,Calvin Klein Trench Yellow,Jackets,Calvin Klein,Premium,L,PeachPuff,562.0,0
+PROD-000534,H&M Designer Jeans MediumTurquoise,Pants,H&M,Fast Fashion,M,MediumTurquoise,132.0,0
+PROD-000535,H&M Maxi Bisque,Dresses,H&M,Fast Fashion,M,SaddleBrown,154.0,0
+PROD-000536,Zara Three-piece DarkViolet,Suits,Zara,Fast Fashion,M,MintCream,255.0,0
+PROD-000537,Tommy Hilfiger Maxi Violet,Dresses,Tommy Hilfiger,Premium,L,OldLace,519.0,0
+PROD-000538,Uniqlo Evening Gown HotPink,Dresses,Uniqlo,Fast Fashion,M,LightSteelBlue,165.0,36
+PROD-000539,Uniqlo Designer Jeans Khaki,Pants,Uniqlo,Fast Fashion,M,MediumBlue,194.0,30
+PROD-000540,Zara Silk DeepSkyBlue,Shirts,Zara,Fast Fashion,M,PaleTurquoise,128.0,58
+PROD-000541,Zara Bomber DarkSlateBlue,Jackets,Zara,Fast Fashion,XL,LightSalmon,142.0,58
+PROD-000542,Zara Chinos LemonChiffon,Pants,Zara,Fast Fashion,M,PaleVioletRed,253.0,37
+PROD-000543,H&M Oxford OldLace,Shirts,H&M,Fast Fashion,S,DarkOrange,22.0,69
+PROD-000544,H&M Silk YellowGreen,Shirts,H&M,Fast Fashion,M,LavenderBlush,130.0,56
+PROD-000545,Uniqlo Cocktail Violet,Dresses,Uniqlo,Fast Fashion,S,White,45.0,90
+PROD-000546,Zara Business Black,Suits,Zara,Fast Fashion,XS,Moccasin,134.0,47
+PROD-000547,Uniqlo Trousers Lavender,Pants,Uniqlo,Fast Fashion,L,Purple,162.0,58
+PROD-000548,Uniqlo Oxford Tan,Shirts,Uniqlo,Fast Fashion,S,GreenYellow,296.0,0
+PROD-000549,Zara Oxford DarkGray,Shirts,Zara,Fast Fashion,M,Indigo,129.0,24
+PROD-000550,Zara Oxford FireBrick,Shirts,Zara,Fast Fashion,S,BlanchedAlmond,254.0,0
+PROD-000551,Prada Designer Jeans LimeGreen,Pants,Prada,Luxury,M,PaleGreen,3451.0,0
+PROD-000552,Zara Oxford DarkSeaGreen,Shirts,Zara,Fast Fashion,M,Tan,279.0,62
+PROD-000553,Zara Tuxedo MediumVioletRed,Suits,Zara,Fast Fashion,S,MediumTurquoise,241.0,31
+PROD-000554,Uniqlo Leather OldLace,Jackets,Uniqlo,Fast Fashion,M,Coral,117.0,38
+PROD-000555,H&M Bomber Salmon,Jackets,H&M,Fast Fashion,M,Indigo,113.0,72
+PROD-000556,Levi's Tuxedo DarkBlue,Suits,Levi's,Premium,S,MediumSpringGreen,362.0,0
+PROD-000557,Levi's Maxi LightGoldenRodYellow,Dresses,Levi's,Premium,M,Teal,632.0,0
+PROD-000558,H&M Leather DarkSalmon,Jackets,H&M,Fast Fashion,M,PapayaWhip,222.0,59
+PROD-000559,Tommy Hilfiger Trench Orange,Jackets,Tommy Hilfiger,Premium,XS,DarkSalmon,431.0,0
+PROD-000560,Prada Business LightBlue,Suits,Prada,Luxury,XL,DarkKhaki,2399.0,0
+PROD-000561,Prada Oxford MistyRose,Shirts,Prada,Luxury,M,MidnightBlue,740.0,0
+PROD-000562,Zara Leather Gray,Jackets,Zara,Fast Fashion,M,SaddleBrown,296.0,35
+PROD-000563,H&M Three-piece Silver,Suits,H&M,Fast Fashion,M,CadetBlue,287.0,0
+PROD-000564,Zara Trench Pink,Jackets,Zara,Fast Fashion,M,Black,100.0,49
+PROD-000565,H&M Leather DarkRed,Jackets,H&M,Fast Fashion,XL,Moccasin,158.0,77
+PROD-000566,Calvin Klein Cocktail LightGoldenRodYellow,Dresses,Calvin Klein,Premium,M,Plum,252.0,0
+PROD-000567,Tommy Hilfiger Trousers Cornsilk,Pants,Tommy Hilfiger,Premium,XL,HotPink,756.0,2
+PROD-000568,Zara Bomber LavenderBlush,Jackets,Zara,Fast Fashion,M,Azure,36.0,25
+PROD-000569,H&M Cocktail Gainsboro,Dresses,H&M,Fast Fashion,S,Aqua,82.0,54
+PROD-000570,H&M Business SlateBlue,Suits,H&M,Fast Fashion,XS,Gainsboro,223.0,0
+PROD-000571,Prada Evening Gown LimeGreen,Dresses,Prada,Luxury,M,WhiteSmoke,3984.0,0
+PROD-000572,Calvin Klein Trousers DarkViolet,Pants,Calvin Klein,Premium,XS,Lavender,793.0,4
+PROD-000573,Zara Bomber MidnightBlue,Jackets,Zara,Fast Fashion,M,RoyalBlue,72.0,45
+PROD-000574,Uniqlo Evening Gown MediumOrchid,Dresses,Uniqlo,Fast Fashion,M,DarkGreen,130.0,30
+PROD-000575,Versace Bomber Chocolate,Jackets,Versace,Luxury,S,LightSkyBlue,4307.0,0
+PROD-000576,Uniqlo Tuxedo DarkSlateGray,Suits,Uniqlo,Fast Fashion,M,SlateBlue,29.0,89
+PROD-000577,H&M Bomber ForestGreen,Jackets,H&M,Fast Fashion,M,MediumSeaGreen,53.0,36
+PROD-000578,H&M Linen WhiteSmoke,Shirts,H&M,Fast Fashion,M,Aquamarine,102.0,77
+PROD-000579,Balenciaga Linen FloralWhite,Shirts,Balenciaga,Luxury,XS,LightSteelBlue,2953.0,0
+PROD-000580,Tommy Hilfiger Maxi SandyBrown,Dresses,Tommy Hilfiger,Premium,M,Pink,789.0,5
+PROD-000581,Calvin Klein Trench BlueViolet,Jackets,Calvin Klein,Premium,M,PowderBlue,222.0,0
+PROD-000582,Uniqlo Oxford DarkOrchid,Shirts,Uniqlo,Fast Fashion,S,Chartreuse,220.0,68
+PROD-000583,Calvin Klein Business Khaki,Suits,Calvin Klein,Premium,XS,LightYellow,669.0,0
+PROD-000584,Levi's Maxi DarkGreen,Dresses,Levi's,Premium,M,FloralWhite,597.0,0
+PROD-000585,Uniqlo Linen SeaShell,Shirts,Uniqlo,Fast Fashion,M,MistyRose,60.0,84
+PROD-000586,Uniqlo Oxford OliveDrab,Shirts,Uniqlo,Fast Fashion,L,PaleTurquoise,183.0,55
+PROD-000587,Uniqlo Leather YellowGreen,Jackets,Uniqlo,Fast Fashion,M,GreenYellow,98.0,46
+PROD-000588,Calvin Klein Designer Jeans Brown,Pants,Calvin Klein,Premium,XL,Tan,766.0,1
+PROD-000589,Louis Vuitton Maxi Tan,Dresses,Louis Vuitton,Luxury,S,ForestGreen,3353.0,0
+PROD-000590,H&M Trench GreenYellow,Jackets,H&M,Fast Fashion,L,PaleTurquoise,291.0,50
+PROD-000591,Levi's Trousers Maroon,Pants,Levi's,Premium,L,Cornsilk,630.0,0
+PROD-000592,Zara Oxford LightGray,Shirts,Zara,Fast Fashion,M,Silver,224.0,16
+PROD-000593,H&M Bomber LightSalmon,Jackets,H&M,Fast Fashion,S,Olive,284.0,44
+PROD-000594,Tommy Hilfiger Maxi Khaki,Dresses,Tommy Hilfiger,Premium,XL,LightCoral,156.0,0
+PROD-000595,H&M Linen Magenta,Shirts,H&M,Fast Fashion,S,LightGoldenRodYellow,78.0,41
+PROD-000596,Uniqlo Linen Crimson,Shirts,Uniqlo,Fast Fashion,M,Magenta,161.0,4
+PROD-000597,Zara Business Fuchsia,Suits,Zara,Fast Fashion,M,LavenderBlush,222.0,68
+PROD-000598,Tommy Hilfiger Evening Gown DeepSkyBlue,Dresses,Tommy Hilfiger,Premium,L,Brown,376.0,0
+PROD-000599,Tommy Hilfiger Trench MediumSpringGreen,Jackets,Tommy Hilfiger,Premium,M,LightSlateGray,770.0,0
+PROD-000600,Levi's Chinos MediumSeaGreen,Pants,Levi's,Premium,M,Aqua,509.0,0
+PROD-000601,Versace Three-piece OrangeRed,Suits,Versace,Luxury,XS,Maroon,910.0,2
+PROD-000602,Tommy Hilfiger Chinos SlateBlue,Pants,Tommy Hilfiger,Premium,S,YellowGreen,680.0,0
+PROD-000603,Tommy Hilfiger Chinos Teal,Pants,Tommy Hilfiger,Premium,L,AliceBlue,291.0,8
+PROD-000604,Uniqlo Three-piece Linen,Suits,Uniqlo,Fast Fashion,M,Turquoise,230.0,17
+PROD-000605,Zara Chinos MidnightBlue,Pants,Zara,Fast Fashion,XS,LightYellow,192.0,57
+PROD-000606,Balenciaga Business AntiqueWhite,Suits,Balenciaga,Luxury,M,LightGreen,3042.0,0
+PROD-000607,Levi's Leather BurlyWood,Jackets,Levi's,Premium,XS,YellowGreen,703.0,0
+PROD-000608,Uniqlo Three-piece FloralWhite,Suits,Uniqlo,Fast Fashion,M,SlateBlue,153.0,38
+PROD-000609,H&M Business Red,Suits,H&M,Fast Fashion,M,Coral,52.0,0
+PROD-000610,Zara Evening Gown LemonChiffon,Dresses,Zara,Fast Fashion,S,IndianRed,160.0,0
+PROD-000611,Zara Silk Navy,Shirts,Zara,Fast Fashion,M,ForestGreen,28.0,0
+PROD-000612,H&M Maxi Cornsilk,Dresses,H&M,Fast Fashion,XL,Beige,32.0,62
+PROD-000613,Zara Three-piece Beige,Suits,Zara,Fast Fashion,M,LightSeaGreen,195.0,76
+PROD-000614,H&M Bomber SkyBlue,Jackets,H&M,Fast Fashion,L,Turquoise,216.0,67
+PROD-000615,H&M Trench LightGray,Jackets,H&M,Fast Fashion,M,PowderBlue,73.0,9
+PROD-000616,H&M Business DarkGray,Suits,H&M,Fast Fashion,XL,NavajoWhite,58.0,43
+PROD-000617,Balenciaga Silk Crimson,Shirts,Balenciaga,Luxury,S,DarkSlateBlue,4473.0,0
+PROD-000618,Tommy Hilfiger Business DarkCyan,Suits,Tommy Hilfiger,Premium,M,Bisque,373.0,0
+PROD-000619,Calvin Klein Tuxedo DarkOliveGreen,Suits,Calvin Klein,Premium,S,BlanchedAlmond,475.0,0
+PROD-000620,Uniqlo Designer Jeans Lime,Pants,Uniqlo,Fast Fashion,M,Cornsilk,115.0,10
+PROD-000621,Tommy Hilfiger Silk GhostWhite,Shirts,Tommy Hilfiger,Premium,S,DarkGoldenRod,446.0,0
+PROD-000622,Calvin Klein Silk DarkGreen,Shirts,Calvin Klein,Premium,L,LightBlue,220.0,0
+PROD-000623,Uniqlo Trench OliveDrab,Jackets,Uniqlo,Fast Fashion,L,Yellow,206.0,55
+PROD-000624,Zara Business Salmon,Suits,Zara,Fast Fashion,M,LightSkyBlue,293.0,29
+PROD-000625,Uniqlo Linen Fuchsia,Shirts,Uniqlo,Fast Fashion,XS,Turquoise,285.0,7
+PROD-000626,Zara Bomber LightSteelBlue,Jackets,Zara,Fast Fashion,L,MistyRose,132.0,85
+PROD-000627,Uniqlo Trousers Black,Pants,Uniqlo,Fast Fashion,M,MediumBlue,146.0,74
+PROD-000628,Versace Bomber Brown,Jackets,Versace,Luxury,M,LightGray,1140.0,10
+PROD-000629,Zara Bomber DarkSlateBlue,Jackets,Zara,Fast Fashion,L,DeepSkyBlue,82.0,39
+PROD-000630,Tommy Hilfiger Three-piece Fuchsia,Suits,Tommy Hilfiger,Premium,S,LightSalmon,346.0,0
+PROD-000631,Levi's Chinos BlanchedAlmond,Pants,Levi's,Premium,M,GreenYellow,267.0,0
+PROD-000632,Zara Trench MediumPurple,Jackets,Zara,Fast Fashion,L,RoyalBlue,128.0,40
+PROD-000633,Zara Cocktail DarkGray,Dresses,Zara,Fast Fashion,M,DarkGreen,141.0,30
+PROD-000634,Tommy Hilfiger Trench Ivory,Jackets,Tommy Hilfiger,Premium,L,Red,438.0,0
+PROD-000635,Levi's Oxford DarkSlateBlue,Shirts,Levi's,Premium,S,MediumVioletRed,328.0,0
+PROD-000636,Uniqlo Silk LightGoldenRodYellow,Shirts,Uniqlo,Fast Fashion,L,AntiqueWhite,90.0,60
+PROD-000637,Levi's Business MediumSeaGreen,Suits,Levi's,Premium,L,Brown,168.0,0
+PROD-000638,H&M Designer Jeans DarkSalmon,Pants,H&M,Fast Fashion,L,SkyBlue,154.0,82
+PROD-000639,Calvin Klein Trench DarkOrchid,Jackets,Calvin Klein,Premium,M,DarkMagenta,331.0,0
+PROD-000640,Gucci Trousers Tan,Pants,Gucci,Luxury,S,Teal,2035.0,0
+PROD-000641,Zara Evening Gown Thistle,Dresses,Zara,Fast Fashion,M,MediumSlateBlue,89.0,41
+PROD-000642,H&M Cocktail DarkSlateBlue,Dresses,H&M,Fast Fashion,XL,PaleVioletRed,38.0,33
+PROD-000643,Uniqlo Designer Jeans Bisque,Pants,Uniqlo,Fast Fashion,S,MediumSlateBlue,130.0,78
+PROD-000644,Uniqlo Tuxedo Tan,Suits,Uniqlo,Fast Fashion,M,GoldenRod,238.0,59
+PROD-000645,Uniqlo Designer Jeans DarkGoldenRod,Pants,Uniqlo,Fast Fashion,M,Coral,193.0,85
+PROD-000646,Zara Tuxedo Maroon,Suits,Zara,Fast Fashion,S,Coral,205.0,77
+PROD-000647,Uniqlo Trousers Turquoise,Pants,Uniqlo,Fast Fashion,XS,Magenta,224.0,9
+PROD-000648,Uniqlo Bomber Teal,Jackets,Uniqlo,Fast Fashion,M,Lavender,120.0,16
+PROD-000649,Uniqlo Maxi LightSkyBlue,Dresses,Uniqlo,Fast Fashion,L,DarkMagenta,238.0,27
+PROD-000650,Uniqlo Maxi SpringGreen,Dresses,Uniqlo,Fast Fashion,L,LightSlateGray,262.0,19
+PROD-000651,Levi's Trousers Teal,Pants,Levi's,Premium,XS,MediumAquaMarine,341.0,2
+PROD-000652,Uniqlo Designer Jeans SteelBlue,Pants,Uniqlo,Fast Fashion,M,DarkMagenta,257.0,12
+PROD-000653,Zara Trench DarkTurquoise,Jackets,Zara,Fast Fashion,L,Pink,30.0,77
+PROD-000654,Levi's Chinos LightYellow,Pants,Levi's,Premium,S,DarkOliveGreen,290.0,0
+PROD-000655,Uniqlo Evening Gown Beige,Dresses,Uniqlo,Fast Fashion,XS,Aqua,49.0,2
+PROD-000656,Levi's Trousers Silver,Pants,Levi's,Premium,S,Cornsilk,212.0,0
+PROD-000657,Uniqlo Trench Blue,Jackets,Uniqlo,Fast Fashion,S,MediumSlateBlue,224.0,68
+PROD-000658,Calvin Klein Linen Purple,Shirts,Calvin Klein,Premium,XS,SlateBlue,578.0,0
+PROD-000659,Levi's Tuxedo MintCream,Suits,Levi's,Premium,XL,DarkSlateBlue,780.0,0
+PROD-000660,H&M Tuxedo FireBrick,Suits,H&M,Fast Fashion,L,Bisque,46.0,20
+PROD-000661,Levi's Chinos Beige,Pants,Levi's,Premium,M,Tomato,561.0,0
+PROD-000662,Calvin Klein Business Moccasin,Suits,Calvin Klein,Premium,M,DarkViolet,598.0,0
+PROD-000663,Tommy Hilfiger Designer Jeans LightGoldenRodYellow,Pants,Tommy Hilfiger,Premium,M,MediumTurquoise,248.0,0
+PROD-000664,Calvin Klein Leather Salmon,Jackets,Calvin Klein,Premium,L,CornflowerBlue,302.0,2
+PROD-000665,Uniqlo Silk BlueViolet,Shirts,Uniqlo,Fast Fashion,L,DarkRed,202.0,18
+PROD-000666,H&M Bomber Linen,Jackets,H&M,Fast Fashion,L,OldLace,159.0,50
+PROD-000667,Calvin Klein Evening Gown DarkGray,Dresses,Calvin Klein,Premium,M,Magenta,158.0,0
+PROD-000668,Zara Linen Peru,Shirts,Zara,Fast Fashion,L,Beige,122.0,43
+PROD-000669,Levi's Leather Plum,Jackets,Levi's,Premium,M,MediumBlue,321.0,0
+PROD-000670,Uniqlo Oxford HoneyDew,Shirts,Uniqlo,Fast Fashion,XS,SpringGreen,196.0,58
+PROD-000671,Tommy Hilfiger Maxi Aqua,Dresses,Tommy Hilfiger,Premium,L,DodgerBlue,614.0,0
+PROD-000672,H&M Business DodgerBlue,Suits,H&M,Fast Fashion,M,BlueViolet,246.0,64
+PROD-000673,H&M Bomber MistyRose,Jackets,H&M,Fast Fashion,M,HoneyDew,103.0,78
+PROD-000674,Levi's Business Yellow,Suits,Levi's,Premium,M,PeachPuff,247.0,0
+PROD-000675,Tommy Hilfiger Silk Blue,Shirts,Tommy Hilfiger,Premium,XS,NavajoWhite,740.0,3
+PROD-000676,Zara Three-piece YellowGreen,Suits,Zara,Fast Fashion,XS,LightSalmon,71.0,44
+PROD-000677,H&M Business HotPink,Suits,H&M,Fast Fashion,M,SeaGreen,81.0,61
+PROD-000678,Zara Designer Jeans Maroon,Pants,Zara,Fast Fashion,S,Coral,201.0,73
+PROD-000679,Zara Leather LightGreen,Jackets,Zara,Fast Fashion,M,LightPink,125.0,52
+PROD-000680,Calvin Klein Bomber DarkSalmon,Jackets,Calvin Klein,Premium,M,LightSalmon,685.0,0
+PROD-000681,Zara Silk Chocolate,Shirts,Zara,Fast Fashion,XS,MediumTurquoise,164.0,52
+PROD-000682,H&M Trench Tomato,Jackets,H&M,Fast Fashion,M,MistyRose,171.0,45
+PROD-000683,Zara Cocktail DarkKhaki,Dresses,Zara,Fast Fashion,XS,PaleTurquoise,24.0,31
+PROD-000684,Zara Cocktail Cornsilk,Dresses,Zara,Fast Fashion,L,LightYellow,114.0,0
+PROD-000685,Levi's Cocktail DarkGray,Dresses,Levi's,Premium,S,Purple,180.0,0
+PROD-000686,Calvin Klein Three-piece Blue,Suits,Calvin Klein,Premium,M,MediumBlue,408.0,0
+PROD-000687,Louis Vuitton Evening Gown DimGray,Dresses,Louis Vuitton,Luxury,S,LightGoldenRodYellow,3405.0,0
+PROD-000688,H&M Silk LightCyan,Shirts,H&M,Fast Fashion,M,Blue,178.0,0
+PROD-000689,Levi's Trench AntiqueWhite,Jackets,Levi's,Premium,M,DeepSkyBlue,306.0,0
+PROD-000690,Zara Cocktail Plum,Dresses,Zara,Fast Fashion,M,Lime,232.0,48
+PROD-000691,Levi's Evening Gown LemonChiffon,Dresses,Levi's,Premium,L,Indigo,610.0,6
+PROD-000692,Zara Oxford LawnGreen,Shirts,Zara,Fast Fashion,XS,PapayaWhip,110.0,71
+PROD-000693,Tommy Hilfiger Business Sienna,Suits,Tommy Hilfiger,Premium,S,DarkGoldenRod,458.0,0
+PROD-000694,Louis Vuitton Maxi Pink,Dresses,Louis Vuitton,Luxury,S,Azure,1299.0,6
+PROD-000695,Uniqlo Silk Gainsboro,Shirts,Uniqlo,Fast Fashion,XS,LavenderBlush,178.0,31
+PROD-000696,Calvin Klein Designer Jeans Teal,Pants,Calvin Klein,Premium,L,DarkSlateBlue,184.0,0
+PROD-000697,Uniqlo Trench PaleGreen,Jackets,Uniqlo,Fast Fashion,S,RosyBrown,95.0,79
+PROD-000698,Zara Evening Gown PeachPuff,Dresses,Zara,Fast Fashion,XS,Khaki,166.0,80
+PROD-000699,Levi's Silk Olive,Shirts,Levi's,Premium,M,HoneyDew,330.0,0
+PROD-000700,Tommy Hilfiger Evening Gown Fuchsia,Dresses,Tommy Hilfiger,Premium,XS,OliveDrab,652.0,1
+PROD-000701,Tommy Hilfiger Trench MediumVioletRed,Jackets,Tommy Hilfiger,Premium,M,SlateGray,735.0,0
+PROD-000702,H&M Trench DarkGreen,Jackets,H&M,Fast Fashion,M,Lavender,119.0,8
+PROD-000703,Levi's Cocktail DarkGoldenRod,Dresses,Levi's,Premium,M,MediumSeaGreen,200.0,3
+PROD-000704,Uniqlo Silk YellowGreen,Shirts,Uniqlo,Fast Fashion,M,DarkGray,234.0,2
+PROD-000705,Gucci Leather OldLace,Jackets,Gucci,Luxury,M,GreenYellow,3551.0,0
+PROD-000706,Zara Oxford LightGreen,Shirts,Zara,Fast Fashion,M,PeachPuff,198.0,39
+PROD-000707,Balenciaga Bomber DarkSalmon,Jackets,Balenciaga,Luxury,M,LightCoral,3678.0,0
+PROD-000708,Calvin Klein Maxi AliceBlue,Dresses,Calvin Klein,Premium,M,Tomato,348.0,3
+PROD-000709,Zara Trousers DarkSlateGray,Pants,Zara,Fast Fashion,L,DarkMagenta,291.0,40
+PROD-000710,Levi's Leather Maroon,Jackets,Levi's,Premium,M,Violet,595.0,6
+PROD-000711,H&M Bomber Teal,Jackets,H&M,Fast Fashion,M,Aquamarine,129.0,21
+PROD-000712,Calvin Klein Bomber LightGoldenRodYellow,Jackets,Calvin Klein,Premium,M,Indigo,482.0,7
+PROD-000713,H&M Silk Linen,Shirts,H&M,Fast Fashion,M,YellowGreen,145.0,17
+PROD-000714,Tommy Hilfiger Tuxedo Tan,Suits,Tommy Hilfiger,Premium,L,CornflowerBlue,727.0,4
+PROD-000715,Uniqlo Tuxedo Linen,Suits,Uniqlo,Fast Fashion,S,LightCyan,195.0,9
+PROD-000716,Tommy Hilfiger Tuxedo MistyRose,Suits,Tommy Hilfiger,Premium,M,SaddleBrown,731.0,0
+PROD-000717,Uniqlo Bomber AliceBlue,Jackets,Uniqlo,Fast Fashion,L,PapayaWhip,250.0,0
+PROD-000718,Uniqlo Linen Black,Shirts,Uniqlo,Fast Fashion,M,Aquamarine,123.0,63
+PROD-000719,Zara Cocktail LavenderBlush,Dresses,Zara,Fast Fashion,L,Silver,125.0,0
+PROD-000720,H&M Leather LightSeaGreen,Jackets,H&M,Fast Fashion,M,PaleGreen,57.0,12
+PROD-000721,Uniqlo Oxford AliceBlue,Shirts,Uniqlo,Fast Fashion,S,DarkOrchid,102.0,21
+PROD-000722,Versace Chinos Peru,Pants,Versace,Luxury,L,Indigo,1089.0,0
+PROD-000723,Tommy Hilfiger Trousers Sienna,Pants,Tommy Hilfiger,Premium,S,DarkKhaki,752.0,0
+PROD-000724,H&M Maxi DarkOrange,Dresses,H&M,Fast Fashion,M,SandyBrown,150.0,68
+PROD-000725,Uniqlo Chinos Azure,Pants,Uniqlo,Fast Fashion,M,SeaShell,259.0,35
+PROD-000726,Uniqlo Chinos PaleGoldenRod,Pants,Uniqlo,Fast Fashion,M,Lavender,234.0,6
+PROD-000727,H&M Silk SandyBrown,Shirts,H&M,Fast Fashion,XS,LightSlateGray,160.0,11
+PROD-000728,Uniqlo Oxford LightBlue,Shirts,Uniqlo,Fast Fashion,S,Black,201.0,86
+PROD-000729,H&M Trench FireBrick,Jackets,H&M,Fast Fashion,S,DarkKhaki,110.0,0
+PROD-000730,Zara Chinos Wheat,Pants,Zara,Fast Fashion,M,MediumBlue,75.0,12
+PROD-000731,Gucci Bomber LightCyan,Jackets,Gucci,Luxury,L,Thistle,4614.0,0
+PROD-000732,Tommy Hilfiger Business Peru,Suits,Tommy Hilfiger,Premium,L,NavajoWhite,563.0,6
+PROD-000733,Uniqlo Silk PaleGoldenRod,Shirts,Uniqlo,Fast Fashion,M,Gold,202.0,32
+PROD-000734,Uniqlo Trench Pink,Jackets,Uniqlo,Fast Fashion,L,Khaki,32.0,38
+PROD-000735,Uniqlo Maxi Linen,Dresses,Uniqlo,Fast Fashion,XS,LightSalmon,56.0,36
+PROD-000736,Louis Vuitton Silk DarkRed,Shirts,Louis Vuitton,Luxury,S,SpringGreen,966.0,0
+PROD-000737,Tommy Hilfiger Silk Salmon,Shirts,Tommy Hilfiger,Premium,XL,MediumTurquoise,741.0,0
+PROD-000738,Zara Trench DarkBlue,Jackets,Zara,Fast Fashion,M,Tomato,260.0,75
+PROD-000739,Balenciaga Chinos BurlyWood,Pants,Balenciaga,Luxury,L,DarkOliveGreen,3166.0,0
+PROD-000740,Levi's Bomber Ivory,Jackets,Levi's,Premium,M,YellowGreen,321.0,0
+PROD-000741,H&M Oxford GoldenRod,Shirts,H&M,Fast Fashion,M,CornflowerBlue,61.0,9
+PROD-000742,H&M Designer Jeans DarkOrange,Pants,H&M,Fast Fashion,M,Orchid,176.0,67
+PROD-000743,Zara Tuxedo OliveDrab,Suits,Zara,Fast Fashion,M,DarkOliveGreen,216.0,1
+PROD-000744,H&M Bomber Orchid,Jackets,H&M,Fast Fashion,M,MidnightBlue,163.0,16
+PROD-000745,Louis Vuitton Silk Tomato,Shirts,Louis Vuitton,Luxury,L,MediumSeaGreen,4922.0,0
+PROD-000746,Uniqlo Leather MistyRose,Jackets,Uniqlo,Fast Fashion,M,LightPink,87.0,0
+PROD-000747,Uniqlo Trousers MediumOrchid,Pants,Uniqlo,Fast Fashion,L,Blue,294.0,57
+PROD-000748,Versace Cocktail DarkOrange,Dresses,Versace,Luxury,M,Navy,2816.0,0
+PROD-000749,H&M Business DarkMagenta,Suits,H&M,Fast Fashion,L,MidnightBlue,53.0,73
+PROD-000750,Zara Silk Ivory,Shirts,Zara,Fast Fashion,XS,OliveDrab,192.0,2
+PROD-000751,Tommy Hilfiger Leather AliceBlue,Jackets,Tommy Hilfiger,Premium,M,AntiqueWhite,672.0,0
+PROD-000752,Calvin Klein Maxi DarkCyan,Dresses,Calvin Klein,Premium,L,LightYellow,607.0,0
+PROD-000753,Uniqlo Cocktail Lavender,Dresses,Uniqlo,Fast Fashion,S,LightSteelBlue,48.0,80
+PROD-000754,H&M Leather MediumSlateBlue,Jackets,H&M,Fast Fashion,XS,DodgerBlue,123.0,11
+PROD-000755,Uniqlo Linen LawnGreen,Shirts,Uniqlo,Fast Fashion,S,DarkViolet,130.0,6
+PROD-000756,H&M Three-piece Thistle,Suits,H&M,Fast Fashion,M,DarkCyan,112.0,0
+PROD-000757,Uniqlo Leather CornflowerBlue,Jackets,Uniqlo,Fast Fashion,L,PaleGreen,204.0,34
+PROD-000758,Tommy Hilfiger Oxford Orange,Shirts,Tommy Hilfiger,Premium,M,CadetBlue,234.0,0
+PROD-000759,Zara Silk Orange,Shirts,Zara,Fast Fashion,L,MediumVioletRed,67.0,64
+PROD-000760,H&M Oxford Lavender,Shirts,H&M,Fast Fashion,M,CornflowerBlue,247.0,54
+PROD-000761,H&M Trench Cyan,Jackets,H&M,Fast Fashion,L,SeaGreen,132.0,0
+PROD-000762,H&M Trench BurlyWood,Jackets,H&M,Fast Fashion,L,Fuchsia,106.0,0
+PROD-000763,Uniqlo Silk Blue,Shirts,Uniqlo,Fast Fashion,M,Salmon,234.0,42
+PROD-000764,Levi's Oxford LemonChiffon,Shirts,Levi's,Premium,XL,Orchid,501.0,0
+PROD-000765,Louis Vuitton Chinos RosyBrown,Pants,Louis Vuitton,Luxury,M,SeaShell,3388.0,0
+PROD-000766,H&M Three-piece DarkGoldenRod,Suits,H&M,Fast Fashion,S,MintCream,151.0,21
+PROD-000767,Calvin Klein Designer Jeans DarkGoldenRod,Pants,Calvin Klein,Premium,M,LightBlue,611.0,0
+PROD-000768,Gucci Designer Jeans Teal,Pants,Gucci,Luxury,M,Orange,3365.0,0
+PROD-000769,Levi's Three-piece SlateBlue,Suits,Levi's,Premium,S,Thistle,496.0,9
+PROD-000770,Uniqlo Silk DarkOrchid,Shirts,Uniqlo,Fast Fashion,L,Linen,154.0,63
+PROD-000771,Calvin Klein Designer Jeans RosyBrown,Pants,Calvin Klein,Premium,L,Indigo,471.0,0
+PROD-000772,Uniqlo Maxi Ivory,Dresses,Uniqlo,Fast Fashion,XS,DarkGray,48.0,0
+PROD-000773,Levi's Business LightGreen,Suits,Levi's,Premium,M,DeepSkyBlue,497.0,0
+PROD-000774,H&M Evening Gown PaleGoldenRod,Dresses,H&M,Fast Fashion,XS,MediumSeaGreen,298.0,0
+PROD-000775,H&M Evening Gown DarkKhaki,Dresses,H&M,Fast Fashion,XL,RosyBrown,177.0,81
+PROD-000776,Tommy Hilfiger Oxford PaleGreen,Shirts,Tommy Hilfiger,Premium,XS,LightCyan,658.0,0
+PROD-000777,H&M Bomber LightSteelBlue,Jackets,H&M,Fast Fashion,L,RoyalBlue,218.0,28
+PROD-000778,Gucci Three-piece PapayaWhip,Suits,Gucci,Luxury,M,LightGoldenRodYellow,4617.0,1
+PROD-000779,H&M Cocktail LemonChiffon,Dresses,H&M,Fast Fashion,M,Chocolate,174.0,48
+PROD-000780,H&M Chinos PaleGoldenRod,Pants,H&M,Fast Fashion,L,Azure,75.0,57
+PROD-000781,Tommy Hilfiger Oxford FloralWhite,Shirts,Tommy Hilfiger,Premium,XS,MediumSeaGreen,326.0,0
+PROD-000782,Calvin Klein Evening Gown SeaGreen,Dresses,Calvin Klein,Premium,S,Aqua,203.0,0
+PROD-000783,H&M Bomber LavenderBlush,Jackets,H&M,Fast Fashion,M,Tan,105.0,55
+PROD-000784,H&M Silk Snow,Shirts,H&M,Fast Fashion,M,DarkRed,263.0,81
+PROD-000785,H&M Trench Silver,Jackets,H&M,Fast Fashion,XL,Aquamarine,65.0,50
+PROD-000786,Calvin Klein Cocktail MediumSeaGreen,Dresses,Calvin Klein,Premium,S,LemonChiffon,409.0,5
+PROD-000787,Calvin Klein Three-piece GoldenRod,Suits,Calvin Klein,Premium,S,LavenderBlush,788.0,3
+PROD-000788,Prada Linen Navy,Shirts,Prada,Luxury,M,SlateBlue,4749.0,1
+PROD-000789,Uniqlo Trench Azure,Jackets,Uniqlo,Fast Fashion,M,Lavender,164.0,50
+PROD-000790,Levi's Trousers MediumAquaMarine,Pants,Levi's,Premium,M,LightGreen,200.0,0
+PROD-000791,Calvin Klein Tuxedo CadetBlue,Suits,Calvin Klein,Premium,S,OliveDrab,747.0,0
+PROD-000792,Zara Evening Gown Green,Dresses,Zara,Fast Fashion,M,DarkMagenta,63.0,84
+PROD-000793,Versace Bomber Gainsboro,Jackets,Versace,Luxury,L,Olive,2070.0,0
+PROD-000794,Tommy Hilfiger Trench LightGreen,Jackets,Tommy Hilfiger,Premium,XL,PaleVioletRed,626.0,0
+PROD-000795,H&M Bomber DarkKhaki,Jackets,H&M,Fast Fashion,XS,Navy,139.0,39
+PROD-000796,Tommy Hilfiger Evening Gown YellowGreen,Dresses,Tommy Hilfiger,Premium,S,PaleGreen,296.0,0
+PROD-000797,Uniqlo Trousers Thistle,Pants,Uniqlo,Fast Fashion,XS,LawnGreen,234.0,34
+PROD-000798,H&M Bomber LightSeaGreen,Jackets,H&M,Fast Fashion,M,LightSeaGreen,61.0,4
+PROD-000799,Zara Designer Jeans RoyalBlue,Pants,Zara,Fast Fashion,M,Gainsboro,138.0,20
+PROD-000800,Levi's Designer Jeans DarkSalmon,Pants,Levi's,Premium,S,CadetBlue,398.0,8
+PROD-000801,Zara Chinos HotPink,Pants,Zara,Fast Fashion,M,Brown,196.0,59
+PROD-000802,Uniqlo Tuxedo SeaShell,Suits,Uniqlo,Fast Fashion,XS,MediumOrchid,236.0,73
+PROD-000803,Zara Linen PapayaWhip,Shirts,Zara,Fast Fashion,L,YellowGreen,215.0,67
+PROD-000804,Calvin Klein Cocktail PaleGoldenRod,Dresses,Calvin Klein,Premium,M,PaleGoldenRod,411.0,0
+PROD-000805,Levi's Trousers MistyRose,Pants,Levi's,Premium,S,Wheat,794.0,0
+PROD-000806,Calvin Klein Silk DimGray,Shirts,Calvin Klein,Premium,S,DarkOrange,497.0,0
+PROD-000807,Calvin Klein Oxford PaleTurquoise,Shirts,Calvin Klein,Premium,S,Tomato,209.0,0
+PROD-000808,Zara Three-piece LightCyan,Suits,Zara,Fast Fashion,M,Khaki,176.0,32
+PROD-000809,H&M Leather MediumOrchid,Jackets,H&M,Fast Fashion,S,PaleGreen,288.0,48
+PROD-000810,Tommy Hilfiger Bomber Silver,Jackets,Tommy Hilfiger,Premium,M,ForestGreen,197.0,0
+PROD-000811,Zara Silk Orange,Shirts,Zara,Fast Fashion,S,DarkSalmon,268.0,27
+PROD-000812,Uniqlo Business Gainsboro,Suits,Uniqlo,Fast Fashion,M,Blue,27.0,19
+PROD-000813,Uniqlo Evening Gown MediumTurquoise,Dresses,Uniqlo,Fast Fashion,M,LemonChiffon,189.0,0
+PROD-000814,Tommy Hilfiger Three-piece OliveDrab,Suits,Tommy Hilfiger,Premium,XS,Orchid,333.0,0
+PROD-000815,Uniqlo Business DarkCyan,Suits,Uniqlo,Fast Fashion,M,MediumOrchid,64.0,40
+PROD-000816,Uniqlo Evening Gown PowderBlue,Dresses,Uniqlo,Fast Fashion,XL,DarkMagenta,168.0,35
+PROD-000817,Uniqlo Trousers Silver,Pants,Uniqlo,Fast Fashion,S,Blue,293.0,74
+PROD-000818,H&M Linen DarkOrange,Shirts,H&M,Fast Fashion,XL,DeepSkyBlue,287.0,0
+PROD-000819,H&M Trousers SpringGreen,Pants,H&M,Fast Fashion,L,DeepSkyBlue,143.0,51
+PROD-000820,H&M Leather Snow,Jackets,H&M,Fast Fashion,L,DarkOrange,269.0,0
+PROD-000821,Tommy Hilfiger Maxi Plum,Dresses,Tommy Hilfiger,Premium,M,Indigo,747.0,0
+PROD-000822,Levi's Bomber OliveDrab,Jackets,Levi's,Premium,L,PaleTurquoise,599.0,0
+PROD-000823,Zara Silk LightYellow,Shirts,Zara,Fast Fashion,XL,LemonChiffon,204.0,5
+PROD-000824,Zara Linen PeachPuff,Shirts,Zara,Fast Fashion,S,MediumTurquoise,97.0,9
+PROD-000825,Uniqlo Three-piece DarkSlateGray,Suits,Uniqlo,Fast Fashion,M,ForestGreen,107.0,84
+PROD-000826,Zara Business RosyBrown,Suits,Zara,Fast Fashion,S,CadetBlue,244.0,0
+PROD-000827,H&M Evening Gown SandyBrown,Dresses,H&M,Fast Fashion,S,MediumSlateBlue,144.0,35
+PROD-000828,Tommy Hilfiger Trousers DarkCyan,Pants,Tommy Hilfiger,Premium,M,LightGreen,698.0,0
+PROD-000829,Calvin Klein Designer Jeans Sienna,Pants,Calvin Klein,Premium,L,SlateGray,657.0,0
+PROD-000830,Uniqlo Oxford MediumSpringGreen,Shirts,Uniqlo,Fast Fashion,S,Green,251.0,72
+PROD-000831,Zara Chinos LightCyan,Pants,Zara,Fast Fashion,L,MediumAquaMarine,293.0,11
+PROD-000832,Levi's Trench FloralWhite,Jackets,Levi's,Premium,M,MediumBlue,226.0,0
+PROD-000833,Calvin Klein Oxford YellowGreen,Shirts,Calvin Klein,Premium,S,Maroon,737.0,2
+PROD-000834,Versace Business Sienna,Suits,Versace,Luxury,XL,White,1595.0,0
+PROD-000835,Uniqlo Trousers Gainsboro,Pants,Uniqlo,Fast Fashion,M,Tan,248.0,0
+PROD-000836,Tommy Hilfiger Chinos SeaShell,Pants,Tommy Hilfiger,Premium,M,DarkViolet,638.0,0
+PROD-000837,H&M Cocktail AntiqueWhite,Dresses,H&M,Fast Fashion,XL,BlanchedAlmond,92.0,64
+PROD-000838,H&M Cocktail LightCoral,Dresses,H&M,Fast Fashion,M,RoyalBlue,259.0,71
+PROD-000839,Zara Cocktail Beige,Dresses,Zara,Fast Fashion,XS,Gainsboro,186.0,37
+PROD-000840,H&M Trousers SlateBlue,Pants,H&M,Fast Fashion,XL,AliceBlue,217.0,0
+PROD-000841,Uniqlo Three-piece SlateBlue,Suits,Uniqlo,Fast Fashion,M,GhostWhite,241.0,33
+PROD-000842,H&M Cocktail MintCream,Dresses,H&M,Fast Fashion,S,Purple,160.0,46
+PROD-000843,Uniqlo Silk Azure,Shirts,Uniqlo,Fast Fashion,XS,ForestGreen,278.0,39
+PROD-000844,H&M Business Aqua,Suits,H&M,Fast Fashion,L,Brown,87.0,28
+PROD-000845,Uniqlo Three-piece LightBlue,Suits,Uniqlo,Fast Fashion,M,Orchid,232.0,72
+PROD-000846,Uniqlo Tuxedo MediumBlue,Suits,Uniqlo,Fast Fashion,XS,LightPink,217.0,14
+PROD-000847,Zara Designer Jeans Thistle,Pants,Zara,Fast Fashion,S,DarkRed,37.0,13
+PROD-000848,Uniqlo Cocktail MediumSpringGreen,Dresses,Uniqlo,Fast Fashion,S,LightSteelBlue,266.0,23
+PROD-000849,Tommy Hilfiger Chinos SlateBlue,Pants,Tommy Hilfiger,Premium,XS,PaleGreen,339.0,5
+PROD-000850,Tommy Hilfiger Designer Jeans Brown,Pants,Tommy Hilfiger,Premium,M,Gray,363.0,0
+PROD-000851,Zara Oxford Blue,Shirts,Zara,Fast Fashion,L,Beige,216.0,18
+PROD-000852,Prada Business LightSlateGray,Suits,Prada,Luxury,M,SaddleBrown,4927.0,0
+PROD-000853,Uniqlo Linen LightGreen,Shirts,Uniqlo,Fast Fashion,M,SandyBrown,266.0,84
+PROD-000854,Zara Cocktail ForestGreen,Dresses,Zara,Fast Fashion,M,LightPink,106.0,62
+PROD-000855,Gucci Linen DarkOrange,Shirts,Gucci,Luxury,S,MintCream,910.0,0
+PROD-000856,Calvin Klein Business Orange,Suits,Calvin Klein,Premium,XS,PaleTurquoise,585.0,0
+PROD-000857,Balenciaga Chinos Lavender,Pants,Balenciaga,Luxury,M,DarkGreen,1866.0,0
+PROD-000858,Zara Business HotPink,Suits,Zara,Fast Fashion,M,BlueViolet,187.0,87
+PROD-000859,Prada Cocktail HotPink,Dresses,Prada,Luxury,M,DodgerBlue,3731.0,0
+PROD-000860,Levi's Designer Jeans Maroon,Pants,Levi's,Premium,L,Silver,318.0,0
+PROD-000861,Uniqlo Oxford LightSlateGray,Shirts,Uniqlo,Fast Fashion,M,Salmon,182.0,60
+PROD-000862,H&M Trench Turquoise,Jackets,H&M,Fast Fashion,L,Beige,77.0,0
+PROD-000863,Gucci Designer Jeans OldLace,Pants,Gucci,Luxury,M,MediumAquaMarine,3634.0,5
+PROD-000864,Calvin Klein Maxi Fuchsia,Dresses,Calvin Klein,Premium,M,MediumBlue,492.0,4
+PROD-000865,Calvin Klein Cocktail LightGreen,Dresses,Calvin Klein,Premium,S,GoldenRod,316.0,0
+PROD-000866,Tommy Hilfiger Chinos Aquamarine,Pants,Tommy Hilfiger,Premium,M,PaleVioletRed,790.0,0
+PROD-000867,Gucci Designer Jeans Brown,Pants,Gucci,Luxury,M,IndianRed,4129.0,0
+PROD-000868,Levi's Designer Jeans DeepSkyBlue,Pants,Levi's,Premium,M,MediumBlue,588.0,0
+PROD-000869,H&M Designer Jeans DeepSkyBlue,Pants,H&M,Fast Fashion,M,White,202.0,68
+PROD-000870,H&M Linen Khaki,Shirts,H&M,Fast Fashion,L,DeepPink,183.0,81
+PROD-000871,Levi's Leather MediumBlue,Jackets,Levi's,Premium,L,PaleGreen,424.0,0
+PROD-000872,Uniqlo Trousers Salmon,Pants,Uniqlo,Fast Fashion,L,Plum,210.0,26
+PROD-000873,Zara Chinos PaleVioletRed,Pants,Zara,Fast Fashion,L,PapayaWhip,157.0,9
+PROD-000874,Zara Tuxedo LightPink,Suits,Zara,Fast Fashion,M,Turquoise,232.0,35
+PROD-000875,Zara Cocktail DarkGray,Dresses,Zara,Fast Fashion,M,SeaShell,159.0,5
+PROD-000876,Uniqlo Bomber PowderBlue,Jackets,Uniqlo,Fast Fashion,M,LightBlue,188.0,0
+PROD-000877,Uniqlo Silk Magenta,Shirts,Uniqlo,Fast Fashion,M,MediumPurple,264.0,27
+PROD-000878,H&M Tuxedo Magenta,Suits,H&M,Fast Fashion,S,HoneyDew,29.0,55
+PROD-000879,Calvin Klein Evening Gown Navy,Dresses,Calvin Klein,Premium,L,Orange,230.0,0
+PROD-000880,H&M Three-piece OldLace,Suits,H&M,Fast Fashion,S,GreenYellow,207.0,14
+PROD-000881,Uniqlo Trousers HoneyDew,Pants,Uniqlo,Fast Fashion,M,SteelBlue,52.0,0
+PROD-000882,Tommy Hilfiger Evening Gown Tan,Dresses,Tommy Hilfiger,Premium,S,Violet,681.0,0
+PROD-000883,Zara Bomber DarkGreen,Jackets,Zara,Fast Fashion,M,DarkSlateGray,296.0,49
+PROD-000884,H&M Three-piece Aquamarine,Suits,H&M,Fast Fashion,M,DarkGoldenRod,80.0,8
+PROD-000885,Zara Business DarkCyan,Suits,Zara,Fast Fashion,L,PaleVioletRed,232.0,44
+PROD-000886,H&M Business LightYellow,Suits,H&M,Fast Fashion,S,LightGreen,47.0,33
+PROD-000887,Calvin Klein Evening Gown IndianRed,Dresses,Calvin Klein,Premium,M,Maroon,192.0,0
+PROD-000888,Tommy Hilfiger Linen DarkViolet,Shirts,Tommy Hilfiger,Premium,M,Violet,692.0,0
+PROD-000889,Levi's Three-piece DarkSlateBlue,Suits,Levi's,Premium,M,LightPink,361.0,7
+PROD-000890,H&M Evening Gown DeepSkyBlue,Dresses,H&M,Fast Fashion,S,SandyBrown,31.0,64
+PROD-000891,Tommy Hilfiger Trench Gray,Jackets,Tommy Hilfiger,Premium,S,PapayaWhip,462.0,0
+PROD-000892,H&M Designer Jeans Tan,Pants,H&M,Fast Fashion,S,Orchid,272.0,0
+PROD-000893,Tommy Hilfiger Linen BurlyWood,Shirts,Tommy Hilfiger,Premium,M,BlanchedAlmond,220.0,1
+PROD-000894,Levi's Designer Jeans LimeGreen,Pants,Levi's,Premium,M,DarkRed,710.0,7
+PROD-000895,Uniqlo Tuxedo Plum,Suits,Uniqlo,Fast Fashion,M,Wheat,188.0,71
+PROD-000896,Levi's Oxford BlueViolet,Shirts,Levi's,Premium,XL,Coral,624.0,0
+PROD-000897,Tommy Hilfiger Business MediumAquaMarine,Suits,Tommy Hilfiger,Premium,M,Olive,605.0,0
+PROD-000898,H&M Maxi Brown,Dresses,H&M,Fast Fashion,L,Gainsboro,33.0,26
+PROD-000899,Calvin Klein Tuxedo DarkGoldenRod,Suits,Calvin Klein,Premium,M,Khaki,169.0,0
+PROD-000900,Calvin Klein Cocktail CadetBlue,Dresses,Calvin Klein,Premium,S,Salmon,606.0,0
+PROD-000901,Versace Leather Gold,Jackets,Versace,Luxury,S,DarkGray,4851.0,6
+PROD-000902,Calvin Klein Leather Ivory,Jackets,Calvin Klein,Premium,L,Gold,635.0,3
+PROD-000903,Zara Business DarkTurquoise,Suits,Zara,Fast Fashion,M,Tomato,28.0,40
+PROD-000904,H&M Three-piece LightSteelBlue,Suits,H&M,Fast Fashion,M,Yellow,42.0,61
+PROD-000905,H&M Designer Jeans LightSeaGreen,Pants,H&M,Fast Fashion,S,Azure,193.0,76
+PROD-000906,Zara Chinos GhostWhite,Pants,Zara,Fast Fashion,S,MediumPurple,291.0,2
+PROD-000907,Zara Trousers Magenta,Pants,Zara,Fast Fashion,M,DarkKhaki,80.0,30
+PROD-000908,H&M Business Peru,Suits,H&M,Fast Fashion,XL,DodgerBlue,191.0,37
+PROD-000909,Calvin Klein Bomber BurlyWood,Jackets,Calvin Klein,Premium,XL,SteelBlue,322.0,0
+PROD-000910,Zara Tuxedo LightSalmon,Suits,Zara,Fast Fashion,M,Peru,171.0,86
+PROD-000911,Prada Evening Gown Magenta,Dresses,Prada,Luxury,XL,Moccasin,3784.0,0
+PROD-000912,Zara Cocktail Cornsilk,Dresses,Zara,Fast Fashion,M,LightGoldenRodYellow,257.0,65
+PROD-000913,Tommy Hilfiger Trousers Turquoise,Pants,Tommy Hilfiger,Premium,M,Bisque,616.0,0
+PROD-000914,Uniqlo Maxi Lavender,Dresses,Uniqlo,Fast Fashion,XS,MediumAquaMarine,262.0,62
+PROD-000915,Tommy Hilfiger Trousers LightSeaGreen,Pants,Tommy Hilfiger,Premium,S,Tan,624.0,6
+PROD-000916,H&M Oxford DarkGoldenRod,Shirts,H&M,Fast Fashion,S,DarkOrchid,42.0,0
+PROD-000917,Zara Trousers LightSalmon,Pants,Zara,Fast Fashion,M,Ivory,226.0,3
+PROD-000918,Levi's Leather Crimson,Jackets,Levi's,Premium,M,Chocolate,227.0,0
+PROD-000919,Uniqlo Cocktail Orange,Dresses,Uniqlo,Fast Fashion,M,CornflowerBlue,49.0,75
+PROD-000920,Zara Trench RosyBrown,Jackets,Zara,Fast Fashion,XL,Navy,150.0,18
+PROD-000921,Calvin Klein Evening Gown LightSalmon,Dresses,Calvin Klein,Premium,M,LightGreen,767.0,0
+PROD-000922,Prada Linen Snow,Shirts,Prada,Luxury,XL,LightCyan,4360.0,0
+PROD-000923,Calvin Klein Designer Jeans SeaGreen,Pants,Calvin Klein,Premium,L,Khaki,572.0,0
+PROD-000924,Versace Bomber Purple,Jackets,Versace,Luxury,XS,DimGray,710.0,0
+PROD-000925,Levi's Cocktail Purple,Dresses,Levi's,Premium,S,MediumPurple,421.0,2
+PROD-000926,Calvin Klein Business BlueViolet,Suits,Calvin Klein,Premium,L,SteelBlue,765.0,0
+PROD-000927,Levi's Leather HotPink,Jackets,Levi's,Premium,M,Blue,378.0,0
+PROD-000928,Zara Leather Olive,Jackets,Zara,Fast Fashion,M,Khaki,97.0,16
+PROD-000929,Zara Three-piece Navy,Suits,Zara,Fast Fashion,M,GoldenRod,55.0,50
+PROD-000930,H&M Evening Gown Cyan,Dresses,H&M,Fast Fashion,S,DarkGray,203.0,60
+PROD-000931,Prada Cocktail IndianRed,Dresses,Prada,Luxury,M,Black,1406.0,0
+PROD-000932,Gucci Evening Gown Cyan,Dresses,Gucci,Luxury,M,LightYellow,4355.0,0
+PROD-000933,Uniqlo Business DarkRed,Suits,Uniqlo,Fast Fashion,S,Silver,248.0,64
+PROD-000934,Levi's Silk Khaki,Shirts,Levi's,Premium,L,BlanchedAlmond,155.0,0
+PROD-000935,Tommy Hilfiger Trench DarkSlateBlue,Jackets,Tommy Hilfiger,Premium,L,LemonChiffon,333.0,6
+PROD-000936,Zara Tuxedo DarkViolet,Suits,Zara,Fast Fashion,M,SandyBrown,74.0,63
+PROD-000937,Zara Maxi DarkGray,Dresses,Zara,Fast Fashion,S,OrangeRed,174.0,68
+PROD-000938,Zara Designer Jeans MediumAquaMarine,Pants,Zara,Fast Fashion,M,DarkOrange,257.0,78
+PROD-000939,Uniqlo Three-piece BurlyWood,Suits,Uniqlo,Fast Fashion,M,OldLace,162.0,24
+PROD-000940,Uniqlo Maxi Tomato,Dresses,Uniqlo,Fast Fashion,XL,OldLace,197.0,66
+PROD-000941,Tommy Hilfiger Evening Gown Red,Dresses,Tommy Hilfiger,Premium,L,DarkBlue,276.0,0
+PROD-000942,Zara Bomber FireBrick,Jackets,Zara,Fast Fashion,L,MintCream,53.0,0
+PROD-000943,Tommy Hilfiger Chinos DarkGray,Pants,Tommy Hilfiger,Premium,S,RosyBrown,792.0,0
+PROD-000944,H&M Cocktail OrangeRed,Dresses,H&M,Fast Fashion,S,Yellow,106.0,73
+PROD-000945,Uniqlo Oxford Wheat,Shirts,Uniqlo,Fast Fashion,M,SlateBlue,75.0,84
+PROD-000946,Tommy Hilfiger Three-piece MediumSlateBlue,Suits,Tommy Hilfiger,Premium,M,Navy,541.0,0
+PROD-000947,Louis Vuitton Trousers Olive,Pants,Louis Vuitton,Luxury,L,GreenYellow,4799.0,0
+PROD-000948,Levi's Silk Brown,Shirts,Levi's,Premium,M,Lime,749.0,0
+PROD-000949,H&M Trousers DarkRed,Pants,H&M,Fast Fashion,M,Pink,22.0,87
+PROD-000950,Calvin Klein Evening Gown DarkGray,Dresses,Calvin Klein,Premium,M,DarkTurquoise,355.0,0
+PROD-000951,Levi's Linen SaddleBrown,Shirts,Levi's,Premium,L,GhostWhite,707.0,0
+PROD-000952,Levi's Cocktail RoyalBlue,Dresses,Levi's,Premium,S,DodgerBlue,783.0,0
+PROD-000953,H&M Tuxedo Cornsilk,Suits,H&M,Fast Fashion,L,FireBrick,213.0,39
+PROD-000954,Uniqlo Silk Teal,Shirts,Uniqlo,Fast Fashion,XS,DarkGreen,113.0,3
+PROD-000955,Tommy Hilfiger Designer Jeans LightGray,Pants,Tommy Hilfiger,Premium,S,Brown,294.0,0
+PROD-000956,Tommy Hilfiger Three-piece RoyalBlue,Suits,Tommy Hilfiger,Premium,M,PaleGreen,482.0,0
+PROD-000957,Uniqlo Chinos Coral,Pants,Uniqlo,Fast Fashion,XL,LightCoral,149.0,63
+PROD-000958,Calvin Klein Chinos Green,Pants,Calvin Klein,Premium,M,Green,629.0,0
+PROD-000959,Balenciaga Evening Gown DarkGray,Dresses,Balenciaga,Luxury,M,Blue,1138.0,0
+PROD-000960,H&M Evening Gown Violet,Dresses,H&M,Fast Fashion,M,PaleTurquoise,33.0,58
+PROD-000961,Uniqlo Evening Gown DarkSeaGreen,Dresses,Uniqlo,Fast Fashion,M,Lime,165.0,4
+PROD-000962,Levi's Oxford SteelBlue,Shirts,Levi's,Premium,XS,CadetBlue,785.0,2
+PROD-000963,Uniqlo Evening Gown Plum,Dresses,Uniqlo,Fast Fashion,M,LightBlue,87.0,58
+PROD-000964,Zara Bomber LemonChiffon,Jackets,Zara,Fast Fashion,L,Orchid,115.0,28
+PROD-000965,Balenciaga Chinos Tan,Pants,Balenciaga,Luxury,L,WhiteSmoke,1941.0,2
+PROD-000966,H&M Silk NavajoWhite,Shirts,H&M,Fast Fashion,M,Salmon,53.0,78
+PROD-000967,Zara Evening Gown Aqua,Dresses,Zara,Fast Fashion,M,Teal,25.0,6
+PROD-000968,H&M Oxford Blue,Shirts,H&M,Fast Fashion,S,Navy,58.0,46
+PROD-000969,Versace Trousers FireBrick,Pants,Versace,Luxury,S,LightYellow,579.0,0
+PROD-000970,Levi's Silk OliveDrab,Shirts,Levi's,Premium,M,Green,601.0,0
+PROD-000971,Uniqlo Chinos SteelBlue,Pants,Uniqlo,Fast Fashion,L,Orchid,238.0,15
+PROD-000972,Zara Maxi NavajoWhite,Dresses,Zara,Fast Fashion,XL,Lime,299.0,0
+PROD-000973,Uniqlo Leather CornflowerBlue,Jackets,Uniqlo,Fast Fashion,M,DarkGray,289.0,0
+PROD-000974,Uniqlo Linen DarkSlateGray,Shirts,Uniqlo,Fast Fashion,XS,Peru,265.0,50
+PROD-000975,Louis Vuitton Trench LightGoldenRodYellow,Jackets,Louis Vuitton,Luxury,XL,Chartreuse,1823.0,0
+PROD-000976,Zara Business NavajoWhite,Suits,Zara,Fast Fashion,S,Peru,95.0,10
+PROD-000977,H&M Cocktail HotPink,Dresses,H&M,Fast Fashion,S,SandyBrown,87.0,24
+PROD-000978,Zara Business RosyBrown,Suits,Zara,Fast Fashion,XL,SkyBlue,44.0,28
+PROD-000979,Zara Business Chocolate,Suits,Zara,Fast Fashion,M,MediumPurple,94.0,0
+PROD-000980,Versace Leather Olive,Jackets,Versace,Luxury,L,LemonChiffon,4599.0,0
+PROD-000981,Zara Silk Violet,Shirts,Zara,Fast Fashion,M,Navy,220.0,72
+PROD-000982,Uniqlo Cocktail PaleTurquoise,Dresses,Uniqlo,Fast Fashion,S,Crimson,275.0,55
+PROD-000983,Tommy Hilfiger Leather Fuchsia,Jackets,Tommy Hilfiger,Premium,XL,Crimson,649.0,0
+PROD-000984,H&M Three-piece OliveDrab,Suits,H&M,Fast Fashion,L,WhiteSmoke,286.0,0
+PROD-000985,Zara Tuxedo OrangeRed,Suits,Zara,Fast Fashion,M,Olive,119.0,30
+PROD-000986,Prada Cocktail Teal,Dresses,Prada,Luxury,L,MediumOrchid,1530.0,0
+PROD-000987,Zara Three-piece ForestGreen,Suits,Zara,Fast Fashion,L,DarkOrange,197.0,39
+PROD-000988,Levi's Trench MediumSpringGreen,Jackets,Levi's,Premium,M,GoldenRod,422.0,2
+PROD-000989,Calvin Klein Business PaleGreen,Suits,Calvin Klein,Premium,XS,HotPink,342.0,9
+PROD-000990,Levi's Silk LightSteelBlue,Shirts,Levi's,Premium,S,SlateBlue,633.0,0
+PROD-000991,Zara Trench DarkTurquoise,Jackets,Zara,Fast Fashion,M,MintCream,147.0,0
+PROD-000992,Uniqlo Bomber Wheat,Jackets,Uniqlo,Fast Fashion,XS,DarkSeaGreen,220.0,83
+PROD-000993,H&M Three-piece OliveDrab,Suits,H&M,Fast Fashion,L,White,189.0,26
+PROD-000994,Uniqlo Bomber Crimson,Jackets,Uniqlo,Fast Fashion,M,DimGray,263.0,20
+PROD-000995,Uniqlo Designer Jeans Aquamarine,Pants,Uniqlo,Fast Fashion,L,LavenderBlush,257.0,18
+PROD-000996,Calvin Klein Designer Jeans SeaGreen,Pants,Calvin Klein,Premium,M,Chartreuse,238.0,0
+PROD-000997,Uniqlo Trench Orchid,Jackets,Uniqlo,Fast Fashion,S,Turquoise,135.0,62
+PROD-000998,Uniqlo Oxford SkyBlue,Shirts,Uniqlo,Fast Fashion,L,Thistle,91.0,41
+PROD-000999,Uniqlo Bomber OliveDrab,Jackets,Uniqlo,Fast Fashion,M,OrangeRed,106.0,28
+PROD-001000,H&M Chinos Teal,Pants,H&M,Fast Fashion,S,BlueViolet,28.0,85
+PROD-001001,Zara Silk MintCream,Shirts,Zara,Fast Fashion,M,DarkSlateBlue,285.0,29
+PROD-001002,Uniqlo Maxi Indigo,Dresses,Uniqlo,Fast Fashion,M,LightCoral,262.0,10
+PROD-001003,Uniqlo Leather LightSeaGreen,Jackets,Uniqlo,Fast Fashion,M,DarkSeaGreen,90.0,54
+PROD-001004,Uniqlo Business DarkMagenta,Suits,Uniqlo,Fast Fashion,L,MediumBlue,38.0,0
+PROD-001005,Uniqlo Chinos Pink,Pants,Uniqlo,Fast Fashion,M,MediumVioletRed,274.0,38
+PROD-001006,Uniqlo Business Beige,Suits,Uniqlo,Fast Fashion,L,OrangeRed,268.0,25
+PROD-001007,Tommy Hilfiger Evening Gown SeaShell,Dresses,Tommy Hilfiger,Premium,M,Lavender,257.0,6
+PROD-001008,Levi's Cocktail Indigo,Dresses,Levi's,Premium,M,SpringGreen,436.0,3
+PROD-001009,Uniqlo Evening Gown GreenYellow,Dresses,Uniqlo,Fast Fashion,M,SeaGreen,259.0,38
+PROD-001010,Calvin Klein Maxi LightSlateGray,Dresses,Calvin Klein,Premium,XL,DarkSalmon,506.0,0
+PROD-001011,Prada Trousers Red,Pants,Prada,Luxury,L,LightPink,4088.0,0
+PROD-001012,Zara Business MidnightBlue,Suits,Zara,Fast Fashion,S,Turquoise,81.0,20
+PROD-001013,H&M Silk Brown,Shirts,H&M,Fast Fashion,L,LightCyan,41.0,23
+PROD-001014,Versace Bomber PeachPuff,Jackets,Versace,Luxury,XS,AntiqueWhite,4648.0,0
+PROD-001015,Levi's Three-piece Teal,Suits,Levi's,Premium,M,Lavender,173.0,0
+PROD-001016,Tommy Hilfiger Maxi Orchid,Dresses,Tommy Hilfiger,Premium,M,CadetBlue,389.0,0
+PROD-001017,Uniqlo Tuxedo Peru,Suits,Uniqlo,Fast Fashion,XL,NavajoWhite,239.0,58
+PROD-001018,Zara Chinos Lime,Pants,Zara,Fast Fashion,XL,SandyBrown,255.0,3
+PROD-001019,Zara Evening Gown Linen,Dresses,Zara,Fast Fashion,S,Tan,75.0,80
+PROD-001020,Uniqlo Leather PaleTurquoise,Jackets,Uniqlo,Fast Fashion,L,SlateBlue,221.0,32
+PROD-001021,Zara Cocktail Khaki,Dresses,Zara,Fast Fashion,L,MediumSpringGreen,193.0,6
+PROD-001022,H&M Bomber PaleVioletRed,Jackets,H&M,Fast Fashion,S,BurlyWood,179.0,47
+PROD-001023,H&M Trench DarkSalmon,Jackets,H&M,Fast Fashion,S,Tan,189.0,0
+PROD-001024,Louis Vuitton Chinos MediumOrchid,Pants,Louis Vuitton,Luxury,M,DarkGray,3196.0,0
+PROD-001025,Zara Trousers YellowGreen,Pants,Zara,Fast Fashion,M,Fuchsia,172.0,26
+PROD-001026,Uniqlo Silk Black,Shirts,Uniqlo,Fast Fashion,S,White,99.0,88
+PROD-001027,Uniqlo Leather Silver,Jackets,Uniqlo,Fast Fashion,M,Sienna,137.0,76
+PROD-001028,H&M Business Brown,Suits,H&M,Fast Fashion,XS,DarkTurquoise,218.0,0
+PROD-001029,H&M Three-piece DarkOrange,Suits,H&M,Fast Fashion,L,Lime,112.0,40
+PROD-001030,Prada Oxford Thistle,Shirts,Prada,Luxury,L,Brown,4183.0,0
+PROD-001031,Zara Trousers DarkSalmon,Pants,Zara,Fast Fashion,M,Aqua,127.0,67
+PROD-001032,Zara Trousers LightGray,Pants,Zara,Fast Fashion,S,HoneyDew,183.0,71
+PROD-001033,H&M Trousers DimGray,Pants,H&M,Fast Fashion,XS,MediumAquaMarine,144.0,38
+PROD-001034,Prada Leather LemonChiffon,Jackets,Prada,Luxury,M,MediumTurquoise,640.0,0
+PROD-001035,Tommy Hilfiger Bomber LemonChiffon,Jackets,Tommy Hilfiger,Premium,S,SkyBlue,750.0,0
+PROD-001036,H&M Chinos MistyRose,Pants,H&M,Fast Fashion,M,Pink,45.0,19
+PROD-001037,Calvin Klein Maxi DarkGreen,Dresses,Calvin Klein,Premium,L,NavajoWhite,603.0,0
+PROD-001038,Zara Business SteelBlue,Suits,Zara,Fast Fashion,S,BlueViolet,297.0,0
+PROD-001039,Calvin Klein Silk OliveDrab,Shirts,Calvin Klein,Premium,XL,Teal,467.0,0
+PROD-001040,Uniqlo Trench DimGray,Jackets,Uniqlo,Fast Fashion,M,Gold,173.0,55
+PROD-001041,H&M Business Chocolate,Suits,H&M,Fast Fashion,M,AntiqueWhite,49.0,28
+PROD-001042,Tommy Hilfiger Three-piece Chartreuse,Suits,Tommy Hilfiger,Premium,S,Aquamarine,398.0,0
+PROD-001043,H&M Leather MediumSpringGreen,Jackets,H&M,Fast Fashion,L,Lime,25.0,38
+PROD-001044,Zara Trench MediumSlateBlue,Jackets,Zara,Fast Fashion,XL,LimeGreen,80.0,71
+PROD-001045,Zara Linen PaleGoldenRod,Shirts,Zara,Fast Fashion,L,Lavender,230.0,62
+PROD-001046,Uniqlo Silk Beige,Shirts,Uniqlo,Fast Fashion,M,CadetBlue,91.0,41
+PROD-001047,Balenciaga Chinos LimeGreen,Pants,Balenciaga,Luxury,L,CadetBlue,4984.0,0
+PROD-001048,Zara Trousers Cyan,Pants,Zara,Fast Fashion,M,Purple,128.0,15
+PROD-001049,Uniqlo Designer Jeans LavenderBlush,Pants,Uniqlo,Fast Fashion,XS,SpringGreen,153.0,52
+PROD-001050,Prada Tuxedo DarkOliveGreen,Suits,Prada,Luxury,L,Chocolate,2623.0,0
+PROD-001051,Zara Leather LightSalmon,Jackets,Zara,Fast Fashion,M,PaleGoldenRod,132.0,2
+PROD-001052,Prada Tuxedo Fuchsia,Suits,Prada,Luxury,XS,Snow,667.0,0
+PROD-001053,Uniqlo Maxi PowderBlue,Dresses,Uniqlo,Fast Fashion,S,AliceBlue,200.0,87
+PROD-001054,Levi's Trench LightCyan,Jackets,Levi's,Premium,XL,LightCyan,563.0,0
+PROD-001055,Zara Chinos LightGoldenRodYellow,Pants,Zara,Fast Fashion,XS,HoneyDew,43.0,0
+PROD-001056,Uniqlo Cocktail Bisque,Dresses,Uniqlo,Fast Fashion,S,Tan,118.0,69
+PROD-001057,H&M Chinos Pink,Pants,H&M,Fast Fashion,XS,Thistle,239.0,3
+PROD-001058,Calvin Klein Tuxedo LightSlateGray,Suits,Calvin Klein,Premium,L,Turquoise,227.0,0
+PROD-001059,Calvin Klein Trousers PaleGoldenRod,Pants,Calvin Klein,Premium,M,Teal,552.0,0
+PROD-001060,H&M Tuxedo DarkOrchid,Suits,H&M,Fast Fashion,S,Linen,58.0,51
+PROD-001061,Uniqlo Maxi MediumSpringGreen,Dresses,Uniqlo,Fast Fashion,S,SeaGreen,249.0,40
+PROD-001062,Zara Bomber Fuchsia,Jackets,Zara,Fast Fashion,M,Azure,116.0,10
+PROD-001063,Zara Designer Jeans Tan,Pants,Zara,Fast Fashion,M,Red,226.0,50
+PROD-001064,Uniqlo Designer Jeans LemonChiffon,Pants,Uniqlo,Fast Fashion,S,LightPink,158.0,75
+PROD-001065,Tommy Hilfiger Oxford SlateGray,Shirts,Tommy Hilfiger,Premium,S,Plum,656.0,0
+PROD-001066,Zara Silk Olive,Shirts,Zara,Fast Fashion,L,DarkSlateGray,273.0,35
+PROD-001067,Uniqlo Three-piece Moccasin,Suits,Uniqlo,Fast Fashion,M,Lavender,279.0,0
+PROD-001068,Zara Designer Jeans MediumSlateBlue,Pants,Zara,Fast Fashion,M,Thistle,22.0,0
+PROD-001069,Zara Chinos PeachPuff,Pants,Zara,Fast Fashion,S,Gold,207.0,53
+PROD-001070,Zara Silk Chartreuse,Shirts,Zara,Fast Fashion,S,PaleVioletRed,169.0,65
+PROD-001071,Uniqlo Business MediumTurquoise,Suits,Uniqlo,Fast Fashion,XS,GhostWhite,286.0,47
+PROD-001072,Prada Cocktail Khaki,Dresses,Prada,Luxury,M,Chartreuse,1958.0,0
+PROD-001073,Zara Oxford LawnGreen,Shirts,Zara,Fast Fashion,L,LemonChiffon,185.0,55
+PROD-001074,H&M Cocktail MintCream,Dresses,H&M,Fast Fashion,M,White,68.0,66
+PROD-001075,Tommy Hilfiger Linen GoldenRod,Shirts,Tommy Hilfiger,Premium,XL,RosyBrown,597.0,0
+PROD-001076,Calvin Klein Oxford Ivory,Shirts,Calvin Klein,Premium,L,AntiqueWhite,724.0,0
+PROD-001077,Tommy Hilfiger Trousers LightSalmon,Pants,Tommy Hilfiger,Premium,L,MediumPurple,627.0,3
+PROD-001078,Zara Evening Gown Black,Dresses,Zara,Fast Fashion,L,PaleVioletRed,25.0,38
+PROD-001079,Levi's Maxi SeaGreen,Dresses,Levi's,Premium,M,White,774.0,8
+PROD-001080,Versace Leather Maroon,Jackets,Versace,Luxury,L,Khaki,907.0,0
+PROD-001081,Louis Vuitton Business DarkViolet,Suits,Louis Vuitton,Luxury,M,PaleGreen,2335.0,0
+PROD-001082,Balenciaga Business SandyBrown,Suits,Balenciaga,Luxury,M,YellowGreen,3448.0,3
+PROD-001083,Gucci Linen DarkOliveGreen,Shirts,Gucci,Luxury,XS,OldLace,2456.0,3
+PROD-001084,Zara Designer Jeans DarkSlateBlue,Pants,Zara,Fast Fashion,S,PapayaWhip,235.0,54
+PROD-001085,H&M Tuxedo DimGray,Suits,H&M,Fast Fashion,M,Peru,237.0,33
+PROD-001086,Uniqlo Three-piece DarkGoldenRod,Suits,Uniqlo,Fast Fashion,L,Cyan,156.0,57
+PROD-001087,H&M Cocktail WhiteSmoke,Dresses,H&M,Fast Fashion,M,Lavender,141.0,36
+PROD-001088,H&M Chinos Lavender,Pants,H&M,Fast Fashion,L,PaleGreen,56.0,85
+PROD-001089,Zara Maxi DarkTurquoise,Dresses,Zara,Fast Fashion,L,Coral,77.0,36
+PROD-001090,Levi's Leather NavajoWhite,Jackets,Levi's,Premium,M,CornflowerBlue,676.0,1
+PROD-001091,Levi's Oxford PaleVioletRed,Shirts,Levi's,Premium,M,LightSkyBlue,445.0,0
+PROD-001092,H&M Tuxedo DarkSeaGreen,Suits,H&M,Fast Fashion,M,DarkOliveGreen,30.0,0
+PROD-001093,Zara Trench AliceBlue,Jackets,Zara,Fast Fashion,M,Maroon,150.0,0
+PROD-001094,Levi's Three-piece DarkSeaGreen,Suits,Levi's,Premium,M,Orchid,478.0,7
+PROD-001095,Calvin Klein Cocktail Blue,Dresses,Calvin Klein,Premium,S,SeaGreen,219.0,0
+PROD-001096,Zara Three-piece Chocolate,Suits,Zara,Fast Fashion,S,Plum,197.0,42
+PROD-001097,Zara Trousers OldLace,Pants,Zara,Fast Fashion,S,WhiteSmoke,156.0,55
+PROD-001098,H&M Bomber MediumAquaMarine,Jackets,H&M,Fast Fashion,M,PapayaWhip,280.0,11
+PROD-001099,Calvin Klein Maxi Crimson,Dresses,Calvin Klein,Premium,XL,OliveDrab,378.0,7
+PROD-001100,Calvin Klein Designer Jeans HotPink,Pants,Calvin Klein,Premium,L,Peru,311.0,2
+PROD-001101,H&M Trench LightCoral,Jackets,H&M,Fast Fashion,L,GoldenRod,259.0,24
+PROD-001102,Zara Tuxedo Coral,Suits,Zara,Fast Fashion,L,Coral,129.0,0
+PROD-001103,Uniqlo Business DarkSalmon,Suits,Uniqlo,Fast Fashion,M,DarkOrange,277.0,0
+PROD-001104,Tommy Hilfiger Leather MediumVioletRed,Jackets,Tommy Hilfiger,Premium,XL,Plum,376.0,0
+PROD-001105,H&M Designer Jeans Orchid,Pants,H&M,Fast Fashion,XL,MediumSpringGreen,253.0,22
+PROD-001106,H&M Maxi Orange,Dresses,H&M,Fast Fashion,M,Salmon,177.0,37
+PROD-001107,Uniqlo Maxi DarkGoldenRod,Dresses,Uniqlo,Fast Fashion,M,Orchid,119.0,0
+PROD-001108,H&M Silk SteelBlue,Shirts,H&M,Fast Fashion,XS,LawnGreen,94.0,0
+PROD-001109,H&M Designer Jeans NavajoWhite,Pants,H&M,Fast Fashion,M,LightSalmon,180.0,0
+PROD-001110,Prada Tuxedo SeaShell,Suits,Prada,Luxury,L,Aqua,2253.0,0
+PROD-001111,Uniqlo Trousers BurlyWood,Pants,Uniqlo,Fast Fashion,L,DarkSeaGreen,164.0,12
+PROD-001112,Zara Tuxedo Navy,Suits,Zara,Fast Fashion,M,Cornsilk,282.0,0
+PROD-001113,Zara Cocktail Yellow,Dresses,Zara,Fast Fashion,L,SkyBlue,205.0,14
+PROD-001114,Uniqlo Tuxedo CornflowerBlue,Suits,Uniqlo,Fast Fashion,L,LightGray,237.0,0
+PROD-001115,Levi's Business Ivory,Suits,Levi's,Premium,L,NavajoWhite,308.0,1
+PROD-001116,Levi's Trousers LawnGreen,Pants,Levi's,Premium,S,LightGray,425.0,0
+PROD-001117,H&M Oxford White,Shirts,H&M,Fast Fashion,L,DarkOrchid,72.0,27
+PROD-001118,Uniqlo Cocktail DarkMagenta,Dresses,Uniqlo,Fast Fashion,M,YellowGreen,244.0,16
+PROD-001119,H&M Leather Tan,Jackets,H&M,Fast Fashion,M,Violet,256.0,80
+PROD-001120,Zara Tuxedo PaleGreen,Suits,Zara,Fast Fashion,S,IndianRed,270.0,26
+PROD-001121,H&M Chinos PaleTurquoise,Pants,H&M,Fast Fashion,M,MediumSlateBlue,226.0,53
+PROD-001122,Balenciaga Leather MediumVioletRed,Jackets,Balenciaga,Luxury,M,PapayaWhip,3328.0,0
+PROD-001123,Uniqlo Leather DarkOrange,Jackets,Uniqlo,Fast Fashion,XS,Peru,238.0,50
+PROD-001124,Zara Silk LightSeaGreen,Shirts,Zara,Fast Fashion,S,DeepSkyBlue,287.0,0
+PROD-001125,Uniqlo Oxford Tomato,Shirts,Uniqlo,Fast Fashion,S,HoneyDew,90.0,52
+PROD-001126,H&M Linen DarkSeaGreen,Shirts,H&M,Fast Fashion,S,MediumVioletRed,216.0,46
+PROD-001127,Tommy Hilfiger Oxford Khaki,Shirts,Tommy Hilfiger,Premium,L,HotPink,733.0,1
+PROD-001128,Tommy Hilfiger Silk ForestGreen,Shirts,Tommy Hilfiger,Premium,M,Moccasin,294.0,0
+PROD-001129,Uniqlo Trench Teal,Jackets,Uniqlo,Fast Fashion,XS,SlateBlue,215.0,67
+PROD-001130,Calvin Klein Tuxedo LightCyan,Suits,Calvin Klein,Premium,S,Yellow,229.0,0
+PROD-001131,Zara Evening Gown DarkOrange,Dresses,Zara,Fast Fashion,M,DarkSalmon,121.0,6
+PROD-001132,Louis Vuitton Silk LemonChiffon,Shirts,Louis Vuitton,Luxury,XL,Silver,736.0,0
+PROD-001133,Zara Tuxedo Magenta,Suits,Zara,Fast Fashion,M,MediumSeaGreen,75.0,33
+PROD-001134,Uniqlo Leather GoldenRod,Jackets,Uniqlo,Fast Fashion,M,Cornsilk,164.0,7
+PROD-001135,H&M Three-piece WhiteSmoke,Suits,H&M,Fast Fashion,M,MistyRose,229.0,49
+PROD-001136,Uniqlo Bomber DarkViolet,Jackets,Uniqlo,Fast Fashion,M,LightCyan,114.0,55
+PROD-001137,Zara Cocktail CadetBlue,Dresses,Zara,Fast Fashion,M,Chocolate,102.0,0
+PROD-001138,H&M Designer Jeans AntiqueWhite,Pants,H&M,Fast Fashion,M,Khaki,40.0,61
+PROD-001139,Balenciaga Trousers Maroon,Pants,Balenciaga,Luxury,XL,LightCyan,4073.0,0
+PROD-001140,Calvin Klein Evening Gown Red,Dresses,Calvin Klein,Premium,M,LightCoral,737.0,2
+PROD-001141,Zara Three-piece ForestGreen,Suits,Zara,Fast Fashion,L,AliceBlue,93.0,63
+PROD-001142,Zara Linen White,Shirts,Zara,Fast Fashion,S,SteelBlue,71.0,23
+PROD-001143,Gucci Silk NavajoWhite,Shirts,Gucci,Luxury,XL,LightGoldenRodYellow,788.0,0
+PROD-001144,Tommy Hilfiger Maxi OrangeRed,Dresses,Tommy Hilfiger,Premium,XL,OrangeRed,208.0,0
+PROD-001145,Uniqlo Designer Jeans LightBlue,Pants,Uniqlo,Fast Fashion,S,MediumBlue,134.0,0
+PROD-001146,Uniqlo Designer Jeans DeepPink,Pants,Uniqlo,Fast Fashion,M,DarkTurquoise,126.0,3
+PROD-001147,Uniqlo Chinos PaleVioletRed,Pants,Uniqlo,Fast Fashion,XS,FireBrick,193.0,35
+PROD-001148,Calvin Klein Trousers GhostWhite,Pants,Calvin Klein,Premium,L,DeepSkyBlue,275.0,2
+PROD-001149,H&M Three-piece DarkGray,Suits,H&M,Fast Fashion,M,LightGreen,230.0,16
+PROD-001150,Tommy Hilfiger Maxi YellowGreen,Dresses,Tommy Hilfiger,Premium,XL,LawnGreen,341.0,0
+PROD-001151,Calvin Klein Designer Jeans CadetBlue,Pants,Calvin Klein,Premium,M,DarkMagenta,690.0,0
+PROD-001152,Calvin Klein Leather Moccasin,Jackets,Calvin Klein,Premium,L,SlateGray,268.0,0
+PROD-001153,Tommy Hilfiger Business SlateBlue,Suits,Tommy Hilfiger,Premium,M,DeepPink,731.0,0
+PROD-001154,Levi's Business Teal,Suits,Levi's,Premium,XS,PaleGoldenRod,212.0,1
+PROD-001155,H&M Designer Jeans LavenderBlush,Pants,H&M,Fast Fashion,M,BlanchedAlmond,26.0,0
+PROD-001156,Zara Bomber DarkGray,Jackets,Zara,Fast Fashion,M,DarkOrange,27.0,62
+PROD-001157,H&M Trousers Lime,Pants,H&M,Fast Fashion,L,Purple,205.0,55
+PROD-001158,H&M Leather Thistle,Jackets,H&M,Fast Fashion,M,LemonChiffon,65.0,38
+PROD-001159,H&M Cocktail PeachPuff,Dresses,H&M,Fast Fashion,S,SandyBrown,236.0,17
+PROD-001160,Levi's Trousers Lavender,Pants,Levi's,Premium,L,LightGray,796.0,0
+PROD-001161,Uniqlo Trousers LightGreen,Pants,Uniqlo,Fast Fashion,M,MediumSeaGreen,120.0,0
+PROD-001162,Zara Leather SlateGray,Jackets,Zara,Fast Fashion,L,SaddleBrown,240.0,34
+PROD-001163,H&M Three-piece CornflowerBlue,Suits,H&M,Fast Fashion,M,CornflowerBlue,154.0,51
+PROD-001164,Uniqlo Three-piece Plum,Suits,Uniqlo,Fast Fashion,XL,Olive,179.0,34
+PROD-001165,H&M Designer Jeans SandyBrown,Pants,H&M,Fast Fashion,M,Tan,140.0,82
+PROD-001166,Zara Tuxedo LightPink,Suits,Zara,Fast Fashion,M,LightCyan,282.0,43
+PROD-001167,Tommy Hilfiger Silk Pink,Shirts,Tommy Hilfiger,Premium,XS,DarkGoldenRod,216.0,0
+PROD-001168,Zara Leather OldLace,Jackets,Zara,Fast Fashion,S,MediumAquaMarine,199.0,18
+PROD-001169,Louis Vuitton Designer Jeans Tomato,Pants,Louis Vuitton,Luxury,S,DarkSlateBlue,1431.0,1
+PROD-001170,H&M Chinos MediumAquaMarine,Pants,H&M,Fast Fashion,L,Beige,165.0,0
+PROD-001171,Calvin Klein Evening Gown GhostWhite,Dresses,Calvin Klein,Premium,M,Salmon,652.0,0
+PROD-001172,Zara Oxford Linen,Shirts,Zara,Fast Fashion,M,LightGoldenRodYellow,130.0,0
+PROD-001173,Tommy Hilfiger Evening Gown SlateBlue,Dresses,Tommy Hilfiger,Premium,S,Aquamarine,160.0,0
+PROD-001174,Zara Linen Bisque,Shirts,Zara,Fast Fashion,XS,RosyBrown,250.0,51
+PROD-001175,Tommy Hilfiger Tuxedo YellowGreen,Suits,Tommy Hilfiger,Premium,M,SlateGray,453.0,2
+PROD-001176,Uniqlo Tuxedo YellowGreen,Suits,Uniqlo,Fast Fashion,XS,Tomato,77.0,76
+PROD-001177,Levi's Tuxedo DarkSalmon,Suits,Levi's,Premium,L,PaleTurquoise,699.0,0
+PROD-001178,Levi's Evening Gown DeepPink,Dresses,Levi's,Premium,L,LightYellow,754.0,0
+PROD-001179,Zara Leather PaleTurquoise,Jackets,Zara,Fast Fashion,M,HoneyDew,105.0,82
+PROD-001180,H&M Trousers LightGoldenRodYellow,Pants,H&M,Fast Fashion,XS,FireBrick,55.0,29
+PROD-001181,Zara Three-piece DarkGreen,Suits,Zara,Fast Fashion,XL,LavenderBlush,104.0,0
+PROD-001182,Zara Trousers SkyBlue,Pants,Zara,Fast Fashion,L,LightGoldenRodYellow,213.0,27
+PROD-001183,Tommy Hilfiger Evening Gown Azure,Dresses,Tommy Hilfiger,Premium,XS,Silver,483.0,2
+PROD-001184,Levi's Evening Gown Lavender,Dresses,Levi's,Premium,M,HoneyDew,550.0,0
+PROD-001185,Zara Designer Jeans GreenYellow,Pants,Zara,Fast Fashion,M,HoneyDew,135.0,89
+PROD-001186,Zara Linen LimeGreen,Shirts,Zara,Fast Fashion,XS,LavenderBlush,208.0,8
+PROD-001187,Calvin Klein Oxford Snow,Shirts,Calvin Klein,Premium,XL,Turquoise,168.0,0
+PROD-001188,H&M Trousers AliceBlue,Pants,H&M,Fast Fashion,L,RoyalBlue,216.0,7
+PROD-001189,Tommy Hilfiger Cocktail MediumPurple,Dresses,Tommy Hilfiger,Premium,S,MediumOrchid,319.0,0
+PROD-001190,Levi's Oxford LemonChiffon,Shirts,Levi's,Premium,S,FloralWhite,223.0,0
+PROD-001191,Versace Oxford Fuchsia,Shirts,Versace,Luxury,M,DarkSlateBlue,4069.0,0
+PROD-001192,Levi's Business MediumTurquoise,Suits,Levi's,Premium,S,ForestGreen,790.0,0
+PROD-001193,Zara Three-piece MidnightBlue,Suits,Zara,Fast Fashion,S,Lavender,47.0,40
+PROD-001194,H&M Trench Coral,Jackets,H&M,Fast Fashion,M,Ivory,262.0,24
+PROD-001195,Zara Cocktail DarkMagenta,Dresses,Zara,Fast Fashion,M,OliveDrab,107.0,55
+PROD-001196,Levi's Chinos WhiteSmoke,Pants,Levi's,Premium,XS,DodgerBlue,600.0,0
+PROD-001197,H&M Designer Jeans DarkCyan,Pants,H&M,Fast Fashion,M,Chartreuse,208.0,7
+PROD-001198,H&M Chinos MediumSeaGreen,Pants,H&M,Fast Fashion,L,Violet,82.0,5
+PROD-001199,Calvin Klein Linen Turquoise,Shirts,Calvin Klein,Premium,L,SkyBlue,781.0,0
+PROD-001200,Calvin Klein Bomber YellowGreen,Jackets,Calvin Klein,Premium,M,LightYellow,219.0,0
+PROD-001201,Tommy Hilfiger Trousers HoneyDew,Pants,Tommy Hilfiger,Premium,M,BlueViolet,175.0,0
+PROD-001202,Zara Chinos LimeGreen,Pants,Zara,Fast Fashion,XS,Olive,280.0,26
+PROD-001203,H&M Evening Gown Chartreuse,Dresses,H&M,Fast Fashion,M,MediumSpringGreen,236.0,75
+PROD-001204,Gucci Three-piece RosyBrown,Suits,Gucci,Luxury,L,SandyBrown,2764.0,0
+PROD-001205,Levi's Silk SteelBlue,Shirts,Levi's,Premium,S,LightCoral,768.0,0
+PROD-001206,Levi's Bomber DarkBlue,Jackets,Levi's,Premium,XL,RoyalBlue,495.0,0
+PROD-001207,Uniqlo Maxi BlueViolet,Dresses,Uniqlo,Fast Fashion,XL,Red,208.0,52
+PROD-001208,H&M Tuxedo DarkGreen,Suits,H&M,Fast Fashion,S,DarkSlateGray,156.0,48
+PROD-001209,Zara Designer Jeans SkyBlue,Pants,Zara,Fast Fashion,L,Gray,243.0,56
+PROD-001210,Uniqlo Leather Olive,Jackets,Uniqlo,Fast Fashion,M,LightGreen,171.0,67
+PROD-001211,H&M Three-piece GreenYellow,Suits,H&M,Fast Fashion,L,PaleGreen,283.0,0
+PROD-001212,Louis Vuitton Silk Plum,Shirts,Louis Vuitton,Luxury,L,SaddleBrown,2744.0,0
+PROD-001213,Zara Cocktail LightSteelBlue,Dresses,Zara,Fast Fashion,M,DarkGreen,163.0,49
+PROD-001214,Uniqlo Tuxedo HoneyDew,Suits,Uniqlo,Fast Fashion,M,Gray,175.0,11
+PROD-001215,Uniqlo Oxford Pink,Shirts,Uniqlo,Fast Fashion,M,Orchid,41.0,0
+PROD-001216,Tommy Hilfiger Linen Gainsboro,Shirts,Tommy Hilfiger,Premium,XS,Orchid,285.0,0
+PROD-001217,Levi's Maxi DarkRed,Dresses,Levi's,Premium,XS,BlueViolet,379.0,0
+PROD-001218,Zara Linen Crimson,Shirts,Zara,Fast Fashion,M,DarkGray,278.0,81
+PROD-001219,Uniqlo Trousers YellowGreen,Pants,Uniqlo,Fast Fashion,M,Fuchsia,182.0,33
+PROD-001220,Uniqlo Maxi SeaGreen,Dresses,Uniqlo,Fast Fashion,S,PeachPuff,197.0,40
+PROD-001221,Zara Oxford GhostWhite,Shirts,Zara,Fast Fashion,M,HotPink,70.0,39
+PROD-001222,Uniqlo Chinos BlueViolet,Pants,Uniqlo,Fast Fashion,L,MidnightBlue,121.0,51
+PROD-001223,H&M Business MintCream,Suits,H&M,Fast Fashion,XL,LightPink,134.0,49
+PROD-001224,Levi's Chinos DarkKhaki,Pants,Levi's,Premium,M,LimeGreen,309.0,3
+PROD-001225,Levi's Chinos SkyBlue,Pants,Levi's,Premium,M,LavenderBlush,281.0,4
+PROD-001226,H&M Evening Gown SkyBlue,Dresses,H&M,Fast Fashion,M,Fuchsia,226.0,0
+PROD-001227,Uniqlo Evening Gown DarkSlateGray,Dresses,Uniqlo,Fast Fashion,XL,Lime,28.0,51
+PROD-001228,H&M Designer Jeans MediumSpringGreen,Pants,H&M,Fast Fashion,M,DarkOrchid,72.0,36
+PROD-001229,Levi's Oxford Wheat,Shirts,Levi's,Premium,M,PeachPuff,263.0,0
+PROD-001230,H&M Trousers Turquoise,Pants,H&M,Fast Fashion,M,Thistle,124.0,16
+PROD-001231,Levi's Trench PaleGreen,Jackets,Levi's,Premium,XS,RoyalBlue,403.0,0
+PROD-001232,H&M Chinos LightSalmon,Pants,H&M,Fast Fashion,M,LightYellow,114.0,72
+PROD-001233,Zara Three-piece AliceBlue,Suits,Zara,Fast Fashion,S,Brown,138.0,13
+PROD-001234,Zara Business Azure,Suits,Zara,Fast Fashion,S,YellowGreen,252.0,62
+PROD-001235,Zara Business HotPink,Suits,Zara,Fast Fashion,M,Pink,51.0,46
+PROD-001236,Uniqlo Maxi Khaki,Dresses,Uniqlo,Fast Fashion,L,Crimson,129.0,29
+PROD-001237,H&M Silk MediumSlateBlue,Shirts,H&M,Fast Fashion,L,PeachPuff,152.0,49
+PROD-001238,Calvin Klein Trousers SandyBrown,Pants,Calvin Klein,Premium,M,ForestGreen,439.0,0
+PROD-001239,Uniqlo Designer Jeans Wheat,Pants,Uniqlo,Fast Fashion,M,RosyBrown,268.0,0
+PROD-001240,Zara Linen LightBlue,Shirts,Zara,Fast Fashion,XS,PaleTurquoise,227.0,15
+PROD-001241,Uniqlo Business GoldenRod,Suits,Uniqlo,Fast Fashion,L,MediumBlue,189.0,18
+PROD-001242,H&M Business Plum,Suits,H&M,Fast Fashion,L,DarkSalmon,90.0,4
+PROD-001243,Uniqlo Chinos MediumVioletRed,Pants,Uniqlo,Fast Fashion,M,Salmon,117.0,0
+PROD-001244,Zara Three-piece Orange,Suits,Zara,Fast Fashion,M,LavenderBlush,193.0,37
+PROD-001245,Zara Leather PaleVioletRed,Jackets,Zara,Fast Fashion,M,Thistle,152.0,19
+PROD-001246,H&M Linen White,Shirts,H&M,Fast Fashion,S,Purple,88.0,78
+PROD-001247,Uniqlo Linen DarkSeaGreen,Shirts,Uniqlo,Fast Fashion,XS,GoldenRod,262.0,86
+PROD-001248,Levi's Evening Gown LightPink,Dresses,Levi's,Premium,M,Chocolate,238.0,0
+PROD-001249,Louis Vuitton Tuxedo MediumAquaMarine,Suits,Louis Vuitton,Luxury,M,LightSlateGray,2447.0,7
+PROD-001250,Calvin Klein Tuxedo Yellow,Suits,Calvin Klein,Premium,S,SaddleBrown,361.0,0
+PROD-001251,Levi's Business BlueViolet,Suits,Levi's,Premium,L,WhiteSmoke,271.0,0
+PROD-001252,H&M Designer Jeans HotPink,Pants,H&M,Fast Fashion,M,DarkOliveGreen,203.0,17
+PROD-001253,Tommy Hilfiger Maxi FloralWhite,Dresses,Tommy Hilfiger,Premium,M,LightSlateGray,173.0,0
+PROD-001254,Zara Trousers Orange,Pants,Zara,Fast Fashion,M,DarkGray,29.0,17
+PROD-001255,Uniqlo Leather GreenYellow,Jackets,Uniqlo,Fast Fashion,L,Violet,139.0,10
+PROD-001256,H&M Trench DarkSalmon,Jackets,H&M,Fast Fashion,M,Ivory,93.0,17
+PROD-001257,Balenciaga Designer Jeans LightBlue,Pants,Balenciaga,Luxury,XL,BlueViolet,1532.0,7
+PROD-001258,Uniqlo Evening Gown MediumTurquoise,Dresses,Uniqlo,Fast Fashion,S,MidnightBlue,288.0,83
+PROD-001259,Zara Silk White,Shirts,Zara,Fast Fashion,M,LightGoldenRodYellow,264.0,0
+PROD-001260,H&M Bomber MediumOrchid,Jackets,H&M,Fast Fashion,XL,DarkBlue,103.0,84
+PROD-001261,Versace Tuxedo Yellow,Suits,Versace,Luxury,XL,AliceBlue,2819.0,0
+PROD-001262,Zara Chinos MintCream,Pants,Zara,Fast Fashion,S,Lime,23.0,0
+PROD-001263,Calvin Klein Leather WhiteSmoke,Jackets,Calvin Klein,Premium,S,BlueViolet,706.0,0
+PROD-001264,Zara Trousers DeepPink,Pants,Zara,Fast Fashion,S,Orange,297.0,47
+PROD-001265,Zara Trench Purple,Jackets,Zara,Fast Fashion,M,Moccasin,153.0,44
+PROD-001266,Balenciaga Cocktail LightSeaGreen,Dresses,Balenciaga,Luxury,M,WhiteSmoke,1208.0,0
+PROD-001267,Zara Designer Jeans LightCoral,Pants,Zara,Fast Fashion,M,PaleVioletRed,239.0,51
+PROD-001268,Uniqlo Bomber Blue,Jackets,Uniqlo,Fast Fashion,M,Gainsboro,109.0,52
+PROD-001269,Tommy Hilfiger Linen DimGray,Shirts,Tommy Hilfiger,Premium,XS,Plum,726.0,0
+PROD-001270,Uniqlo Business Red,Suits,Uniqlo,Fast Fashion,XS,Azure,158.0,84
+PROD-001271,Uniqlo Chinos DarkSlateGray,Pants,Uniqlo,Fast Fashion,S,DimGray,214.0,14
+PROD-001272,Tommy Hilfiger Business DarkRed,Suits,Tommy Hilfiger,Premium,XS,Yellow,298.0,0
+PROD-001273,Zara Linen Ivory,Shirts,Zara,Fast Fashion,L,CornflowerBlue,120.0,0
+PROD-001274,Prada Leather SkyBlue,Jackets,Prada,Luxury,M,Wheat,4424.0,7
+PROD-001275,Calvin Klein Cocktail Chartreuse,Dresses,Calvin Klein,Premium,M,Pink,577.0,2
+PROD-001276,Tommy Hilfiger Cocktail Salmon,Dresses,Tommy Hilfiger,Premium,S,Khaki,226.0,0
+PROD-001277,Calvin Klein Bomber Gainsboro,Jackets,Calvin Klein,Premium,M,LightGoldenRodYellow,727.0,0
+PROD-001278,Tommy Hilfiger Chinos Violet,Pants,Tommy Hilfiger,Premium,M,DarkSlateBlue,195.0,0
+PROD-001279,Uniqlo Three-piece OrangeRed,Suits,Uniqlo,Fast Fashion,M,DarkBlue,87.0,31
+PROD-001280,Calvin Klein Trousers Gold,Pants,Calvin Klein,Premium,M,LightGreen,314.0,0
+PROD-001281,H&M Trousers Beige,Pants,H&M,Fast Fashion,M,PaleGreen,149.0,0
+PROD-001282,H&M Trench LightBlue,Jackets,H&M,Fast Fashion,M,Red,93.0,12
+PROD-001283,Balenciaga Trousers DeepSkyBlue,Pants,Balenciaga,Luxury,S,BlueViolet,1467.0,0
+PROD-001284,Zara Bomber DarkGoldenRod,Jackets,Zara,Fast Fashion,M,Gold,21.0,0
+PROD-001285,H&M Maxi LightBlue,Dresses,H&M,Fast Fashion,XS,SpringGreen,105.0,39
+PROD-001286,Uniqlo Trousers DarkKhaki,Pants,Uniqlo,Fast Fashion,M,Red,90.0,20
+PROD-001287,Uniqlo Business Pink,Suits,Uniqlo,Fast Fashion,L,Azure,262.0,71
+PROD-001288,H&M Trousers Snow,Pants,H&M,Fast Fashion,S,OrangeRed,184.0,68
+PROD-001289,Calvin Klein Oxford DeepPink,Shirts,Calvin Klein,Premium,M,RosyBrown,491.0,0
+PROD-001290,Versace Oxford MediumBlue,Shirts,Versace,Luxury,M,Teal,4154.0,7
+PROD-001291,Levi's Bomber DarkGoldenRod,Jackets,Levi's,Premium,M,PowderBlue,477.0,0
+PROD-001292,Uniqlo Three-piece Fuchsia,Suits,Uniqlo,Fast Fashion,XL,PowderBlue,96.0,15
+PROD-001293,Uniqlo Oxford GoldenRod,Shirts,Uniqlo,Fast Fashion,S,PeachPuff,231.0,81
+PROD-001294,Balenciaga Cocktail SeaGreen,Dresses,Balenciaga,Luxury,S,DarkKhaki,1574.0,0
+PROD-001295,H&M Evening Gown ForestGreen,Dresses,H&M,Fast Fashion,M,PeachPuff,234.0,0
+PROD-001296,Zara Maxi OliveDrab,Dresses,Zara,Fast Fashion,M,DimGray,84.0,75
+PROD-001297,Zara Business DarkKhaki,Suits,Zara,Fast Fashion,M,Navy,192.0,0
+PROD-001298,Calvin Klein Three-piece LightSteelBlue,Suits,Calvin Klein,Premium,S,IndianRed,612.0,0
+PROD-001299,H&M Linen GreenYellow,Shirts,H&M,Fast Fashion,L,DarkOrange,263.0,3
+PROD-001300,Tommy Hilfiger Designer Jeans LemonChiffon,Pants,Tommy Hilfiger,Premium,M,RosyBrown,300.0,2
+PROD-001301,Louis Vuitton Maxi DarkGreen,Dresses,Louis Vuitton,Luxury,XS,DarkOrchid,1177.0,6
+PROD-001302,Zara Three-piece Yellow,Suits,Zara,Fast Fashion,S,Violet,236.0,0
+PROD-001303,H&M Evening Gown Cyan,Dresses,H&M,Fast Fashion,XL,White,141.0,75
+PROD-001304,Tommy Hilfiger Trousers DarkOrchid,Pants,Tommy Hilfiger,Premium,M,MediumSeaGreen,237.0,6
+PROD-001305,Zara Leather DarkBlue,Jackets,Zara,Fast Fashion,S,AliceBlue,278.0,36
+PROD-001306,Balenciaga Trousers OrangeRed,Pants,Balenciaga,Luxury,XS,DarkOrange,672.0,0
+PROD-001307,H&M Silk BlanchedAlmond,Shirts,H&M,Fast Fashion,XL,Black,191.0,24
+PROD-001308,Uniqlo Oxford MediumSpringGreen,Shirts,Uniqlo,Fast Fashion,XS,PaleGreen,113.0,73
+PROD-001309,H&M Trench MediumAquaMarine,Jackets,H&M,Fast Fashion,M,WhiteSmoke,165.0,0
+PROD-001310,Zara Business CadetBlue,Suits,Zara,Fast Fashion,M,Red,192.0,53
+PROD-001311,Calvin Klein Bomber LightSkyBlue,Jackets,Calvin Klein,Premium,XS,DarkCyan,179.0,0
+PROD-001312,H&M Leather Indigo,Jackets,H&M,Fast Fashion,M,RoyalBlue,224.0,35
+PROD-001313,Uniqlo Bomber RoyalBlue,Jackets,Uniqlo,Fast Fashion,L,LightSlateGray,171.0,0
+PROD-001314,H&M Trench MediumPurple,Jackets,H&M,Fast Fashion,L,DarkSlateGray,258.0,19
+PROD-001315,Zara Designer Jeans SeaShell,Pants,Zara,Fast Fashion,S,LightCyan,222.0,22
+PROD-001316,Uniqlo Tuxedo Coral,Suits,Uniqlo,Fast Fashion,XS,Green,77.0,59
+PROD-001317,Uniqlo Business YellowGreen,Suits,Uniqlo,Fast Fashion,XS,DarkKhaki,126.0,0
+PROD-001318,Tommy Hilfiger Oxford DarkMagenta,Shirts,Tommy Hilfiger,Premium,M,HotPink,467.0,0
+PROD-001319,H&M Business MediumOrchid,Suits,H&M,Fast Fashion,M,Bisque,105.0,15
+PROD-001320,Levi's Oxford Violet,Shirts,Levi's,Premium,XS,WhiteSmoke,724.0,0
+PROD-001321,Zara Oxford DarkGreen,Shirts,Zara,Fast Fashion,XS,GreenYellow,103.0,40
+PROD-001322,Louis Vuitton Business CadetBlue,Suits,Louis Vuitton,Luxury,XS,LimeGreen,1259.0,0
+PROD-001323,Levi's Maxi LightGray,Dresses,Levi's,Premium,M,AntiqueWhite,775.0,0
+PROD-001324,Zara Maxi LavenderBlush,Dresses,Zara,Fast Fashion,M,DarkOrchid,127.0,8
+PROD-001325,Zara Chinos LightSkyBlue,Pants,Zara,Fast Fashion,S,LightSeaGreen,50.0,40
+PROD-001326,Uniqlo Oxford Thistle,Shirts,Uniqlo,Fast Fashion,M,DarkOrange,222.0,0
+PROD-001327,Levi's Designer Jeans Violet,Pants,Levi's,Premium,L,Azure,440.0,3
+PROD-001328,Zara Three-piece Tan,Suits,Zara,Fast Fashion,M,OliveDrab,150.0,23
+PROD-001329,Uniqlo Three-piece MediumPurple,Suits,Uniqlo,Fast Fashion,L,Linen,245.0,4
+PROD-001330,Zara Cocktail LightBlue,Dresses,Zara,Fast Fashion,L,Gainsboro,56.0,65
+PROD-001331,Louis Vuitton Trench LightSeaGreen,Jackets,Louis Vuitton,Luxury,M,Coral,3750.0,0
+PROD-001332,Zara Oxford DarkGreen,Shirts,Zara,Fast Fashion,M,Orange,116.0,66
+PROD-001333,Zara Evening Gown Tomato,Dresses,Zara,Fast Fashion,XL,IndianRed,63.0,35
+PROD-001334,Calvin Klein Bomber LightCyan,Jackets,Calvin Klein,Premium,XL,MediumPurple,728.0,0
+PROD-001335,Uniqlo Maxi Lime,Dresses,Uniqlo,Fast Fashion,M,DarkOrchid,200.0,0
+PROD-001336,H&M Business MistyRose,Suits,H&M,Fast Fashion,L,OrangeRed,45.0,7
+PROD-001337,Uniqlo Oxford Ivory,Shirts,Uniqlo,Fast Fashion,M,DarkGreen,259.0,13
+PROD-001338,Calvin Klein Business MistyRose,Suits,Calvin Klein,Premium,M,DarkOrange,757.0,4
+PROD-001339,Calvin Klein Maxi MistyRose,Dresses,Calvin Klein,Premium,S,Wheat,518.0,0
+PROD-001340,Balenciaga Trousers ForestGreen,Pants,Balenciaga,Luxury,XL,LightSteelBlue,3956.0,0
+PROD-001341,Calvin Klein Trousers DarkTurquoise,Pants,Calvin Klein,Premium,M,Chocolate,195.0,0
+PROD-001342,H&M Oxford SeaShell,Shirts,H&M,Fast Fashion,XL,DarkMagenta,274.0,13
+PROD-001343,Calvin Klein Trousers Thistle,Pants,Calvin Klein,Premium,L,DeepPink,185.0,0
+PROD-001344,Balenciaga Three-piece LawnGreen,Suits,Balenciaga,Luxury,XS,SlateGray,4940.0,1
+PROD-001345,Zara Oxford DeepSkyBlue,Shirts,Zara,Fast Fashion,M,SeaGreen,79.0,32
+PROD-001346,H&M Leather DimGray,Jackets,H&M,Fast Fashion,XS,Silver,199.0,47
+PROD-001347,Uniqlo Chinos DarkGray,Pants,Uniqlo,Fast Fashion,S,GhostWhite,272.0,28
+PROD-001348,Uniqlo Trench LightGoldenRodYellow,Jackets,Uniqlo,Fast Fashion,M,SlateBlue,68.0,52
+PROD-001349,Gucci Chinos SlateBlue,Pants,Gucci,Luxury,L,DeepSkyBlue,2099.0,0
+PROD-001350,Levi's Tuxedo Azure,Suits,Levi's,Premium,M,LightCoral,498.0,3
+PROD-001351,Tommy Hilfiger Leather LavenderBlush,Jackets,Tommy Hilfiger,Premium,XS,OliveDrab,347.0,0
+PROD-001352,H&M Trousers LemonChiffon,Pants,H&M,Fast Fashion,M,Salmon,128.0,6
+PROD-001353,Levi's Oxford Brown,Shirts,Levi's,Premium,S,PowderBlue,681.0,9
+PROD-001354,Levi's Leather MediumBlue,Jackets,Levi's,Premium,M,FireBrick,791.0,0
+PROD-001355,Zara Chinos Orchid,Pants,Zara,Fast Fashion,S,SeaGreen,51.0,5
+PROD-001356,Calvin Klein Oxford LawnGreen,Shirts,Calvin Klein,Premium,M,LightYellow,650.0,0
+PROD-001357,Calvin Klein Linen MidnightBlue,Shirts,Calvin Klein,Premium,XL,AntiqueWhite,711.0,0
+PROD-001358,Calvin Klein Leather DarkOrange,Jackets,Calvin Klein,Premium,L,DarkOrange,158.0,0
+PROD-001359,Tommy Hilfiger Trousers MediumSlateBlue,Pants,Tommy Hilfiger,Premium,M,DarkGreen,592.0,1
+PROD-001360,Levi's Three-piece LightPink,Suits,Levi's,Premium,M,LightPink,718.0,0
+PROD-001361,Uniqlo Trousers Gold,Pants,Uniqlo,Fast Fashion,M,DeepPink,142.0,0
+PROD-001362,Tommy Hilfiger Leather HoneyDew,Jackets,Tommy Hilfiger,Premium,M,RoyalBlue,388.0,8
+PROD-001363,Calvin Klein Business LightSlateGray,Suits,Calvin Klein,Premium,S,DarkViolet,498.0,0
+PROD-001364,Calvin Klein Chinos YellowGreen,Pants,Calvin Klein,Premium,L,LightGoldenRodYellow,283.0,0
+PROD-001365,Zara Chinos OliveDrab,Pants,Zara,Fast Fashion,XS,Green,76.0,81
+PROD-001366,Uniqlo Silk HoneyDew,Shirts,Uniqlo,Fast Fashion,M,LavenderBlush,132.0,21
+PROD-001367,Uniqlo Designer Jeans DeepSkyBlue,Pants,Uniqlo,Fast Fashion,M,DarkMagenta,91.0,0
+PROD-001368,H&M Business Indigo,Suits,H&M,Fast Fashion,M,HotPink,223.0,82
+PROD-001369,H&M Designer Jeans Green,Pants,H&M,Fast Fashion,L,DarkKhaki,273.0,20
+PROD-001370,Uniqlo Cocktail ForestGreen,Dresses,Uniqlo,Fast Fashion,S,LightPink,156.0,29
+PROD-001371,H&M Tuxedo DarkMagenta,Suits,H&M,Fast Fashion,M,Black,26.0,37
+PROD-001372,Louis Vuitton Three-piece SeaGreen,Suits,Louis Vuitton,Luxury,S,BlueViolet,3862.0,0
+PROD-001373,H&M Linen Wheat,Shirts,H&M,Fast Fashion,L,Blue,64.0,77
+PROD-001374,Zara Tuxedo Peru,Suits,Zara,Fast Fashion,M,Black,222.0,70
+PROD-001375,Calvin Klein Business DarkGray,Suits,Calvin Klein,Premium,M,Snow,502.0,0
+PROD-001376,Tommy Hilfiger Tuxedo DimGray,Suits,Tommy Hilfiger,Premium,L,CadetBlue,759.0,0
+PROD-001377,Uniqlo Business HotPink,Suits,Uniqlo,Fast Fashion,L,SkyBlue,50.0,2
+PROD-001378,Gucci Designer Jeans OrangeRed,Pants,Gucci,Luxury,L,Peru,4321.0,2
+PROD-001379,Tommy Hilfiger Business LightCoral,Suits,Tommy Hilfiger,Premium,M,Violet,176.0,0
+PROD-001380,Tommy Hilfiger Designer Jeans LavenderBlush,Pants,Tommy Hilfiger,Premium,S,LightGray,661.0,0
+PROD-001381,Balenciaga Silk DimGray,Shirts,Balenciaga,Luxury,L,DeepSkyBlue,890.0,4
+PROD-001382,Calvin Klein Cocktail Moccasin,Dresses,Calvin Klein,Premium,L,LightCyan,406.0,0
+PROD-001383,Zara Business LightSeaGreen,Suits,Zara,Fast Fashion,S,Aqua,284.0,75
+PROD-001384,Uniqlo Tuxedo DarkOliveGreen,Suits,Uniqlo,Fast Fashion,L,LightSkyBlue,61.0,60
+PROD-001385,H&M Designer Jeans SlateGray,Pants,H&M,Fast Fashion,L,MediumSpringGreen,127.0,0
+PROD-001386,Zara Maxi MintCream,Dresses,Zara,Fast Fashion,XL,Turquoise,172.0,29
+PROD-001387,H&M Cocktail Brown,Dresses,H&M,Fast Fashion,L,Snow,211.0,83
+PROD-001388,H&M Tuxedo Purple,Suits,H&M,Fast Fashion,M,HotPink,78.0,11
+PROD-001389,H&M Business LightGray,Suits,H&M,Fast Fashion,L,DarkSlateGray,157.0,67
+PROD-001390,Zara Chinos DarkOrange,Pants,Zara,Fast Fashion,L,LightGreen,26.0,43
+PROD-001391,Levi's Bomber MidnightBlue,Jackets,Levi's,Premium,L,PaleTurquoise,394.0,3
+PROD-001392,H&M Cocktail MediumSlateBlue,Dresses,H&M,Fast Fashion,L,Bisque,138.0,81
+PROD-001393,Calvin Klein Chinos Gainsboro,Pants,Calvin Klein,Premium,XS,Ivory,443.0,0
+PROD-001394,Calvin Klein Cocktail CornflowerBlue,Dresses,Calvin Klein,Premium,M,MediumPurple,609.0,10
+PROD-001395,Levi's Business LightBlue,Suits,Levi's,Premium,S,MediumTurquoise,532.0,0
+PROD-001396,H&M Cocktail Gainsboro,Dresses,H&M,Fast Fashion,XS,AliceBlue,256.0,40
+PROD-001397,Zara Oxford AliceBlue,Shirts,Zara,Fast Fashion,XS,DeepPink,177.0,0
+PROD-001398,Tommy Hilfiger Cocktail SkyBlue,Dresses,Tommy Hilfiger,Premium,XL,RosyBrown,729.0,4
+PROD-001399,Levi's Silk PowderBlue,Shirts,Levi's,Premium,M,Violet,420.0,0
+PROD-001400,Uniqlo Three-piece Crimson,Suits,Uniqlo,Fast Fashion,XL,LightSeaGreen,222.0,18
+PROD-001401,Louis Vuitton Cocktail Green,Dresses,Louis Vuitton,Luxury,XS,Peru,3387.0,4
+PROD-001402,Zara Bomber Tomato,Jackets,Zara,Fast Fashion,XL,IndianRed,211.0,17
+PROD-001403,H&M Designer Jeans GreenYellow,Pants,H&M,Fast Fashion,M,MediumSeaGreen,127.0,5
+PROD-001404,Calvin Klein Linen CadetBlue,Shirts,Calvin Klein,Premium,S,SeaGreen,797.0,0
+PROD-001405,H&M Oxford Navy,Shirts,H&M,Fast Fashion,S,SlateBlue,288.0,0
+PROD-001406,Uniqlo Bomber SpringGreen,Jackets,Uniqlo,Fast Fashion,L,Bisque,263.0,0
+PROD-001407,Levi's Maxi LightSeaGreen,Dresses,Levi's,Premium,L,LavenderBlush,605.0,7
+PROD-001408,H&M Business OldLace,Suits,H&M,Fast Fashion,M,MistyRose,60.0,0
+PROD-001409,H&M Trench Teal,Jackets,H&M,Fast Fashion,S,MediumSlateBlue,42.0,71
+PROD-001410,Calvin Klein Trench LightGreen,Jackets,Calvin Klein,Premium,M,DarkOrange,413.0,6
+PROD-001411,Levi's Maxi DeepPink,Dresses,Levi's,Premium,L,Olive,606.0,3
+PROD-001412,Tommy Hilfiger Designer Jeans Turquoise,Pants,Tommy Hilfiger,Premium,M,Salmon,156.0,1
+PROD-001413,Uniqlo Silk PaleGreen,Shirts,Uniqlo,Fast Fashion,L,Plum,291.0,38
+PROD-001414,Uniqlo Trench SteelBlue,Jackets,Uniqlo,Fast Fashion,M,SlateGray,23.0,82
+PROD-001415,Uniqlo Oxford RoyalBlue,Shirts,Uniqlo,Fast Fashion,XS,DarkGoldenRod,283.0,0
+PROD-001416,Levi's Linen Teal,Shirts,Levi's,Premium,L,Teal,655.0,0
+PROD-001417,Prada Maxi Peru,Dresses,Prada,Luxury,L,SandyBrown,4288.0,0
+PROD-001418,Balenciaga Three-piece DarkRed,Suits,Balenciaga,Luxury,M,Khaki,2705.0,0
+PROD-001419,Uniqlo Silk LightSteelBlue,Shirts,Uniqlo,Fast Fashion,M,MidnightBlue,257.0,20
+PROD-001420,H&M Cocktail Black,Dresses,H&M,Fast Fashion,XS,Red,280.0,47
+PROD-001421,Versace Chinos MediumOrchid,Pants,Versace,Luxury,M,MintCream,3458.0,14
+PROD-001422,Uniqlo Bomber Yellow,Jackets,Uniqlo,Fast Fashion,L,DarkSlateBlue,281.0,25
+PROD-001423,H&M Three-piece Beige,Suits,H&M,Fast Fashion,M,Aquamarine,124.0,15
+PROD-001424,Uniqlo Designer Jeans Crimson,Pants,Uniqlo,Fast Fashion,XS,SpringGreen,199.0,90
+PROD-001425,Calvin Klein Three-piece MediumTurquoise,Suits,Calvin Klein,Premium,S,MediumSlateBlue,176.0,0
+PROD-001426,Uniqlo Oxford DarkTurquoise,Shirts,Uniqlo,Fast Fashion,M,Cornsilk,31.0,10
+PROD-001427,Tommy Hilfiger Cocktail RoyalBlue,Dresses,Tommy Hilfiger,Premium,M,FloralWhite,608.0,0
+PROD-001428,Uniqlo Silk OrangeRed,Shirts,Uniqlo,Fast Fashion,XL,Orange,257.0,4
+PROD-001429,Balenciaga Designer Jeans PaleGoldenRod,Pants,Balenciaga,Luxury,M,LightSlateGray,2020.0,0
+PROD-001430,Calvin Klein Cocktail LightSteelBlue,Dresses,Calvin Klein,Premium,L,Moccasin,764.0,0
+PROD-001431,Zara Silk GoldenRod,Shirts,Zara,Fast Fashion,S,DarkOrange,221.0,0
+PROD-001432,Uniqlo Trench Khaki,Jackets,Uniqlo,Fast Fashion,S,White,162.0,0
+PROD-001433,Calvin Klein Chinos Gainsboro,Pants,Calvin Klein,Premium,M,Lime,496.0,0
+PROD-001434,Levi's Maxi IndianRed,Dresses,Levi's,Premium,XS,Tomato,726.0,0
+PROD-001435,Uniqlo Leather Silver,Jackets,Uniqlo,Fast Fashion,M,Tan,38.0,20
+PROD-001436,Uniqlo Business Chocolate,Suits,Uniqlo,Fast Fashion,L,HoneyDew,55.0,59
+PROD-001437,Zara Leather SandyBrown,Jackets,Zara,Fast Fashion,S,DarkGoldenRod,81.0,0
+PROD-001438,H&M Three-piece MediumAquaMarine,Suits,H&M,Fast Fashion,M,Peru,171.0,66
+PROD-001439,Uniqlo Oxford Gainsboro,Shirts,Uniqlo,Fast Fashion,S,DarkGreen,98.0,32
+PROD-001440,Tommy Hilfiger Trench Plum,Jackets,Tommy Hilfiger,Premium,M,IndianRed,752.0,0
+PROD-001441,Uniqlo Trousers Brown,Pants,Uniqlo,Fast Fashion,S,LightSkyBlue,251.0,67
+PROD-001442,Uniqlo Chinos LemonChiffon,Pants,Uniqlo,Fast Fashion,XS,Teal,297.0,57
+PROD-001443,Zara Three-piece MediumSlateBlue,Suits,Zara,Fast Fashion,M,DarkGray,123.0,0
+PROD-001444,Levi's Business Orchid,Suits,Levi's,Premium,S,PowderBlue,532.0,0
+PROD-001445,Calvin Klein Linen PapayaWhip,Shirts,Calvin Klein,Premium,L,OrangeRed,556.0,0
+PROD-001446,Uniqlo Business MediumOrchid,Suits,Uniqlo,Fast Fashion,XS,Salmon,288.0,62
+PROD-001447,Gucci Silk Maroon,Shirts,Gucci,Luxury,M,Lime,2016.0,0
+PROD-001448,Uniqlo Linen LightYellow,Shirts,Uniqlo,Fast Fashion,M,RosyBrown,280.0,50
+PROD-001449,Calvin Klein Oxford Aqua,Shirts,Calvin Klein,Premium,XS,SeaGreen,159.0,8
+PROD-001450,Zara Trench DarkOliveGreen,Jackets,Zara,Fast Fashion,XS,OliveDrab,48.0,0
+PROD-001451,Calvin Klein Three-piece MediumAquaMarine,Suits,Calvin Klein,Premium,M,Linen,222.0,0
+PROD-001452,H&M Business DarkTurquoise,Suits,H&M,Fast Fashion,M,LightGray,40.0,83
+PROD-001453,Uniqlo Designer Jeans LightSeaGreen,Pants,Uniqlo,Fast Fashion,S,Azure,170.0,0
+PROD-001454,H&M Designer Jeans CornflowerBlue,Pants,H&M,Fast Fashion,M,MediumBlue,273.0,23
+PROD-001455,Calvin Klein Maxi PowderBlue,Dresses,Calvin Klein,Premium,S,Green,542.0,0
+PROD-001456,Calvin Klein Evening Gown Olive,Dresses,Calvin Klein,Premium,XS,DarkRed,387.0,5
+PROD-001457,Zara Bomber HoneyDew,Jackets,Zara,Fast Fashion,S,Maroon,121.0,25
+PROD-001458,Balenciaga Trousers SandyBrown,Pants,Balenciaga,Luxury,M,LimeGreen,3426.0,0
+PROD-001459,Uniqlo Three-piece MediumAquaMarine,Suits,Uniqlo,Fast Fashion,M,Sienna,34.0,76
+PROD-001460,Uniqlo Chinos LightSalmon,Pants,Uniqlo,Fast Fashion,L,BurlyWood,114.0,20
+PROD-001461,Uniqlo Bomber Green,Jackets,Uniqlo,Fast Fashion,M,Teal,254.0,71
+PROD-001462,Levi's Cocktail NavajoWhite,Dresses,Levi's,Premium,M,DarkOliveGreen,697.0,0
+PROD-001463,Tommy Hilfiger Linen MediumVioletRed,Shirts,Tommy Hilfiger,Premium,S,Lime,575.0,0
+PROD-001464,H&M Evening Gown Salmon,Dresses,H&M,Fast Fashion,M,DarkSalmon,22.0,6
+PROD-001465,Gucci Tuxedo LightGray,Suits,Gucci,Luxury,XL,BurlyWood,1572.0,0
+PROD-001466,Levi's Trench Green,Jackets,Levi's,Premium,M,MediumOrchid,730.0,4
+PROD-001467,Zara Designer Jeans CornflowerBlue,Pants,Zara,Fast Fashion,S,SteelBlue,124.0,24
+PROD-001468,Zara Three-piece MistyRose,Suits,Zara,Fast Fashion,S,SlateGray,174.0,39
+PROD-001469,Levi's Maxi Wheat,Dresses,Levi's,Premium,L,LightSlateGray,564.0,0
+PROD-001470,Zara Trench PeachPuff,Jackets,Zara,Fast Fashion,M,DarkViolet,147.0,31
+PROD-001471,Louis Vuitton Oxford PeachPuff,Shirts,Louis Vuitton,Luxury,L,SteelBlue,556.0,0
+PROD-001472,Levi's Linen Aquamarine,Shirts,Levi's,Premium,M,Olive,615.0,0
+PROD-001473,H&M Evening Gown Purple,Dresses,H&M,Fast Fashion,M,Moccasin,296.0,0
+PROD-001474,Zara Silk DarkSeaGreen,Shirts,Zara,Fast Fashion,S,Moccasin,43.0,10
+PROD-001475,Levi's Business Turquoise,Suits,Levi's,Premium,XL,Navy,788.0,11
+PROD-001476,Calvin Klein Designer Jeans Orange,Pants,Calvin Klein,Premium,M,BlanchedAlmond,733.0,0
+PROD-001477,H&M Oxford GoldenRod,Shirts,H&M,Fast Fashion,L,LightGray,194.0,81
+PROD-001478,Zara Linen SkyBlue,Shirts,Zara,Fast Fashion,XL,Teal,263.0,46
+PROD-001479,Tommy Hilfiger Silk DarkOrchid,Shirts,Tommy Hilfiger,Premium,M,DarkBlue,525.0,0
+PROD-001480,Tommy Hilfiger Trench DarkOrchid,Jackets,Tommy Hilfiger,Premium,S,SteelBlue,194.0,0
+PROD-001481,Zara Trench LightSkyBlue,Jackets,Zara,Fast Fashion,M,Chocolate,208.0,24
+PROD-001482,Zara Maxi Cyan,Dresses,Zara,Fast Fashion,L,Pink,136.0,10
+PROD-001483,Tommy Hilfiger Business Plum,Suits,Tommy Hilfiger,Premium,XL,MediumAquaMarine,511.0,0
+PROD-001484,Zara Designer Jeans Peru,Pants,Zara,Fast Fashion,XL,Moccasin,74.0,50
+PROD-001485,Uniqlo Evening Gown Plum,Dresses,Uniqlo,Fast Fashion,S,White,69.0,19
+PROD-001486,Uniqlo Maxi DarkGreen,Dresses,Uniqlo,Fast Fashion,M,Tan,226.0,82
+PROD-001487,Levi's Maxi Cyan,Dresses,Levi's,Premium,XS,PaleGreen,412.0,0
+PROD-001488,Calvin Klein Linen CornflowerBlue,Shirts,Calvin Klein,Premium,S,ForestGreen,716.0,0
+PROD-001489,Zara Bomber DarkGoldenRod,Jackets,Zara,Fast Fashion,S,MistyRose,262.0,8
+PROD-001490,Levi's Trousers Gray,Pants,Levi's,Premium,M,OrangeRed,585.0,0
+PROD-001491,Tommy Hilfiger Bomber CadetBlue,Jackets,Tommy Hilfiger,Premium,S,SandyBrown,582.0,0
+PROD-001492,Tommy Hilfiger Maxi Olive,Dresses,Tommy Hilfiger,Premium,M,Silver,635.0,0
+PROD-001493,Zara Cocktail Ivory,Dresses,Zara,Fast Fashion,L,MediumBlue,182.0,64
+PROD-001494,H&M Oxford Coral,Shirts,H&M,Fast Fashion,M,SeaGreen,239.0,47
+PROD-001495,Tommy Hilfiger Trench Black,Jackets,Tommy Hilfiger,Premium,L,Green,323.0,0
+PROD-001496,Uniqlo Chinos Maroon,Pants,Uniqlo,Fast Fashion,XL,IndianRed,147.0,26
+PROD-001497,Calvin Klein Three-piece LightGray,Suits,Calvin Klein,Premium,L,RoyalBlue,196.0,0
+PROD-001498,Zara Linen MintCream,Shirts,Zara,Fast Fashion,L,Coral,159.0,76
+PROD-001499,Versace Leather MistyRose,Jackets,Versace,Luxury,XS,GreenYellow,4427.0,5
+PROD-001500,Uniqlo Leather LightSteelBlue,Jackets,Uniqlo,Fast Fashion,M,Gainsboro,130.0,5
