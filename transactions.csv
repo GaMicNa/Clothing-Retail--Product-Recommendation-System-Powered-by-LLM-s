@@ -1,6 +1,0 @@
-transaction_id,customer_id,product_id,quantity,purchase_date,payment_method,price,total_amount,return_status
-1,5001,732,1,2025-01-01 19:23:49,Debit Card,494.88,494.88,False
-2,3225,788,2,2025-01-02 18:38:22,Debit Card,82.99,165.98,False
-3,3263,1319,2,2025-01-03 08:28:53,Credit Card,294.19,588.38,False
-4,1615,505,2,2023-01-04 08:53:41,Credit Card,44.29,88.58,False
-5,2169,415,2,2023-01-05 02:21:02,Credit Card,119.52,239.04,False
