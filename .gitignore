@@ -55,6 +55,7 @@ secrets.toml
 =======
 >>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
 # Entornos virtuales
+**/venv/
 venv/
 env/
 .venv/
