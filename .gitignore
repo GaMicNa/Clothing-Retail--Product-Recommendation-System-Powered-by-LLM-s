@@ -1,6 +1,7 @@
 credentials.json
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 google-api-key.json
 
 .vscode/
@@ -56,6 +57,9 @@ secrets.toml
 >>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
 # Entornos virtuales
 **/venv/
+=======
+# Entornos virtuales
+>>>>>>> origin/master
 venv/
 env/
 .venv/
@@ -78,6 +82,9 @@ __pycache__/
 .vscode/
 .idea/
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
 =======
 >>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
+=======
+>>>>>>> origin/master
