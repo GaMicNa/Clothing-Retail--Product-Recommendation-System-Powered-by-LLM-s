@@ -1,1 +1,23 @@
 credentials.json
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+virtualenv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Archivos sensibles
+.env
+*.key
+*.json
+
+# Configuración de IDE
+.vscode/
+.idea/
