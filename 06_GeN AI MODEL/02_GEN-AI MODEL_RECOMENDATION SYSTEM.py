@@ -17,6 +17,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.chains.retrieval_qa.base import RetrievalQA
 from pydantic import BaseModel  # Usar Pydantic V2 directamente
 import streamlit as st
+import os
 
 # --- Configuración de Streamlit ---
 st.set_page_config(page_title="Asistente de Moda IA", layout="wide")
@@ -82,9 +83,9 @@ vector_db = setup_embeddings()
 def setup_gemini():
     return ChatGoogleGenerativeAI(
         model="gemini-pro",
-        google_api_key="AIzaSyBO0JURYEXi-up4dvUbjwjonSRpZcB92TU",  # Reemplazar con tu API key
+        google_api_key=os.getenv("GOOGLE_API_KEY"),  # Modificación aquí
         temperature=0.3,
-        convert_system_message_to_human=True  # Corrección 1
+        convert_system_message_to_human=True
     )
 
 llm = setup_gemini()
