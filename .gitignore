@@ -1,18 +1,9 @@
 credentials.json
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 google-api-key.json
 
 .vscode/
 .streamlit/secrets.toml
 *.json
-
-venv/
-env/
-.venv/
-venv*/
-virtualenv/
 
 .streamlit/cache/
 
@@ -23,6 +14,9 @@ env/
 venv*/
 virtualenv/
 *.env
+.venv/
+venv*/
+virtualenv/
 
 # --- Archivos de Python y caché ---
 __pycache__/
@@ -37,11 +31,10 @@ __pycache__/
 .secrets/
 secrets.toml
 *.key
-*.json  # Si tienes credenciales descargadas
+*.json
 
 # --- Datos y logs ---
 *.log
-
 
 # --- Configuración del sistema/IDE ---
 .DS_Store
@@ -54,12 +47,11 @@ secrets.toml
 .streamlit/cache/
 =======
 =======
->>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
+
 # Entornos virtuales
 **/venv/
 =======
 # Entornos virtuales
->>>>>>> origin/master
 venv/
 env/
 .venv/
@@ -81,10 +73,3 @@ __pycache__/
 # Configuración de IDE
 .vscode/
 .idea/
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
-=======
->>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
-=======
->>>>>>> origin/master
