@@ -1,7 +1,14 @@
 credentials.json
 google-api-key.json
-env/
-venv/
+
 .vscode/
 .streamlit/secrets.toml
 *.json
+
+venv/
+env/
+.venv/
+venv*/
+virtualenv/
+
+.streamlit/cache/
