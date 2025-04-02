@@ -1,5 +1,6 @@
 credentials.json
 <<<<<<< HEAD
+<<<<<<< HEAD
 google-api-key.json
 
 .vscode/
@@ -51,6 +52,8 @@ secrets.toml
 # --- Streamlit temporal files ---
 .streamlit/cache/
 =======
+=======
+>>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
 # Entornos virtuales
 venv/
 env/
@@ -73,4 +76,7 @@ __pycache__/
 # Configuración de IDE
 .vscode/
 .idea/
+<<<<<<< HEAD
+>>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
+=======
 >>>>>>> 984f64e1bbada7da112dd5b377a8e308b3536f2b
