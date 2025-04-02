@@ -12,3 +12,40 @@ venv*/
 virtualenv/
 
 .streamlit/cache/
+
+# --- Entornos virtuales ---
+venv/
+env/
+.venv/
+venv*/
+virtualenv/
+*.env
+
+# --- Archivos de Python y caché ---
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+*.so
+
+# --- Archivos sensibles/entorno ---
+.env
+.secrets/
+secrets.toml
+*.key
+*.json  # Si tienes credenciales descargadas
+
+# --- Datos y logs ---
+*.log
+
+
+# --- Configuración del sistema/IDE ---
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Streamlit temporal files ---
+.streamlit/cache/
