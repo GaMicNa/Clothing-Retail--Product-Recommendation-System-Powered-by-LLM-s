@@ -1,0 +1,10 @@
+torch>=2.2.0 # Usa la última versión compatible de PyTorch
+streamlit>=1.36.0 # Usa la última versión estable de Streamlit
+sentence-transformers>=2.2.2
+langchain>=0.3.0 # Usa la versión más reciente de LangChain
+langchain-community>=0.3.0 # Usa la versión más reciente de LangChain Community
+pydantic>=2.7.3
+google-generativeai>=0.8.4
+faiss-cpu>=1.8.0
+pandas>=2.2.2
+huggingface_hub>=0.23.0
